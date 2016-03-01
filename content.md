@@ -1,35 +1,35 @@
-#Rapid Prototyping
+#Participation Workshops
 
-Based on the "Rapid Prototyping Talk by Tom Chi - Build effective, cutting-edge product prototypes in support of an ongoing innovation process.
+## Bundle 1
+Description of Bundle 1
 
-###Session Objectives
+### [Personal Leadership](http://mozilla.github.io/participation-curriculum/personal-leadership/index.html#)
 
-* Apply Design Thinking principals to a "real world" design problem (paper airplanes)
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
-###Learning Objectives
 
-* Understand the advantages and disadvantages of Design Thinking, and how best to apply it when prototyping.
+### [Rapid Prototyping](http://mozilla.github.io/participation-curriculum/rapid-prototyping/index.html#)
 
-##Agenda
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
-1. Intro presentation about Design Thinking and rapid prototyping
-2. Design Challenge, Use rapid prototyping to make a paper airplane that flies the furthest.
-3. Have teams come up and talk about their process. What worked, what didn't work for making plane better.
-4. Contest: see whose plane flies the furthest (more for fun than about Design Thinking)
+### Mentoring & Coaching
 
-##Notes
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
-* Teams didn't work too well, most people wanted to make paper airplanes on their own (which is fine)
-* Make sure teams document everything (what is their hypothesis, how far did each plan fly, how many iterations did they make, etc.)
-* Have a dedicated space for flying and measuring plane distance, otherwise someone will lose an eye
-* In the end, a crumpled wad of paper won our competition. This is a nice teaching device for making hypothesis that challenge the nature of the game
+### The Art of Community Comms
 
-##Facilitators
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
-* Michael
-* Pierros
 
-##Documents & Links
+### Running an Awesome Hackathon
 
-* [Rapid Prototyping Slides](http://mikehenrty.github.io/talk-rapid-prototyping/#/)
-* [Air Mozilla Talk](https://air.mozilla.org/july-brantina-on-prototyping-with-tom-chi/)
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+
+
+### Unconcious Bias
+
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+
+### Ideas to Action
+
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
