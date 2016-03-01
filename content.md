@@ -1,6 +1,5 @@
 #Participation Leadership Workshops
 
-### Bundle 1
 Description of Bundle 1   
 [Download Zip File]()
 
