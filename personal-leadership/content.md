@@ -10,7 +10,8 @@ This is a foundational session for Personal Leadership in Mozilla.  This engagin
  * Internalize that “Teaming” -- forming and building effective teams -- is crucial for our communities to have impact in this next phase of Mozilla’s mission.
  * Understand own personality type (through the Myers-Briggs Type Indicator), how this differs from others, and how this related to effective teams.
  
- ### Audience
+### Audience
+
 * Leaders and emerging leaders at Mozilla, or any FOSS community interested in building strong teams.
 * Regional community groups.
 * Professional leaders interested in investing volunteer time in Mozilla's community.
