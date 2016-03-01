@@ -2,7 +2,7 @@
 
 # Overview
 
-This is a foundational session for Personal Leadership in Mozilla.  This fun, fast-paced workshop will equip participants with the opportunity to deepen self awarenes while exploring how others may learn, adapt, and percieve similar problems and situations differently. These foundational skills are key to building strong effective teams in Mozilla's volunteer communities.
+This is a foundational session for Personal Leadership in Mozilla.  This engaging workshop will equip participants with the opportunity to deepen self awarenes while exploring how others may learn, adapt, and percieve similar problems and situations differently. These foundational skills are key to building strong effective teams in Mozilla's volunteer communities.
 
 ### Learning Objectives
 
@@ -20,7 +20,7 @@ This is a foundational session for Personal Leadership in Mozilla.  This fun, fa
 ###Materials
 
 1. 16 Personalities [MBTI Test](http://www.16personalities.com).
-2. Slide Deck ((Google Doc)[https://docs.google.com/presentation/d/1tru38OUlIieZGK1n509AxVoLjwX-2G76eFOgJ4iyyEE/edit#slide=id.g106fcc9247_0_169]), ([PDF](personal-leadership.pdf)
+2. Slide Deck [(Google Doc)](https://docs.google.com/presentation/d/1tru38OUlIieZGK1n509AxVoLjwX-2G76eFOgJ4iyyEE/edit#slide=id.g106fcc9247_0_169), ([PDF])(personal-leadership.pdf)
 3. FlipChart
 4. Projector
 5. Markers
