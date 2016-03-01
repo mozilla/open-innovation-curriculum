@@ -1,4 +1,4 @@
-[<<back](http://www.zdnet.com/article/the-linux-foundations-zephyr-project-building-an-operating-system-for-iot-devices/)
+[ HOME ](http://mozilla.github.io/participation-curriculum/)
 
 #Description
 
