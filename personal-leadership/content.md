@@ -1,37 +1,35 @@
 [ HOME ](http://mozilla.github.io/participation-curriculum/)
 
-#Description
+# Overview
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam porttitor risus ut neque aliquet, ac lacinia est placerat. Phasellus eget nisi ligula. Nulla eleifend efficitur mattis. In hac habitasse platea dictumst. Etiam sit amet lacus metus. Praesent sit amet velit nisl. Quisque mattis, ex non consequat scelerisque, lacus mauris pharetra nunc, nec consequat magna felis eu elit. Integer a consequat leo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+This is a foundational session for Personal Leadership in Mozilla.  This fun, fast-paced workshop will equip participants with the opportunity to deepen self awarenes while exploring how others may learn, adapt, and percieve similar problems and situations differently. These foundational skills are key to building strong effective teams in Mozilla's volunteer communities.
 
-* This is a bullet in an un-ordered list
-* This is a bullet in an un-ordered list
-* This is a bullet in an un-ordered list
+### Learning Objectives
 
-##Learning Outcomes
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam porttitor risus ut neque aliquet, ac lacinia est placerat. Phasellus eget nisi ligula. Nulla eleifend efficitur mattis. In hac habitasse platea dictumst. Etiam sit amet lacus metus. Praesent sit amet velit nisl. Quisque mattis, ex non consequat scelerisque, lacus mauris pharetra nunc, nec consequat magna felis eu elit. Integer a consequat leo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+ * Internalize that “leadership is a refactoring job” -- that self-development and learning are keys to effectively mobilizing others and leading teams in Mozilla.
+ * Internalize that “Teaming” -- forming and building effective teams -- is crucial for our communities to have impact in this next phase of Mozilla’s mission.
+ * Understand own personality type (through the Myers-Briggs Type Indicator), how this differs from others, and how this related to effective teams.
+ 
+ ### Audience
+* Leaders and emerging leaders at Mozilla, or any FOSS community interested in building strong teams.
+* Regional community groups.
+* Professional leaders interested in investing volunteer time in Mozilla's community.
+* Youth leaders.
+* Project teams, that inlude volunteers.
 
 ###Materials
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam porttitor risus ut neque aliquet, ac lacinia est placerat. Phasellus eget nisi ligula. Nulla eleifend efficitur mattis.
+1. 16 Personalities [MBTI Test](http://www.16personalities.com).
+2. Slide Deck ((Google Doc)[https://docs.google.com/presentation/d/1tru38OUlIieZGK1n509AxVoLjwX-2G76eFOgJ4iyyEE/edit#slide=id.g106fcc9247_0_169]), ([PDF](personal-leadership.pdf)
+3. FlipChart
+4. Projector
+5. Markers
+6. Paper for each participant (if they don’t have a notebook)
+7. Pen for each participant
 
-1. This is a bullet point in a numbered list
-2. This is a bullet point in a numbered list
-3. This is a bullet point in a numbered list
+### Attendee Pre-Work
 
-###Preparation
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam porttitor risus ut neque aliquet, ac lacinia est placerat. Phasellus eget nisi ligula. Nulla eleifend efficitur mattis.
-
-* [This is a link](http://example.com)
-* [This is another link](http://example.com)
+Prior to the event, ask all participants to take the [16 Personalities](http://www.16personalities.com) test, and to bring their results, INCLUDING percentages.
 
 
-##Another heading
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam porttitor risus ut neque aliquet, ac lacinia est placerat. Phasellus eget nisi ligula. Nulla eleifend efficitur mattis.
-
-## And one last one
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam porttitor risus ut neque aliquet, ac lacinia est placerat. Phasellus eget nisi ligula. Nulla eleifend efficitur mattis.
