@@ -1,7 +1,3 @@
-[ HOME ](http://mozilla.github.io/participation-curriculum/)
-
-[Personal Leadership] [Empowering Teams & People]
-
 # Overview
 
 This is a foundational session for Personal Leadership in Mozilla.  This engaging workshop will equip participants with the opportunity to deepen self awarenes while exploring how others may learn, adapt, and percieve similar problems and situations differently. These foundational skills are key to building strong effective teams in Mozilla's volunteer communities.
