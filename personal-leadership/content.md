@@ -1,5 +1,3 @@
-## Overview
-
 This is a foundational session for Personal Leadership in Mozilla.  This engaging workshop will equip participants with the opportunity to deepen self awarenes while exploring how others may learn, adapt, and percieve similar problems and situations differently. These foundational skills are key to building strong effective teams in Mozilla's volunteer communities.
 
 ### Learning Objectives
@@ -16,7 +14,7 @@ This is a foundational session for Personal Leadership in Mozilla.  This engagin
 * Youth leaders.
 * Project teams, that inlude volunteers.
 
-## Materials
+### Materials
 
 1. 16 Personalities [MBTI Test](http://www.16personalities.com).
 2. Slide Deck [(Google Doc)](https://docs.google.com/presentation/d/1tru38OUlIieZGK1n509AxVoLjwX-2G76eFOgJ4iyyEE/edit#slide=id.g106fcc9247_0_169), [(PDF)](personal-leadership.pdf)
@@ -32,8 +30,11 @@ Prior to the event, ask all participants to take the [16 Personalities](http://w
 
 *Note: During this exercise, we will emphasize that the Myers-Briggs Type Indicator is merely a handy tool to increase self-awareness and the differences in how people might interact in certain situations. It isn’t meant to constrain or classify personalities: In fact it is just the opposite – it is another tool to help understand how one can adapt to different situations and interactions.*
 
+### Optional Facilitator Pre-Work
 
-## Agenda
+* []How to Grow Distributed Leadership]( https://medium.com/enspiral-tales/how-to-grow-distributed-leadership-7f6b25f0361c)
+
+### Agenda
 
 1. Agenda and workshop goals - 5 min
 2. Exploring leadership - 5 min
@@ -74,20 +75,24 @@ Here's our agenda...
 
 > Key Message: Leadership is an inside job
 
-This is a very rapid quick (5 min) exploration of leadership. It’s just meant to be a thought-starter and entry into the rest of the workshop - **the key is to not get stuck on what is, and is not leadership.**
+This is a very rapid quick (5 min) exploration of leadership. It’s just meant to be a thought-starter and entry into the rest of the workshop - **the key is to not get distracted by debate as to what is, and is not leadership.**
 
-Think for a moment about the term distributed leadership.
+Think for a moment about the term distributed leadership. What positively resonates for you about this term, in your personal experiences and optimistic vision for your community?
 
-When you think of distributed leadership -- as Mark talked about it this morning in the opening keynote -- think about what resonated positively with you. Take a minute to write down 3 positive qualities of leaders that come to mind when you think about this type of distributed leadership? Maybe you can even think of the positive traits a leader you respect has.
+Facilitation Workflow:
 
-Each person writes 3 qualities of their “example” that makes them effective at mobilizing others. (1 min)
-Each person then circles what they think is the “most important” quality (note: you can qualify “most important” as being the quality that stands out right now … no need to get hung up on this step as it’s not an academic exercise)
-Open space exercise where people move around the room to form groups of people with similar circled words (3 min)
-Facilitator: Stand up on a chair and go around to each group to hear from them on why they think that trait is really important.
-Emphasize that there is no one recipe and that no one person can be all of these things, but…
-...emphasize self-awareness to understand what traits you bring, and self development (draw this out of the group) as a critical quality to build an individual's unique (and authentic) style. (1 min)
-Put this on a flipchart or slide: “Leadership is an inside job”
-Debrief what this means to people.
+* (1 minute) Ask person to write down 3 positive qualities of leaders that come to mind when they think of distributed leadership - of positive traints a leader they respect has.
+* (1 minute) Ask each person to circle what they think is the **most important** quality.  For clarity, this is simply something that stands out right now, as being most important. Encourage people to lead with their instinct.
+* (3 minutes) Ask people to move around thhe room to form groups of people with similar circled words.  
+	* (Facililtator) Stand up on a chair and go around each group to hear from them on why they think those traits are really important.
+		* Try to echo back feedback that feels particularly meaningful to the outcomes of this workshop**
+	* Empahsize in wrapping up these 3 minutes, that no one person can be all of these things.
+* (3 minutes) Emphasize self-awareness in understnading what traits you bring, and self development as critical quality to build each individual's unqiue and authentic style.
+	* On a central Flipcart write:  "Leadership is an inside job".
+	* Ask for perspectives on what this means.
+
+	
+
 
 
 
