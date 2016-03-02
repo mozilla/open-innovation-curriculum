@@ -1,3 +1,5 @@
+![ls](https://c2.staticflickr.com/2/1448/24009148094_5ce13ab4a5.jpg)
+
 <time> 60 minutes </time>
 
 This is a foundational session for Personal Leadership in Mozilla.  This engaging workshop will equip participants with the opportunity to deepen self awareness while exploring how others may learn, adapt, and perceive similar problems and situations differently. These foundational skills are key to building strong effective teams in Mozilla's volunteer communities.
