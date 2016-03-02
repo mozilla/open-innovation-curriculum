@@ -2,6 +2,13 @@
 
 <time> 60 minutes </time>
 
+Leadership Framework: 
+<tag>Personal Leadership</tag>
+<tag>Empowering Teams & People</tag>
+<difficulty></difficulty>
+
+#### Description 
+
 This is a foundational session for Personal Leadership in Mozilla.  This engaging workshop will equip participants with the opportunity to deepen self awareness while exploring how others may learn, adapt, and perceive similar problems and situations differently. These foundational skills are key to building strong effective teams in Mozilla's volunteer communities.
 
 ### Learning Objectives
@@ -46,7 +53,6 @@ This is a foundational session for Personal Leadership in Mozilla.  This engagin
 3. Professional growth - 20 min
 4. Myers-Briggs Type Indicators - 25 min
 5. Wrap-up - 10 min
-
 
 
 ## 1) Personal Leadership
