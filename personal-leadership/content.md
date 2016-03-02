@@ -1,6 +1,6 @@
 ![ls](https://c2.staticflickr.com/2/1448/24009148094_5ce13ab4a5.jpg)
 
-
+<print>[Print](https://raw.githubusercontent.com/mozilla/participation-curriculum/master/personal-leadership/content.md)</print>
 <time> 60 minutes </time>
 
 Leadership Framework: 
