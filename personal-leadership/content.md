@@ -1,4 +1,4 @@
-# Overview
+## Overview
 
 This is a foundational session for Personal Leadership in Mozilla.  This engaging workshop will equip participants with the opportunity to deepen self awarenes while exploring how others may learn, adapt, and percieve similar problems and situations differently. These foundational skills are key to building strong effective teams in Mozilla's volunteer communities.
 
@@ -16,7 +16,7 @@ This is a foundational session for Personal Leadership in Mozilla.  This engagin
 * Youth leaders.
 * Project teams, that inlude volunteers.
 
-###Materials
+## Materials
 
 1. 16 Personalities [MBTI Test](http://www.16personalities.com).
 2. Slide Deck [(Google Doc)](https://docs.google.com/presentation/d/1tru38OUlIieZGK1n509AxVoLjwX-2G76eFOgJ4iyyEE/edit#slide=id.g106fcc9247_0_169), [(PDF)](personal-leadership.pdf)
@@ -33,7 +33,7 @@ Prior to the event, ask all participants to take the [16 Personalities](http://w
 *Note: During this exercise, we will emphasize that the Myers-Briggs Type Indicator is merely a handy tool to increase self-awareness and the differences in how people might interact in certain situations. It isn’t meant to constrain or classify personalities: In fact it is just the opposite – it is another tool to help understand how one can adapt to different situations and interactions.*
 
 
-# Agenda
+## Agenda
 
 1. Agenda and workshop goals - 5 min
 2. Exploring leadership - 5 min
@@ -42,7 +42,7 @@ Prior to the event, ask all participants to take the [16 Personalities](http://w
 5. Wrap-up - 10 min
 
 
-# Workshop
+## Workshop
 
 Below are facilitation notes, to lead this workshop from beginning to end, organized by slide number.
 
@@ -70,7 +70,7 @@ Here's our agenda...
 4. Myers-Briggs Type Indicators - 25 min
 5.  Wrap-up - 10 min
 
-### Slide 1: Exploring Leadership
+## Slide 1: Exploring Leadership
 
 > Key Message: Leadership is an inside job
 
