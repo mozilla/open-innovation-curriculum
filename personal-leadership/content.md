@@ -48,7 +48,7 @@ Prior to the event, ask all participants to take the [16 Personalities](http://w
 Below are facilitation notes, to lead this workshop from beginning to end, organized by slide number.
 
 
-### Slide 0: Agenda and Workshop Goals
+#### Slide 0: Agenda and Workshop Goals
 
 Welcome to this session exploring your personal leadership. You are here today, not just as great members of this community, but as people with proven or emerging leadership.  
 
