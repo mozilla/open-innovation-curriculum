@@ -71,7 +71,7 @@ Here's our agenda...
 4. Myers-Briggs Type Indicators - 25 min
 5.  Wrap-up - 10 min
 
-## Slide 1: Exploring Leadership
+#### Slide 1: Exploring Leadership
 
 > Key Message: Leadership is an inside job
 
