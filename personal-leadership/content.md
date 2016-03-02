@@ -2,7 +2,7 @@
 
 This is a foundational session for Personal Leadership in Mozilla.  This engaging workshop will equip participants with the opportunity to deepen self awareness while exploring how others may learn, adapt, and perceive similar problems and situations differently. These foundational skills are key to building strong effective teams in Mozilla's volunteer communities.
 
-## Learning Objectives
+### Learning Objectives
 
  * Internalize that “leadership is a refactoring job” -- that self-development and learning are keys to effectively mobilizing others and leading teams in Mozilla.
  * Internalize that “Teaming” -- forming and building effective teams -- is crucial for our communities to have impact in this next phase of Mozilla’s mission.
@@ -30,12 +30,10 @@ This is a foundational session for Personal Leadership in Mozilla.  This engagin
 
 * [16 Personalities](http://www.16personalities.com) test, and to bring their results, INCLUDING percentages.
 
-*Note: During this exercise, we will emphasize that the Myers-Briggs Type Indicator is merely a handy tool to increase self-awareness and the differences in how people might interact in certain situations. It isn’t meant to constrain or classify personalities: In fact it is just the opposite – it is another tool to help understand how one can adapt to different situations and interactions.*
-
 ### Facilitator Pre-Work
 
 * Watch this facilitators intro video. (coming soon)
-* Know your own []personality type](16 Personalities [MBTI Test](http://www.16personalities.com)).
+* Know your own [personality type](16 Personalities [MBTI Test](http://www.16personalities.com).
 * Know how a [Spectogram](http://facilitation.aspirationtech.org/index.php?title=Facilitation:Spectrogram) works
 * (optional reading) [How to Grow Distributed Leadership]( https://medium.com/enspiral-tales/how-to-grow-distributed-leadership-7f6b25f0361c)
 
@@ -48,11 +46,8 @@ This is a foundational session for Personal Leadership in Mozilla.  This engagin
 5. Wrap-up - 10 min
 
 
-## Workshop
 
-Below are facilitation notes, to lead this workshop from beginning to end, organized by slide .
-
-## Personal Leadership
+## 1) Personal Leadership
 #### Slide : Personal Leadership
 
 Welcome to this session exploring your personal leadership. You are here today, not just as great members of this community, but as people with proven or emerging leadership.  
@@ -78,7 +73,7 @@ Here's our agenda...
 4. Myers-Briggs Type Indicators - 25 min
 5.  Wrap-up - 10 min
 
-## Exploring Leadership 
+## 2) Exploring Leadership 
 #### Slide: "Leadership is an inside job"  (5 minutes)
 
 > Key Message: ""Leadership is an inside job""
@@ -100,7 +95,7 @@ Prompt your group with these questions, challenges and direction. Be sure to ech
 	* Facilitation Note: Stand on a chair next to each group, to keep audience attention, and to better echo important statements.
 5. Referring to the slide - ask people what "Leadership is an inside job" means to them.
 	
-## Professional Growth 
+## 3) Professional Growth 
 
 This section has a focus on helping people build honesty into their self-assessment.
 
@@ -125,7 +120,7 @@ Note: If you don't have a personal example you can use one of being 'unintention
 4. Now, on the right hand side, please write down 102 things you can do during this workshop to uncover that unconsciously unskilled space..
 5. Finally, flip the page over and write 3 things you 'know you know' about being a leader.  (strengths you have today).
 
-### Myers-Briggs Type Indicators
+## 4) Myers-Briggs Type Indicators
 ### 8 slides, followed by debrief(20 minutes)
 
 Here, we'll help people familiarize themselves with MBTI personality preferences, and how each of the dimensions influence how people think, behave and work together.
