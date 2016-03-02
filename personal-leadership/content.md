@@ -223,13 +223,13 @@ Closure is the second major area of conflict. “J”s will seek out closure in 
 
 ## Wrap-Up
 
-This is your opportunity to facilitate the closing, by pulling out the key learnings you saw happening in your groups.  
+This is your opportunity to facilitate the closing, by pulling out the key insights you saw realized in your session.  In wrap-up, ask for brief feedback from the group:
 
-* What resonated? 
-* What made people laugh at themselves?  At others?
-* Where did you see a lot of nodding, and agreement?
+* What resonated most for you about yourself? 
+* What aha moment (realization) did you have that will influence how you work with others in future?
+* How many would be interested in running this workshop for others?
 
-Call to action here is to emphasis wha we learned about ourselves, and how being aware of tendencies, and throe of others we can work better, together as a decision we make every day to make leadership an inside job that benefits our teams.
+Call to action here is to emphasis wha we learned about ourselves, and how being aware of tendencies, and those of others we can work better, together as a decision we make every day to make leadership an inside job that benefits our teams.
 
 Image [CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/) by [christosbacharakis](https://www.flickr.com/photos/christosbacharakis/)
 
