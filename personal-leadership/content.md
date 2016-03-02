@@ -31,7 +31,7 @@ This is a foundational session for Personal Leadership in Mozilla.  This engagin
 
 1. 16 Personalities [MBTI Test](http://www.16personalities.com).
 2. Slide Deck [(Google Doc)](https://docs.google.com/presentation/d/1tru38OUlIieZGK1n509AxVoLjwX-2G76eFOgJ4iyyEE/edit#slide=id.g106fcc9247_0_169), [(PDF)](personal-leadership.pdf)
-3. FlipChart
+3. Flip Chart
 4. Projector
 5. Markers
 6. Paper for each participant (if they don’t have a notebook)
@@ -57,7 +57,8 @@ This is a foundational session for Personal Leadership in Mozilla.  This engagin
 5. Wrap-up - 10 min
 
 
-## 1) Personal Leadership
+## 1) Welcome!
+
 #### Slide : Personal Leadership
 
 Welcome to this session exploring your personal leadership. You are here today, not just as great members of this community, but as people with proven or emerging leadership.  
@@ -84,7 +85,7 @@ Here's our agenda...
 5.  Wrap-up - 10 min
 
 ## 2) Exploring Leadership 
-#### Slide: "Leadership is an inside job"  (5 minutes)
+#### Slide: "Leadership is an inside job" 
 
 > Key Message: ""Leadership is an inside job""
 
@@ -117,7 +118,7 @@ This section has a focus on helping people build honesty into their self-assessm
 
 Articulate to your group this message: "A key element of leadership is consciously thinking about what you are good at, what you need to work on."
 
-Read through the stages of growth from 'Unconsciously Unskilled' to 'Unconsciously Skilled', and give a personal example of how that can be understood.  
+Review through the stages of growth as displayed on the slide: 'Unconsciously Unskilled' to 'Unconsciously Skilled', and give a personal example of how that can be understood.  
 
 Note: If you don't have a personal example you can use one of being 'unintentionally rude in email, recognizing that, working on it, and then proper etiquette in emails being something you stop thinking about, and just do.
 
@@ -125,13 +126,14 @@ Note: If you don't have a personal example you can use one of being 'unintention
 2. On the left hand side, write 3 things you are *consciously unskilled* at, with regard to mobilizing/committing and leading others.
 	* Ask the group to think about: "What do you have to accomplish next on these?"
 	* Ask to think about: "What do you choose to improve?""  Or set goals for committing to action?
-3. On the right hand side, please write down 3 things that you are unconsciously unskilled at with respect to mobilizing/leading others.  **Note** *this is a trick - obviously they don't know what they are unconsciously 'not good at' :)  (they should get the trick immediately).*
-	* Discussion question: "How should you know what is on the right side of the page?"  *Try to draw out and repeat key things like "feedback from others etc."*
+3. On the right hand side, please write down 3 things that you are unconsciously unskilled at with respect to mobilizing/leading others.  
+ 		* Note: this is a trick - obviously they don't know what they are unconsciously 'not good at' :)  (they should get the trick immediately).
+4. Discussion question: "How should you know what is on the right side of the page?"  *Try to draw out and repeat key things like "feedback from others etc."*
 4. Now, on the right hand side, please write down 102 things you can do during this workshop to uncover that unconsciously unskilled space..
 5. Finally, flip the page over and write 3 things you 'know you know' about being a leader.  (strengths you have today).
 
 ## 4) Myers-Briggs Type Indicators
-### 8 slides, followed by debrief(20 minutes)
+### 8 slides, followed by debrief
 
 Here, we'll help people familiarize themselves with MBTI personality preferences, and how each of the dimensions influence how people think, behave and work together.
 
@@ -206,7 +208,7 @@ In this case the thinking people will have answers or questions that seem a bit 
 **One thing that is very important** to point out here is that thinking people may sometimes appear more self-centered, or less caring about people. This is not necessarily the case – they may just show their caring for people in a different way, and one that is less personal.
 
 ### Judging & Prospecting (J/P) 
-### Slide: Judging & Prospecting
+#### Slide: Judging & Prospecting
 #### Slide: Traveling 
 
 Ask groups to work together, to write down how they would plan for this scenario, traveling with friends to the Galapagos.
