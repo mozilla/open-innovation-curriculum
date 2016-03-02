@@ -2,7 +2,7 @@
 
 This is a foundational session for Personal Leadership in Mozilla.  This engaging workshop will equip participants with the opportunity to deepen self awareness while exploring how others may learn, adapt, and perceive similar problems and situations differently. These foundational skills are key to building strong effective teams in Mozilla's volunteer communities.
 
-### Learning Objectives
+## Learning Objectives
 
  * Internalize that “leadership is a refactoring job” -- that self-development and learning are keys to effectively mobilizing others and leading teams in Mozilla.
  * Internalize that “Teaming” -- forming and building effective teams -- is crucial for our communities to have impact in this next phase of Mozilla’s mission.
@@ -16,7 +16,7 @@ This is a foundational session for Personal Leadership in Mozilla.  This engagin
 * Youth leaders.
 * Project teams, that include volunteers.
 
-### Materials
+## Materials & Pre-Work
 
 1. 16 Personalities [MBTI Test](http://www.16personalities.com).
 2. Slide Deck [(Google Doc)](https://docs.google.com/presentation/d/1tru38OUlIieZGK1n509AxVoLjwX-2G76eFOgJ4iyyEE/edit#slide=id.g106fcc9247_0_169), [(PDF)](personal-leadership.pdf)
@@ -28,7 +28,7 @@ This is a foundational session for Personal Leadership in Mozilla.  This engagin
 
 ### Attendee Pre-Work
 
-Prior to the event, ask all participants to take the [16 Personalities](http://www.16personalities.com) test, and to bring their results, INCLUDING percentages.
+* [16 Personalities](http://www.16personalities.com) test, and to bring their results, INCLUDING percentages.
 
 *Note: During this exercise, we will emphasize that the Myers-Briggs Type Indicator is merely a handy tool to increase self-awareness and the differences in how people might interact in certain situations. It isn’t meant to constrain or classify personalities: In fact it is just the opposite – it is another tool to help understand how one can adapt to different situations and interactions.*
 
@@ -36,7 +36,8 @@ Prior to the event, ask all participants to take the [16 Personalities](http://w
 
 * Watch this facilitators intro video. (coming soon)
 * Know your own []personality type](16 Personalities [MBTI Test](http://www.16personalities.com)).
-* (optional)[How to Grow Distributed Leadership]( https://medium.com/enspiral-tales/how-to-grow-distributed-leadership-7f6b25f0361c)
+* Know how a [Spectogram](http://facilitation.aspirationtech.org/index.php?title=Facilitation:Spectrogram) works
+* (optional reading) [How to Grow Distributed Leadership]( https://medium.com/enspiral-tales/how-to-grow-distributed-leadership-7f6b25f0361c)
 
 ### Agenda
 
@@ -51,7 +52,7 @@ Prior to the event, ask all participants to take the [16 Personalities](http://w
 
 Below are facilitation notes, to lead this workshop from beginning to end, organized by slide .
 
-
+## Personal Leadership
 #### Slide : Personal Leadership
 
 Welcome to this session exploring your personal leadership. You are here today, not just as great members of this community, but as people with proven or emerging leadership.  
@@ -77,8 +78,8 @@ Here's our agenda...
 4. Myers-Briggs Type Indicators - 25 min
 5.  Wrap-up - 10 min
 
-### Exploring Leadership (5 minutes)
-#### Slide: ""Leadership is an inside job"
+## Exploring Leadership 
+#### Slide: "Leadership is an inside job"  (5 minutes)
 
 > Key Message: ""Leadership is an inside job""
 
@@ -99,13 +100,13 @@ Prompt your group with these questions, challenges and direction. Be sure to ech
 	* Facilitation Note: Stand on a chair next to each group, to keep audience attention, and to better echo important statements.
 5. Referring to the slide - ask people what "Leadership is an inside job" means to them.
 	
-### Professional Growth (20 minutes)
+## Professional Growth 
 
 This section has a focus on helping people build honesty into their self-assessment.
 
 > Key Message: A key element of leadership is consciously thinking about what you are good at, what you need to work on, and committing to action that helps you grow personally through this awareness.
 	
-#### Slide: Stages of Growth Model
+#### Slide: Stages of Growth Model (20 minutes)
 
 ##### Facilitation Workflow
 
@@ -124,14 +125,104 @@ Note: If you don't have a personal example you can use one of being 'unintention
 4. Now, on the right hand side, please write down 102 things you can do during this workshop to uncover that unconsciously unskilled space..
 5. Finally, flip the page over and write 3 things you 'know you know' about being a leader.  (strengths you have today).
 
-### Myers-Briggs Type Indicators)
+### Myers-Briggs Type Indicators
+### 8 slides, followed by debrief(20 minutes)
+
+Here, we'll help people familiarize themselves with MBTI personality preferences, and how each of the dimensions influence how people think, behave and work together.
+
+> Key Message: "You have tendencies that are different from others, on a variety of dimensions. Understanding and having a model for these will help you lead and work better with others."
+
+#####Speaking Notes
+
+**Use or remix these speakers notes to introduce this part of the workshop**
+
+The purpose of this section is to introduce you to a tool that will help in the process of both deepening self-awareness (uncovering more of the right-hand side of your page) and also building awareness of others.
+
+In particular, this tool will help you understand your tendencies for reacting in different situations, and what the outcomes or consequences might be on others. Being more aware of others will help you to manage the interactions of people who you are leading, and also understand why they react in certain ways to things you say and do.
+
+The tool that we are going to use for this session is the Myers-Briggs Type Indicator. 
+
+**Question**: How many people did the pre-assignment of the online test for their MBTI type? (hopefully everyone!) 
+**Statement**: We chose this test because it is a common framework backed by substantial science and practice in team development. But, I must stress that it is merely a tool, and it merely reflects preferences. Let’s use it to help us, not to constrain us.
+
+What we hope you will learn from this is that each of us has a set of preferences in how we interact with the outside world. Each person’s preferences are a bit different, and these differences can sometimes cause friction when working as a team. Once these preferences are made conscious, you can work on adapting, or coaching others to help them adapt, to each other’s needs.
+
+
+#### Slide: Myers Briggs
+
+
+1. Using the Spectrogram facilitation model, label one side of the room as 'Introvert', and one side of the room 'Extrovert' and ask people to arrange themselves along an imaginary line between the two, **according to their results from the test**.
+2. Ask people to look around at where everyone is, thinking about each person, and how true, or surprising their place along this imaginary line might be.
+3. Pick people from different parts of the line, to share why they're where they are, and how accurate they feel that is about them.
+
+Before beginning the next section, have everyone form four groups according to percentages, and where they are standing:
+
+* Extrovert
+* Introvert
+* Moderately Extrovert  
+* Moderately Introvert
 
 	
-	
+##### Slide: Extravert & Introvert (E/I)
+
+* Ask people to discuss the answer in their group.
+* Ask one or two people from each group to share something a reoccurring theme they see in their group.
+
+#### Speakers Notes
+
+Generally, extraverts will be interested in parties or being around people. They get their energy from being with others. Introverts will be interested in chilling out alone, or with a couple of close friends, maybe reading a book or talking over a bottle of wine. 
+
+You should also point out that extroverts and introverts operate very differently in group settings -- like meetings and brainstorming sessions. Extroverts are generally louder, think out loud and react quickly. Introverts tend to be quieter, like thinking before they talk and focus on one thing at a time. Ask something like “how might you design something like a brainstorm with both extraverts and introverts in mind?”
+
+##### Sensing (Observant) & Intuitive (S/N)
+
+You will be shown a photo for 10 seconds. On your own sheet of paper, write down what you saw. (show photo on slide)
 
 
+#### Slide: Street Photo (10 seconds)
+#### Slide: Sensing & Intuitive (S/N)
 
+* Ask people in each group to share what they saw.
 
+The best way to think about this difference for the photo is that the sensing people will likely point out a lot of details about exactly what is going on in the photo; intuitive people will probably talk about the grander context of the photo or they will make up a big story about the people they see.
+
+Generally, sensing people use more facts and examples, have more sequential thinking and are more direct. Intuitive people are the ones who operate at 30,000 feet; they like abstract thinking and metaphors.
+
+Strong differences in the type-pairing are actually a huge source of conflict because they have a very hard time communicating ideas to each other.
+
+#### Thinking & Feeling  (T/F)
+#### Slide: Feeling & Thinking
+#### Slide: Firing Someone
+
+Ask groups to consider this question on your slide, and in groups to discuss how they would carry out this firing.
+
+In this case the thinking people will have answers or questions that seem a bit more technical and less caring (e.g. ensure that security is notified, prepare a letter explaining that he is being fired, get his keys, etc.). The feeling people will likely have warmer answers or questions, and may look for a way to avoid conflict (e.g. does he have kids, how will his family react, is there another job in the company that we may be able to find for him, etc.).
+
+**One thing that is very important** to point out here is that thinking people may sometimes appear more self-centered, or less caring about people. This is not necessarily the case – they may just show their caring for people in a different way, and one that is less personal.
+
+### Judging & Prospecting (J/P) 
+### Slide: Judging & Prospecting
+#### Slide: Traveling 
+
+Ask groups to work together, to write down how they would plan for this scenario, traveling with friends to the Galapagos.
+
+The 'J''s will likely focus on the planning, and execution of the trip: vaccinations, visas, water purification tablets, while 'P''s will procrastinate a bit and think about the funner aspects of their grip (calling up friends, read about the Galapagos).
+
+> There are two major differences in J/P that can cause a great deal of conflict – timing and closure**. 
+
+Ask a “P” in the group if a meeting is called for 6pm, when an acceptable time of arrival is. The answer will likely be “anytime between 6 and 6:15pm.” Ask a “J” the same question and the answer could be “anytime between 5:30pm and 6pm.” Thus, a “P” could conceivably arrive 30-45 minutes later than a “J” for any given meeting, causing a whole lot of stress. This goes for agendas as well. “J”s want them “P”s will think that agendas “constrain me.”
+
+Closure is the second major area of conflict. “J”s will seek out closure in any discussion, and once something is closed and a decision is taken, then it is no longer up for debate. “P”s will generally want to continue discussion, and all decisions are open to be revisited.
+
+## Wrap-Up
+
+This is your opportunity to facilitate the closing, by pulling out the key learnings you saw happening in your groups.  
+
+* What resonated? 
+* What made people laugh at themselves?  At others?
+* Where did you see a lot of nodding, and agreement?
+
+Call to action here is to emphasis wha we learned about ourselves, and how being aware of tendencies, and throe of others we can work better, together as a decision we make every day to make leadership an inside job that benefits our teams.
 
 
 
