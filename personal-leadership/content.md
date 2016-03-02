@@ -1,5 +1,5 @@
 ![ls](https://c2.staticflickr.com/2/1448/24009148094_5ce13ab4a5.jpg)
-Image [CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/) by [christosbacharakis](https://www.flickr.com/photos/christosbacharakis/)
+
 
 <time> 60 minutes </time>
 
@@ -228,7 +228,7 @@ This is your opportunity to facilitate the closing, by pulling out the key learn
 
 Call to action here is to emphasis wha we learned about ourselves, and how being aware of tendencies, and throe of others we can work better, together as a decision we make every day to make leadership an inside job that benefits our teams.
 
-
+Image [CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/) by [christosbacharakis](https://www.flickr.com/photos/christosbacharakis/)
 
 
 
