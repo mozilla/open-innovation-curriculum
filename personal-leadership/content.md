@@ -1,4 +1,6 @@
-This is a foundational session for Personal Leadership in Mozilla.  This engaging workshop will equip participants with the opportunity to deepen self awarenes while exploring how others may learn, adapt, and percieve similar problems and situations differently. These foundational skills are key to building strong effective teams in Mozilla's volunteer communities.
+<time> 60 minutes </time>
+
+This is a foundational session for Personal Leadership in Mozilla.  This engaging workshop will equip participants with the opportunity to deepen self awareness while exploring how others may learn, adapt, and perceive similar problems and situations differently. These foundational skills are key to building strong effective teams in Mozilla's volunteer communities.
 
 ### Learning Objectives
 
@@ -12,7 +14,7 @@ This is a foundational session for Personal Leadership in Mozilla.  This engagin
 * Regional community groups.
 * Professional leaders interested in investing volunteer time in Mozilla's community.
 * Youth leaders.
-* Project teams, that inlude volunteers.
+* Project teams, that include volunteers.
 
 ### Materials
 
@@ -30,9 +32,11 @@ Prior to the event, ask all participants to take the [16 Personalities](http://w
 
 *Note: During this exercise, we will emphasize that the Myers-Briggs Type Indicator is merely a handy tool to increase self-awareness and the differences in how people might interact in certain situations. It isn’t meant to constrain or classify personalities: In fact it is just the opposite – it is another tool to help understand how one can adapt to different situations and interactions.*
 
-### Optional Facilitator Pre-Work
+### Facilitator Pre-Work
 
-* []How to Grow Distributed Leadership]( https://medium.com/enspiral-tales/how-to-grow-distributed-leadership-7f6b25f0361c)
+* Watch this facilitators intro video. (coming soon)
+* Know your own []personality type](16 Personalities [MBTI Test](http://www.16personalities.com)).
+* (optional)[How to Grow Distributed Leadership]( https://medium.com/enspiral-tales/how-to-grow-distributed-leadership-7f6b25f0361c)
 
 ### Agenda
 
@@ -45,10 +49,10 @@ Prior to the event, ask all participants to take the [16 Personalities](http://w
 
 ## Workshop
 
-Below are facilitation notes, to lead this workshop from beginning to end, organized by slide number.
+Below are facilitation notes, to lead this workshop from beginning to end, organized by slide .
 
 
-#### Slide 0: Agenda and Workshop Goals
+#### Slide : Personal Leadership
 
 Welcome to this session exploring your personal leadership. You are here today, not just as great members of this community, but as people with proven or emerging leadership.  
 
@@ -61,7 +65,9 @@ Now, we know that the word “Leadership” is problematic in some cultures and 
 **Before we get started, you'll need:**
 
 * A pen and paper
-* Your MB test results from 16 personalities, including letters (ie: INFJ) and percentages.
+* Your MB test results from 16 personalities, including letters (i.e.: INFJ) and percentages.
+
+#### Slide: Agenda
 
 Here's our agenda...
 
@@ -71,32 +77,57 @@ Here's our agenda...
 4. Myers-Briggs Type Indicators - 25 min
 5.  Wrap-up - 10 min
 
-#### Slide 1: Exploring Leadership
+### Exploring Leadership (5 minutes)
+#### Slide: ""Leadership is an inside job"
 
-> Key Message: Leadership is an inside job
+> Key Message: ""Leadership is an inside job""
 
 This is a very rapid quick (5 min) exploration of leadership. It’s just meant to be a thought-starter and entry into the rest of the workshop - **the key is to not get distracted by debate as to what is, and is not leadership.**
 
 Think for a moment about the term distributed leadership. What positively resonates for you about this term, in your personal experiences and optimistic vision for your community?
 
-Facilitation Workflow:
+#####Facilitation Workflow:
 
-* (1 minute) Ask person to write down 3 positive qualities of leaders that come to mind when they think of distributed leadership - of positive traints a leader they respect has.
-* (1 minute) Ask each person to circle what they think is the **most important** quality.  For clarity, this is simply something that stands out right now, as being most important. Encourage people to lead with their instinct.
-* (3 minutes) Ask people to move around thhe room to form groups of people with similar circled words.  
-	* (Facililtator) Stand up on a chair and go around each group to hear from them on why they think those traits are really important.
-		* Try to echo back feedback that feels particularly meaningful to the outcomes of this workshop**
-	* Empahsize in wrapping up these 3 minutes, that no one person can be all of these things.
-* (3 minutes) Emphasize self-awareness in understnading what traits you bring, and self development as critical quality to build each individual's unqiue and authentic style.
-	* On a central Flipcart write:  "Leadership is an inside job".
-	* Ask for perspectives on what this means.
+Prompt your group with these questions, challenges and direction. Be sure to echo feedback, ideas and inspiration that feel meaningful for the entire group.
+
+**Give each question about 1 minute, the group feedback no more than 3 minutes.**
+
+1. Ask each person to write down 3 positive qualities of the leader that came to mind.
+2. Ask each person to then circle the one thing they think is the "most important" quality.  (encourage them to go with their instinct, this is not an academic exercise)
+3. Ask people to circulate the room to find people  with similarly circled words to form groups.
+4. Ask each group to articulate why their trait is most important.  
+	* Facilitation Note: Stand on a chair next to each group, to keep audience attention, and to better echo important statements.
+5. Referring to the slide - ask people what "Leadership is an inside job" means to them.
+	
+### Professional Growth (20 minutes)
+
+This section has a focus on helping people build honesty into their self-assessment.
+
+> Key Message: A key element of leadership is consciously thinking about what you are good at, what you need to work on, and committing to action that helps you grow personally through this awareness.
+	
+#### Slide: Stages of Growth Model
+
+##### Facilitation Workflow
+
+Articulate to your group this message: "A key element of leadership is consciously thinking about what you are good at, what you need to work on."
+
+Read through the stages of growth from 'Unconsciously Unskilled' to 'Unconsciously Skilled', and give a personal example of how that can be understood.  
+
+Note: If you don't have a personal example you can use one of being 'unintentionally rude in email, recognizing that, working on it, and then proper etiquette in emails being something you stop thinking about, and just do.
+
+1. Handout pieces of paper, and ask people to draw a vertical line down the middle.
+2. On the left hand side, write 3 things you are *consciously unskilled* at, with regard to mobilizing/committing and leading others.
+	* Ask the group to think about: "What do you have to accomplish next on these?"
+	* Ask to think about: "What do you choose to improve?""  Or set goals for committing to action?
+3. On the right hand side, please write down 3 things that you are unconsciously unskilled at with respect to mobilizing/leading others.  **Note** *this is a trick - obviously they don't know what they are unconsciously 'not good at' :)  (they should get the trick immediately).*
+	* Discussion question: "How should you know what is on the right side of the page?"  *Try to draw out and repeat key things like "feedback from others etc."*
+4. Now, on the right hand side, please write down 102 things you can do during this workshop to uncover that unconsciously unskilled space..
+5. Finally, flip the page over and write 3 things you 'know you know' about being a leader.  (strengths you have today).
+
+### Myers-Briggs Type Indicators)
 
 	
-
-
-
-
-
+	
 
 
 
