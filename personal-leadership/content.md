@@ -1,4 +1,5 @@
 ![ls](https://c2.staticflickr.com/2/1448/24009148094_5ce13ab4a5.jpg)
+Image [CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/) by [christosbacharakis](https://www.flickr.com/photos/christosbacharakis/)
 
 <time> 60 minutes </time>
 
