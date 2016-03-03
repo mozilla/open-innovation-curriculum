@@ -57,7 +57,7 @@ This is a foundational session for Personal Leadership in Mozilla.  This engagin
 5. Wrap-up - 10 min
 
 
-## 1) Welcome!
+## 1. Welcome!
 
 #### Slide : Personal Leadership
 
@@ -84,7 +84,7 @@ Here's our agenda...
 4. Myers-Briggs Type Indicators - 25 min
 5.  Wrap-up - 10 min
 
-## 2) Exploring Leadership 
+## 2. Exploring Leadership 
 #### Slide: "Leadership is an inside job" 
 
 > Key Message: ""Leadership is an inside job""
@@ -106,7 +106,7 @@ Prompt your group with these questions, challenges and direction. Be sure to ech
 	* Facilitation Note: Stand on a chair next to each group, to keep audience attention, and to better echo important statements.
 5. Referring to the slide - ask people what "Leadership is an inside job" means to them.
 	
-## 3) Professional Growth 
+## 3. Professional Growth 
 
 This section has a focus on helping people build honesty into their self-assessment.
 
@@ -132,7 +132,7 @@ Note: If you don't have a personal example you can use one of being 'unintention
 4. Now, on the right hand side, please write down 102 things you can do during this workshop to uncover that unconsciously unskilled space..
 5. Finally, flip the page over and write 3 things you 'know you know' about being a leader.  (strengths you have today).
 
-## 4) Myers-Briggs Type Indicators
+## 4. Myers-Briggs Type Indicators
 ### 8 slides, followed by debrief
 
 Here, we'll help people familiarize themselves with MBTI personality preferences, and how each of the dimensions influence how people think, behave and work together.
@@ -221,7 +221,7 @@ Ask a “P” in the group if a meeting is called for 6pm, when an acceptable ti
 
 Closure is the second major area of conflict. “J”s will seek out closure in any discussion, and once something is closed and a decision is taken, then it is no longer up for debate. “P”s will generally want to continue discussion, and all decisions are open to be revisited.
 
-## Wrap-Up
+## 5. Wrap-Up
 
 This is your opportunity to facilitate the closing, by pulling out the key insights you saw realized in your session.  In wrap-up, ask for brief feedback from the group:
 
