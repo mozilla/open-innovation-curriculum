@@ -1,0 +1,1 @@
+# TODO - finish this README  , for now check out the Participation ORG [README](https://github.com/mozilla/participation-org/blob/master/README.md) and [CONTRIBUTING.md](https://github.com/mozilla/participation-org/blob/master/CONTRIBUTING.md)
