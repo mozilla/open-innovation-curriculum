@@ -9,7 +9,7 @@ Leadership Framework:
 
 #### Description 
 
-Based on Tom Chi's Brannier talk 'Rapid Prototyping', this workshop walks people through a series of 'Mental Debugs' that can help you innovate for better project outcomes in less time.
+Based on Tom Chi's Mozilla Bantina talk: 'Rapid Prototyping', this workshop will take people through a series of 'Mental Debugs' that can help you innovate for better project outcomes in less time.
 
 ### Learning Objectives
 
@@ -19,10 +19,12 @@ Based on Tom Chi's Brannier talk 'Rapid Prototyping', this workshop walks people
 ### Audience
 
 ## Materials
-* Rectangular, large sized construction paper (2 per group)
-* Marshmellows (small)
-* Toothpicks
-* Paper Clips
+* Post It notes
+* Paper (printer sized)
+* Clothes pins
+* Elastic bands
+* Paper clips
+* Paper cups
 
 ### Attendee Pre-Work
 
@@ -53,16 +55,17 @@ In groups of 3, your will be engineering the fastest paper airplane. You must us
 
 Guessing without direct experience provides nothing - except perhaps, some guesses sound more believable.  It might also prove who is better at arguing - and in fact it's usually the better arguer, or higher-ranked person who tends to have the most success in guessing.   
 
-Sharing Tom's story:  In discussion about Google Glass - discussions were very intense about what text color should be. 
-
 #### Activity
 
-Prior to handing out materials including marshmallows, ask participants to discuss in groups, and to write do their best guesses answers to the following questions:
+Our goal is to build the fastest paper airplane, but we first need to answer a question: "Should we use cups or paper to build the main frame of our airplane, and why?"
 
-* "How would you build the fastest paper airplane?"  (1 minute)
-* "How would you build the fastest airplane, capable of carrying 5 marshmallows (2 minute)
+Organize people into groups of 4-5 people, and provide each group with:
+* 2 pieces of paper
+* 5 elastics
+* 5 clothes pins
+* 2 per cups
 
-Ask the group if there are any clear opinions emerging for each.  Try to draw out whether there were some weaker opinions that were more quickly dismissed, and what played a role in forming group opinion.  
+1. Ask groups to share the more popular opinions emerging in their group. Try to draw out whether there were any opinions dismissed early on, and what played a role in forming group opinion. Maybe there was never a consensus, draw this out as well. Key message **proving opinions is  hard and time consuming**. 
 
 ### Experience
 
@@ -70,29 +73,38 @@ In contrast, direct experience is about quickly experimenting with those opinion
 
 #### Activity
 
-Handout materials, giving each team two pieces of paper (one for each plane), a varying amount of marshmallows (some groups get one, others get a few more).  Ask them  to answer these similar questions, this time with materials, and testing the opinions they had in the first round:
+Ask groups to experiment with paper, cups or a mix of both to build a plane structure that they believe will fly furthest, fastest.
 
-* "How would you build the fastest paper airplane?"  (2 minute)
-* "How would you build the fastest airplane, capable of carrying your marshmellows (4 minute)
+Ask the groups to share the experience of building each plane. 
+* Did the opinions expressed in the first session evaluate to true?   
+* What unexpected things did you learn?  What happen
+* What hapened when you learned something (expecting - adjustments, and sometimes big changes.)
 
-Ask the groups to share the experience of building each plane.  Did the opinions expressed in the first session evaluate to true?   What unexpected things did you learn?
+**Sharing Tom's story:**  In discussion about Google Glass - discussions were very intense about what text color should be, but that quick experiments quickly proved what the facts were.
 
-**Sharing Tom's story**:  In the Google Glass example Tom created a prototype that demonstrated text in the colors of the rainbow. Red turned out to be the worst color by far.  The best colors: white, light blue and yellow. Imagine in discussion, how difficult it would have been to champion, and argue for those colors. It wouldn't have happened.
+## 2. Toolchain Consdierations (Adaptability vs. Efficiency)
 
-In direct experience you know very quickly.  In opinion, you can end up arguing, and questioning if people understand you... it can take a lot longer.
+Designing for adaptability vrs scalability or efficiency.   
 
-## 2. Adaptability vs. Efficiency (Scalability)
+### Scalability & Effeciency
 
-We tend to spend a lot of time focused on scalability, and efficiency.  Another possible attribute is to design for adaptability.
-
-If there is an experiment you are going to run more than one time - build a Toolchain for it.
+So we have our plane bodies, in rought shape probably, but they're emerging.   And now we need to actually decide now to fly these things.  We have elastic bands, remaining paper cups perhaps - some clothes pins.  With a room of creative people, you'll probably get a lot of different answers as to how you can launch your paper plane for the maximum distance and speed.
 
 ### Activity
 
-* Give teams 2 minutes to take the best ideas from their last session to polish their airplane from the last session.
-* Propose this nest proble: How can you best protect your marshmellow plane from being damanged on landing.
+In groups ask one person to propose their idea, and ask the group to build it in one minute.  (this will not be enough time by a long shot.   
 
-**Sharing Tom's story**:  Once Google Glass was wearable, the question became how should build the navigation, and as hyou would expect there were many ideas.  And the dev team decided to just build it - and after a few weeks one version of the navigation was built. It was terrible.  But the team had several versions to test and at this rate of testing it would take a very long to time to test one.
+* Ask groups how long they think they need to properly setup for, and test their airplane launch mechanism. Ty to surface people who are worried about time, quality, starting over.  
+* **If we invested this much time in every idea, we would be here for quite a long time.**
+
+### Adaptability
+
+Ask groups to revisit the actual problem, and using pen and paper, but to focus on the key problems they were trying to solve for.
+
+If there is an experiment you are going to run more than one time - build a Toolchain for it.
+
+
+**Sharing Tom's story**: 
 
 ## 3. Staying in the Medium
 
