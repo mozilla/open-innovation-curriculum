@@ -14,7 +14,7 @@ Based on Tom Chi's Brannier talk 'Rapid Prototyping', this workshop walks people
 ### Learning Objectives
 
 * The difference between 'guessing' and 'direct experience' in product innovation, and how each impacts progress differently.
-* The difference between Adaptability vs. Efficiency in determining 
+* The difference between Adaptability vs. Efficiency in iterating through ideas to find the best ones.
 
 ### Audience
 
@@ -81,14 +81,19 @@ Ask the groups to share the experience of building each plane.  Did the opinions
 
 In direct experience you know very quickly.  In opinion, you can end up arguing, and questioning if people understand you... it can take a lot longer.
 
-## Adaptability vs. Efficiency
+## 2. Adaptability vs. Efficiency (Scalability)
 
-We tend to spend a lot of time focused on scalability, and efficiency.  
+We tend to spend a lot of time focused on scalability, and efficiency.  Another possible attribute is to design for adaptability.
 
-###  Adaptability
+If there is an experiment you are going to run more than one time - build a Toolchain for it.
 
-**Sharing Tom's story**:  Once Google Glass was wearable, the question became how should build the navigation.  And the dev team decided to just build it - and after a few weeks one version of the navigation was built.
+### Activity
 
-## Staying in the Medium
+* Give teams 2 minutes to take the best ideas from their last session to polish their airplane from the last session.
+* Propose this nest proble: How can you best protect your marshmellow plane from being damanged on landing.
 
-## Research vrs Development
+**Sharing Tom's story**:  Once Google Glass was wearable, the question became how should build the navigation, and as hyou would expect there were many ideas.  And the dev team decided to just build it - and after a few weeks one version of the navigation was built. It was terrible.  But the team had several versions to test and at this rate of testing it would take a very long to time to test one.
+
+## 3. Staying in the Medium
+
+## 4. Research vrs Development
