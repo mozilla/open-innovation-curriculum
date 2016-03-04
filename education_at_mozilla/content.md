@@ -4,7 +4,12 @@
 ##<i class="fa fa-calendar fa-2x"></i> Education Contributor Community at Mozilla
 
 
-### Community Call
+### March 9 Community Call(s)
+
+Running two separate calls this day, to accommodate different time zones.
+Hope to see you at one!  If not we'll post notes to this page.
+
+** Follow Youtube links for time
 
 ## Agenda
 * Introductions
