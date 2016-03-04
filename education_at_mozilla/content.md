@@ -1,14 +1,13 @@
 
-<i class="fa fa-calendar fa-2x"></i>  Education at Mozilla
 
-#Education Contributor Community at Mozilla
+
+#<i class="fa fa-calendar fa-2x"></i> Education Contributor Community at Mozilla
 
 ## Agenda
 * Introductions
 * Designing our community
 * Building Bridges to Mozilla
 * Next Steps
-
 
 ##First Call
 
