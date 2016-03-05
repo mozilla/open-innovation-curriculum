@@ -12,6 +12,7 @@ On these calls, we will:
 Launch experiments and community design in the next heartbeat.
 
 Follow the links to see times based on your timezone.
+[Agenda Link](https://public.etherpad-mozilla.org/p/education-community)
 
 
 ##[First Call  (3PM UTC)](https://plus.google.com/u/0/events/c04u74tl7u2omd53e7f9qhevc00)
