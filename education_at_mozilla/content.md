@@ -6,8 +6,11 @@
 
 ### March 9 Community Call(s)
 
-Running two separate calls this day, to accommodate different time zones.
-Hope to see you at one!  If not we'll post notes to this page.
+On these calls, we will:
+* Brainstorm a light weight community design for launch that feels right for education contributors based on the feedback so far.
+* Identify two experiments we can run for outreach, based on a workshop 'Building Bridges to Mozilla'  to bring in opportunity and people.
+Launch experiments and community design in the next heartbeat.
+
 
 ** Follow Youtube links for time
 
