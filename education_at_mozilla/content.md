@@ -12,18 +12,16 @@ On these calls, we will:
 Launch experiments and community design in the next heartbeat.
 
 
-** Follow Youtube links for time
-
 ## Agenda
 * Introductions
 * Designing our community
 * Building Bridges to Mozilla
 * Next Steps
 
-##First Call  (3PM UTC)
+##[First Call  (3PM UTC)](https://plus.google.com/u/0/events/c04u74tl7u2omd53e7f9qhevc00)
 
 [![First Call](http://img.youtube.com/vi/c04u74tl7u2omd53e7f9qhevc00.jpg)](https://plus.google.com/u/0/events/c04u74tl7u2omd53e7f9qhevc00)
 
-##Second Call (2AM UTC)
+##[Second Call (2AM UTC)](https://plus.google.com/u/0/events/clgnd2hh6989vhc9qhptv5jacac)
 
 [![Second Call](http://img.youtube.com/vi/clgnd2hh6989vhc9qhptv5jacac.jpg)](https://plus.google.com/u/0/events/clgnd2hh6989vhc9qhptv5jacac)
