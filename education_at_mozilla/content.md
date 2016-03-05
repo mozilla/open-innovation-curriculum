@@ -17,10 +17,10 @@ Hope to see you at one!  If not we'll post notes to this page.
 * Building Bridges to Mozilla
 * Next Steps
 
-##First Call
+##First Call  (3PM UTC)
 
 [![First Call](http://img.youtube.com/vi/c04u74tl7u2omd53e7f9qhevc00.jpg)](https://plus.google.com/u/0/events/c04u74tl7u2omd53e7f9qhevc00)
 
-##Second Call
+##Second Call (2AM UTC)
 
 [![Second Call](http://img.youtube.com/vi/clgnd2hh6989vhc9qhptv5jacac.jpg)](https://plus.google.com/u/0/events/clgnd2hh6989vhc9qhptv5jacac)
