@@ -1,15 +1,8 @@
 ![ls](https://c2.staticflickr.com/2/1448/24009148094_5ce13ab4a5.jpg)
 
-<print>
-[Print Content](https://raw.githubusercontent.com/mozilla/participation-curriculum/master/personal-leadership/content.md)</print>
-<time> 60 minutes </time>
+<time>90 Minutes</time>
 
-Leadership Framework: 
-<tag>Personal Leadership</tag>
-<tag>Empowering Teams & People</tag>
-<difficulty></difficulty>
-
-#### Description 
+#### Description
 
 This is a foundational session for Personal Leadership in Mozilla.  This engaging workshop will equip participants with the opportunity to deepen self awareness while exploring how others may learn, adapt, and perceive similar problems and situations differently. These foundational skills are key to building strong effective teams in Mozilla's volunteer communities.
 
@@ -18,7 +11,7 @@ This is a foundational session for Personal Leadership in Mozilla.  This engagin
  * Internalize that “leadership is a refactoring job” -- that self-development and learning are keys to effectively mobilizing others and leading teams in Mozilla.
  * Internalize that “Teaming” -- forming and building effective teams -- is crucial for our communities to have impact in this next phase of Mozilla’s mission.
  * Understand own personality type (through the Myers-Briggs Type Indicator), how this differs from others, and how this related to effective teams.
- 
+
 ### Audience
 
 * Leaders and emerging leaders at Mozilla, or any FOSS community interested in building strong teams.
@@ -63,7 +56,7 @@ This is a foundational session for Personal Leadership in Mozilla.  This engagin
 
 Welcome to this session exploring your personal leadership. You are here today, not just as great members of this community, but as people with proven or emerging leadership.  
 
-This workshop is about getting inside your strengths, weaknesses and tendencies as a leader in Mozilla. It’s also about having a common language we can all refer to during this session and beyond. 
+This workshop is about getting inside your strengths, weaknesses and tendencies as a leader in Mozilla. It’s also about having a common language we can all refer to during this session and beyond.
 
 And it’s a fun and really interactive session!
 
@@ -84,8 +77,8 @@ Here's our agenda...
 4. Myers-Briggs Type Indicators - 25 min
 5.  Wrap-up - 10 min
 
-## 2. Exploring Leadership 
-#### Slide: "Leadership is an inside job" 
+## 2. Exploring Leadership
+#### Slide: "Leadership is an inside job"
 
 > Key Message: ""Leadership is an inside job""
 
@@ -105,13 +98,13 @@ Prompt your group with these questions, challenges and direction. Be sure to ech
 4. Ask each group to articulate why their trait is most important.  
 	* Facilitation Note: Stand on a chair next to each group, to keep audience attention, and to better echo important statements.
 5. Referring to the slide - ask people what "Leadership is an inside job" means to them.
-	
-## 3. Professional Growth 
+
+## 3. Professional Growth
 
 This section has a focus on helping people build honesty into their self-assessment.
 
 > Key Message: A key element of leadership is consciously thinking about what you are good at, what you need to work on, and committing to action that helps you grow personally through this awareness.
-	
+
 #### Slide: Stages of Growth Model (20 minutes)
 
 ##### Facilitation Workflow
@@ -147,9 +140,9 @@ The purpose of this section is to introduce you to a tool that will help in the 
 
 In particular, this tool will help you understand your tendencies for reacting in different situations, and what the outcomes or consequences might be on others. Being more aware of others will help you to manage the interactions of people who you are leading, and also understand why they react in certain ways to things you say and do.
 
-The tool that we are going to use for this session is the Myers-Briggs Type Indicator. 
+The tool that we are going to use for this session is the Myers-Briggs Type Indicator.
 
-**Question**: How many people did the pre-assignment of the online test for their MBTI type? (hopefully everyone!) 
+**Question**: How many people did the pre-assignment of the online test for their MBTI type? (hopefully everyone!)
 **Statement**: We chose this test because it is a common framework backed by substantial science and practice in team development. But, I must stress that it is merely a tool, and it merely reflects preferences. Let’s use it to help us, not to constrain us.
 
 What we hope you will learn from this is that each of us has a set of preferences in how we interact with the outside world. Each person’s preferences are a bit different, and these differences can sometimes cause friction when working as a team. Once these preferences are made conscious, you can work on adapting, or coaching others to help them adapt, to each other’s needs.
@@ -169,7 +162,7 @@ Before beginning the next section, have everyone form four groups according to p
 * Moderately Extrovert  
 * Moderately Introvert
 
-	
+
 ##### Slide: Extravert & Introvert (E/I)
 
 * Ask people to discuss the answer in their group.
@@ -177,7 +170,7 @@ Before beginning the next section, have everyone form four groups according to p
 
 #### Speakers Notes
 
-Generally, extraverts will be interested in parties or being around people. They get their energy from being with others. Introverts will be interested in chilling out alone, or with a couple of close friends, maybe reading a book or talking over a bottle of wine. 
+Generally, extraverts will be interested in parties or being around people. They get their energy from being with others. Introverts will be interested in chilling out alone, or with a couple of close friends, maybe reading a book or talking over a bottle of wine.
 
 You should also point out that extroverts and introverts operate very differently in group settings -- like meetings and brainstorming sessions. Extroverts are generally louder, think out loud and react quickly. Introverts tend to be quieter, like thinking before they talk and focus on one thing at a time. Ask something like “how might you design something like a brainstorm with both extraverts and introverts in mind?”
 
@@ -207,15 +200,15 @@ In this case the thinking people will have answers or questions that seem a bit 
 
 **One thing that is very important** to point out here is that thinking people may sometimes appear more self-centered, or less caring about people. This is not necessarily the case – they may just show their caring for people in a different way, and one that is less personal.
 
-### Judging & Prospecting (J/P) 
+### Judging & Prospecting (J/P)
 #### Slide: Judging & Prospecting
-#### Slide: Traveling 
+#### Slide: Traveling
 
 Ask groups to work together, to write down how they would plan for this scenario, traveling with friends to the Galapagos.
 
 The 'J''s will likely focus on the planning, and execution of the trip: vaccinations, visas, water purification tablets, while 'P''s will procrastinate a bit and think about the funner aspects of their grip (calling up friends, read about the Galapagos).
 
-> There are two major differences in J/P that can cause a great deal of conflict – timing and closure**. 
+> There are two major differences in J/P that can cause a great deal of conflict – timing and closure**.
 
 Ask a “P” in the group if a meeting is called for 6pm, when an acceptable time of arrival is. The answer will likely be “anytime between 6 and 6:15pm.” Ask a “J” the same question and the answer could be “anytime between 5:30pm and 6pm.” Thus, a “P” could conceivably arrive 30-45 minutes later than a “J” for any given meeting, causing a whole lot of stress. This goes for agendas as well. “J”s want them “P”s will think that agendas “constrain me.”
 
@@ -225,13 +218,10 @@ Closure is the second major area of conflict. “J”s will seek out closure in 
 
 This is your opportunity to facilitate the closing, by pulling out the key insights you saw realized in your session.  In wrap-up, ask for brief feedback from the group:
 
-* What resonated most for you about yourself? 
+* What resonated most for you about yourself?
 * What aha moment (realization) did you have that will influence how you work with others in future?
 * How many would be interested in running this workshop for others?
 
 Call to action here is to emphasis wha we learned about ourselves, and how being aware of tendencies, and those of others we can work better, together as a decision we make every day to make leadership an inside job that benefits our teams.
 
 Image [CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/) by [christosbacharakis](https://www.flickr.com/photos/christosbacharakis/)
-
-
-
