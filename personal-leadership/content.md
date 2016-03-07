@@ -65,7 +65,7 @@ Preparation for this workshop is key to running an effective and rewarding exper
 
 #### <i class="fa fa-file"></i> Slide : Personal Leadership
 
-<i class="fa fa-mic"></i>
+<i class="fa fa-microphone"></i>
 Welcome to this session exploring your personal leadership. You are here today, not just as great members of this community, but as people with proven or emerging leadership.  
 
 This workshop is about getting inside your strengths, weaknesses and tendencies as a leader in Mozilla. It’s also about having a common language we can all refer to during this session and beyond.
@@ -94,7 +94,7 @@ Here's our agenda...
 
 > Key Message: Leadership is an inside job
 
-<i class="fa fa-mic"></i>
+<i class="fa fa-microphone"></i>
 
 This is a very rapid quick (5 min) exploration of leadership. It’s just meant to be a thought-starter and entry into the rest of the workshop - **the key is to not get distracted by debate as to what is, and is not leadership.**
 
@@ -146,7 +146,7 @@ Here, we'll help people familiarize themselves with MBTI personality preferences
 
 > Key Message: "You have tendencies that are different from others, on a variety of dimensions. Understanding and having a model for these will help you lead and work better with others."
 
-<i class="fa fa-mic"></i>
+<i class="fa fa-microphone"></i>
 
 **Use or remix these speakers notes to introduce this part of the workshop**
 
@@ -163,7 +163,7 @@ What we hope you will learn from this is that each of us has a set of preference
 
 
 #### <i class="fa fa-file"></i> Slide: Myers Briggs
-<i class="fa fa-mic"></i>
+<i class="fa fa-microphone"></i>
 
 1. Using the Spectrogram facilitation model, label one side of the room as 'Introvert', and one side of the room 'Extrovert' and ask people to arrange themselves along an imaginary line between the two, **according to their results from the test**.
 2. Ask people to look around at where everyone is, thinking about each person, and how true, or surprising their place along this imaginary line might be.
@@ -181,7 +181,7 @@ Before beginning the next section, have everyone form four groups according to p
 * Ask people to discuss the answer in their group.
 * Ask one or two people from each group to share something a reoccurring theme they see in their group.
 
-<i class="fa fa-mic"></i>
+<i class="fa fa-microphone"></i>
 
 Generally, extraverts will be interested in parties or being around people. They get their energy from being with others. Introverts will be interested in chilling out alone, or with a couple of close friends, maybe reading a book or talking over a bottle of wine.
 
