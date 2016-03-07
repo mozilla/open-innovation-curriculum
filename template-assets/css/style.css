@@ -262,3 +262,14 @@ nav a.selected:after {
     max-width: 100%;
   }
 }
+time {
+  background: #e5e6ea;
+  color: #3a3e4a;
+  padding: 6px 10px;
+  border-left: solid 2px #acb0bd;
+}
+time:before {
+  content: "\f017";
+  font-family: "FontAwesome";
+  margin-right: 6px;
+}
