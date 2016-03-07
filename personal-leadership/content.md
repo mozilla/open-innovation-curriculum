@@ -13,7 +13,7 @@ Preparation for this workshop is key to running an effective and rewarding exper
 * Pre-work (for workshop leader and participant)
 * Required materials including agenda and slidedeck
 * Learning outcomes
-* Speakers notes indicated by:  <i class="fa fa-mic"></i>
+* Speakers notes indicated by:  <i class="fa fa-microphone"></i>
 * Slide transitions indicated by:  <i class="fa fa-file"></i>
 * Key messages for each objective
 
