@@ -6,13 +6,13 @@
 
 This is a foundational session for Personal Leadership in Mozilla.  This engaging workshop will equip participants with the opportunity to deepen self awareness while exploring how others may learn, adapt, and perceive similar problems and situations differently. These foundational skills are key to building strong effective teams in Mozilla's volunteer communities.
 
-### Learning Objectives
+#### Learning Objectives
 
  * Internalize that “leadership is a refactoring job” -- that self-development and learning are keys to effectively mobilizing others and leading teams in Mozilla.
  * Internalize that “Teaming” -- forming and building effective teams -- is crucial for our communities to have impact in this next phase of Mozilla’s mission.
  * Understand own personality type (through the Myers-Briggs Type Indicator), how this differs from others, and how this related to effective teams.
 
-### Audience
+#### Audience
 
 * Leaders and emerging leaders at Mozilla, or any FOSS community interested in building strong teams.
 * Regional community groups.
@@ -30,18 +30,18 @@ This is a foundational session for Personal Leadership in Mozilla.  This engagin
 6. Paper for each participant (if they don’t have a notebook)
 7. Pen for each participant
 
-### Attendee Pre-Work
+#### Attendee Pre-Work
 
 * [16 Personalities](http://www.16personalities.com) test, and to bring their results, INCLUDING percentages.
 
-### Facilitator Pre-Work
+#### Facilitator Pre-Work
 
 * Watch this facilitators intro video. (coming soon)
 * Know your own [personality type](16 Personalities [MBTI Test](http://www.16personalities.com).
 * Know how a [Spectogram](http://facilitation.aspirationtech.org/index.php?title=Facilitation:Spectrogram) works
 * (optional reading) [How to Grow Distributed Leadership]( https://medium.com/enspiral-tales/how-to-grow-distributed-leadership-7f6b25f0361c)
 
-### Agenda
+#### Agenda
 
 1. Agenda and workshop goals - 5 min
 2. Exploring leadership - 5 min
@@ -49,10 +49,9 @@ This is a foundational session for Personal Leadership in Mozilla.  This engagin
 4. Myers-Briggs Type Indicators - 25 min
 5. Wrap-up - 10 min
 
-
 ## 1. Welcome!
 
-#### Slide : Personal Leadership
+#### <i class="fa fa-file"></i> Slide : Personal Leadership
 
 Welcome to this session exploring your personal leadership. You are here today, not just as great members of this community, but as people with proven or emerging leadership.  
 
@@ -67,7 +66,7 @@ Now, we know that the word “Leadership” is problematic in some cultures and 
 * A pen and paper
 * Your MB test results from 16 personalities, including letters (i.e.: INFJ) and percentages.
 
-#### Slide: Agenda
+####<i class="fa fa-file"></i> Slide: Agenda
 
 Here's our agenda...
 
@@ -78,15 +77,15 @@ Here's our agenda...
 5.  Wrap-up - 10 min
 
 ## 2. Exploring Leadership
-#### Slide: "Leadership is an inside job"
+#### <i class="fa fa-file"></i> Slide: "Leadership is an inside job"
 
-> Key Message: ""Leadership is an inside job""
+> Key Message: Leadership is an inside job
 
 This is a very rapid quick (5 min) exploration of leadership. It’s just meant to be a thought-starter and entry into the rest of the workshop - **the key is to not get distracted by debate as to what is, and is not leadership.**
 
 Think for a moment about the term distributed leadership. What positively resonates for you about this term, in your personal experiences and optimistic vision for your community?
 
-#####Facilitation Workflow:
+##### Facilitation Workflow:
 
 Prompt your group with these questions, challenges and direction. Be sure to echo feedback, ideas and inspiration that feel meaningful for the entire group.
 
@@ -105,7 +104,7 @@ This section has a focus on helping people build honesty into their self-assessm
 
 > Key Message: A key element of leadership is consciously thinking about what you are good at, what you need to work on, and committing to action that helps you grow personally through this awareness.
 
-#### Slide: Stages of Growth Model (20 minutes)
+#### <i class="fa fa-file"></i> Slide: Stages of Growth Model (20 minutes)
 
 ##### Facilitation Workflow
 
@@ -148,7 +147,7 @@ The tool that we are going to use for this session is the Myers-Briggs Type Indi
 What we hope you will learn from this is that each of us has a set of preferences in how we interact with the outside world. Each person’s preferences are a bit different, and these differences can sometimes cause friction when working as a team. Once these preferences are made conscious, you can work on adapting, or coaching others to help them adapt, to each other’s needs.
 
 
-#### Slide: Myers Briggs
+#### <i class="fa fa-file"></i> Slide: Myers Briggs
 
 
 1. Using the Spectrogram facilitation model, label one side of the room as 'Introvert', and one side of the room 'Extrovert' and ask people to arrange themselves along an imaginary line between the two, **according to their results from the test**.
@@ -163,7 +162,7 @@ Before beginning the next section, have everyone form four groups according to p
 * Moderately Introvert
 
 
-##### Slide: Extravert & Introvert (E/I)
+#####  <i class="fa fa-file"></i> Slide: Extravert & Introvert (E/I)
 
 * Ask people to discuss the answer in their group.
 * Ask one or two people from each group to share something a reoccurring theme they see in their group.
@@ -179,8 +178,8 @@ You should also point out that extroverts and introverts operate very differentl
 You will be shown a photo for 10 seconds. On your own sheet of paper, write down what you saw. (show photo on slide)
 
 
-#### Slide: Street Photo (10 seconds)
-#### Slide: Sensing & Intuitive (S/N)
+#### <i class="fa fa-file"></i> Slide: Street Photo (10 seconds)
+#### <i class="fa fa-file"></i> Slide: Sensing & Intuitive (S/N)
 
 * Ask people in each group to share what they saw.
 
@@ -191,8 +190,8 @@ Generally, sensing people use more facts and examples, have more sequential thin
 Strong differences in the type-pairing are actually a huge source of conflict because they have a very hard time communicating ideas to each other.
 
 #### Thinking & Feeling  (T/F)
-#### Slide: Feeling & Thinking
-#### Slide: Firing Someone
+####  <i class="fa fa-file"></i> Slide: Feeling & Thinking
+#### <i class="fa fa-file"></i> Slide: Firing Someone
 
 Ask groups to consider this question on your slide, and in groups to discuss how they would carry out this firing.
 
@@ -201,8 +200,8 @@ In this case the thinking people will have answers or questions that seem a bit 
 **One thing that is very important** to point out here is that thinking people may sometimes appear more self-centered, or less caring about people. This is not necessarily the case – they may just show their caring for people in a different way, and one that is less personal.
 
 ### Judging & Prospecting (J/P)
-#### Slide: Judging & Prospecting
-#### Slide: Traveling
+#### <i class="fa fa-file"></i> Slide: Judging & Prospecting
+#### <i class="fa fa-file"></i> Slide: Traveling
 
 Ask groups to work together, to write down how they would plan for this scenario, traveling with friends to the Galapagos.
 
