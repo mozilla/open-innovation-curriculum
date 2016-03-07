@@ -2,20 +2,13 @@
 
 <time>90 Minutes</time>
 
-#### Description
+This is a guide for facilitators teaching the Personal Leadership workshop., which is a foundational session for community leadership at Mozilla.
 
-This is a foundational session for Personal Leadership in Mozilla.  This engaging workshop will equip participants with the opportunity to deepen self awareness while exploring how others may learn, adapt, and perceive similar problems and situations differently. These foundational skills are key to building strong effective teams in Mozilla's volunteer communities.
+This engaging workshop will equip participants with the opportunity to deepen self awareness while exploring how others may learn, adapt, and perceive similar problems and situations differently. These foundational skills are key to building strong effective teams in Mozilla's volunteer communities.   
 
-### <i class="fa fa-book"></i> Planning And Preparation
+### <i class="fa fa-book"></i> Preparing for this workshop
 
-Preparation for this workshop is key to running an effective and rewarding experience for your participants.  This resource provides:
-
-* Pre-work (for workshop leader and participant)
-* Required materials including agenda and slidedeck
-* Learning outcomes
-* Speakers notes indicated by:  <i class="fa fa-microphone"></i>
-* Slide transitions indicated by:  <i class="fa fa-file"></i>
-* Key messages for each objective
+This workshop has the best results when the right preparation is done in advance.  Everything including in this document is important for the success of the workshop:
 
 #### Learning Objectives
 
@@ -42,9 +35,15 @@ Preparation for this workshop is key to running an effective and rewarding exper
 6. Paper for each participant (if they don’t have a notebook)
 7. Pen for each participant
 
+#### Outreach & Communication
+This workshop can be run alone, or as part of a larger event. You will need the email addresses of all participants in advance, to communicate attendee pre-work.
+
 #### Attendee Pre-Work
+Ideally this pre-work should be completed prior to  the workshop, if are in an unavoidable situation where attendees have not had time to complete the workshop in advance, create a space prior to the introduction to do this (vrs interrupting the workshop in progress).
 
 * [16 Personalities](http://www.16personalities.com) test, and to bring their results, INCLUDING percentages.
+
+> Send participants email one week in advance, and then the night before the event to remind them of the importance of taking this test prior to attending.  <i class="fa fa-magic"></i>
 
 #### Facilitator Pre-Work
 
@@ -123,7 +122,7 @@ This section has a focus on helping people build honesty into their self-assessm
 
 ##### Facilitation Workflow
 
-Articulate to your group this message: "A key element of leadership is consciously thinking about what you are good at, what you need to work on."
+> <i class="fa fa-magic"></i> Articulate to your group this message: "A key element of leadership is consciously thinking about what you are good at, what you need to work on."
 
 Review through the stages of growth as displayed on the slide: 'Unconsciously Unskilled' to 'Unconsciously Skilled', and give a personal example of how that can be understood.  
 
@@ -136,8 +135,10 @@ Note: If you don't have a personal example you can use one of being 'unintention
 3. On the right hand side, please write down 3 things that you are unconsciously unskilled at with respect to mobilizing/leading others.  
  		* Note: this is a trick - obviously they don't know what they are unconsciously 'not good at' :)  (they should get the trick immediately).
 4. Discussion question: "How should you know what is on the right side of the page?"  *Try to draw out and repeat key things like "feedback from others etc."*
-4. Now, on the right hand side, please write down 102 things you can do during this workshop to uncover that unconsciously unskilled space..
+4. Now, on the right hand side, please write down 3 things you can do during this workshop to uncover that unconsciously unskilled space..
 5. Finally, flip the page over and write 3 things you 'know you know' about being a leader.  (strengths you have today).
+
+> <i class="fa fa-magic"></i> Use time when people are writing, to walk the room, people might have questions they're not as brave to ask in front of the larger group.
 
 ## 4. Myers-Briggs Type Indicators
 ### 8 slides, followed by debrief
@@ -158,6 +159,9 @@ The tool that we are going to use for this session is the Myers-Briggs Type Indi
 
 **Question**: How many people did the pre-assignment of the online test for their MBTI type? (hopefully everyone!)
 **Statement**: We chose this test because it is a common framework backed by substantial science and practice in team development. But, I must stress that it is merely a tool, and it merely reflects preferences. Let’s use it to help us, not to constrain us.
+
+> <i class="fa fa-magic"></i> The above statement is important emphasis, don't let
+
 
 What we hope you will learn from this is that each of us has a set of preferences in how we interact with the outside world. Each person’s preferences are a bit different, and these differences can sometimes cause friction when working as a team. Once these preferences are made conscious, you can work on adapting, or coaching others to help them adapt, to each other’s needs.
 
