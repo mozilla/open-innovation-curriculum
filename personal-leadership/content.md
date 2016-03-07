@@ -6,19 +6,31 @@
 
 This is a foundational session for Personal Leadership in Mozilla.  This engaging workshop will equip participants with the opportunity to deepen self awareness while exploring how others may learn, adapt, and perceive similar problems and situations differently. These foundational skills are key to building strong effective teams in Mozilla's volunteer communities.
 
+### <i class="fa fa-book"></i> Planning And Preparation
+
+Preparation for this workshop is key to running an effective and rewarding experience for your participants.  This resource provides:
+
+* Pre-work (for workshop leader and participant)
+* Required materials including agenda and slidedeck
+* Learning outcomes
+* Speakers notes indicated by:  <i class="fa fa-mic"></i>
+* Slide transitions indicated by:  <i class="fa fa-file"></i>
+* Key messages for each objective
+
 #### Learning Objectives
 
  * Internalize that “leadership is a refactoring job” -- that self-development and learning are keys to effectively mobilizing others and leading teams in Mozilla.
  * Internalize that “Teaming” -- forming and building effective teams -- is crucial for our communities to have impact in this next phase of Mozilla’s mission.
  * Understand own personality type (through the Myers-Briggs Type Indicator), how this differs from others, and how this related to effective teams.
 
-#### Audience
+#### Who can benefit from this workshop
 
 * Leaders and emerging leaders at Mozilla, or any FOSS community interested in building strong teams.
 * Regional community groups.
 * Professional leaders interested in investing volunteer time in Mozilla's community.
 * Youth leaders.
 * Project teams, that include volunteers.
+
 
 ## Materials & Pre-Work
 
@@ -53,6 +65,7 @@ This is a foundational session for Personal Leadership in Mozilla.  This engagin
 
 #### <i class="fa fa-file"></i> Slide : Personal Leadership
 
+<i class="fa fa-mic"></i>
 Welcome to this session exploring your personal leadership. You are here today, not just as great members of this community, but as people with proven or emerging leadership.  
 
 This workshop is about getting inside your strengths, weaknesses and tendencies as a leader in Mozilla. It’s also about having a common language we can all refer to during this session and beyond.
@@ -80,6 +93,8 @@ Here's our agenda...
 #### <i class="fa fa-file"></i> Slide: "Leadership is an inside job"
 
 > Key Message: Leadership is an inside job
+
+<i class="fa fa-mic"></i>
 
 This is a very rapid quick (5 min) exploration of leadership. It’s just meant to be a thought-starter and entry into the rest of the workshop - **the key is to not get distracted by debate as to what is, and is not leadership.**
 
@@ -131,7 +146,7 @@ Here, we'll help people familiarize themselves with MBTI personality preferences
 
 > Key Message: "You have tendencies that are different from others, on a variety of dimensions. Understanding and having a model for these will help you lead and work better with others."
 
-#####Speaking Notes
+<i class="fa fa-mic"></i>
 
 **Use or remix these speakers notes to introduce this part of the workshop**
 
@@ -148,7 +163,7 @@ What we hope you will learn from this is that each of us has a set of preference
 
 
 #### <i class="fa fa-file"></i> Slide: Myers Briggs
-
+<i class="fa fa-mic"></i>
 
 1. Using the Spectrogram facilitation model, label one side of the room as 'Introvert', and one side of the room 'Extrovert' and ask people to arrange themselves along an imaginary line between the two, **according to their results from the test**.
 2. Ask people to look around at where everyone is, thinking about each person, and how true, or surprising their place along this imaginary line might be.
@@ -161,13 +176,12 @@ Before beginning the next section, have everyone form four groups according to p
 * Moderately Extrovert  
 * Moderately Introvert
 
-
 #####  <i class="fa fa-file"></i> Slide: Extravert & Introvert (E/I)
 
 * Ask people to discuss the answer in their group.
 * Ask one or two people from each group to share something a reoccurring theme they see in their group.
 
-#### Speakers Notes
+<i class="fa fa-mic"></i>
 
 Generally, extraverts will be interested in parties or being around people. They get their energy from being with others. Introverts will be interested in chilling out alone, or with a couple of close friends, maybe reading a book or talking over a bottle of wine.
 
@@ -176,7 +190,6 @@ You should also point out that extroverts and introverts operate very differentl
 ##### Sensing (Observant) & Intuitive (S/N)
 
 You will be shown a photo for 10 seconds. On your own sheet of paper, write down what you saw. (show photo on slide)
-
 
 #### <i class="fa fa-file"></i> Slide: Street Photo (10 seconds)
 #### <i class="fa fa-file"></i> Slide: Sensing & Intuitive (S/N)
