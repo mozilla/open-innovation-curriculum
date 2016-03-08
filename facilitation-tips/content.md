@@ -1,6 +1,6 @@
 
 
-![facilitationheader])https://c2.staticflickr.com/6/5512/10511640443_1545489225_z.jpg)
+![facilitationheader](https://c2.staticflickr.com/6/5512/10511640443_1545489225_z.jpg)
 
 [<i class="fa fa-wrench"></i> Improve this content](https://github.com/mozilla/participation-curriculum/edit/gh-pages/facilitation-tips/content.md)
 
