@@ -3,7 +3,7 @@ A compiled list of facilitation tips, tricks and articles that can help you grow
 
 #### Introductions
 * **Step Up/Step Down**: Set a tone at the beginning, by encouraging people who usually talk a lot in group settings to 'step back' and do less talking, and those who usually don't speak, to 'step up' and talk a bit more.
-* Event Safety Guidelines: This document, can provide structure for a safe and supportive space.
+* [Event Safety Guidelines](https://github.com/mozilla/participation-org/blob/master/global_events/leadership_summit/code-of-conduct.md): This document, can provide structure for a safe and supportive space.
 
 ## General Rules
 
