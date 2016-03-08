@@ -8,18 +8,18 @@ This workshop bundle provides a number of workshops intended to teach, inspire a
 
 Coming Soon: (Download Curriculum Bundle)
 
-## [Facilitation Tips](/participation-curriculum/facilitation-tips/index.html)
+## [Facilitation Tips](http://mozilla.github.io/participation-curriculum/facilitation-tips/index.html)
 A compiled list of facilitation tips, tricks and articles that can help you grow your skills, while improving the outcome of your workshop.
 
 # Workshops
 
-## [Personal Leadership](/participation-curriculum/personal-leadership/index.html)
+## [Personal Leadership](http://mozilla.github.io/participation-curriculum/personal-leadership/index.html#)
 
 The is the foundational session for Personal Leadership in Mozilla that everyone will attend. The purpose is to establish a common language and set of practices for professional development, different personalities/leadership traits, and team formation. We will continue to refer to and build on these throughout the Summit and beyond. The hope is that it triggers healthy discussion on what leadership means in Mozilla.  
 
-## [Design Thinking](/participation-curriculum/rapid-prototyping/index.html#)
+## [Design Thinking](http://mozilla.github.io/participation-curriculum/rapid-prototyping/index.html#)
 
-## [Rapid Prototyping](/participation-curriculum/rapid-prototyping/index.html#)
+## [Rapid Prototyping](http://mozilla.github.io/participation-curriculum/rapid-prototyping/index.html#)
 
 Based on the [Rapid Prototyping](Based on the "Rapid Prototyping Talk by Tom Chi - Build effective, cutting-edge product prototypes in support of an ongoing innovation process. ) talk by Tom Chi - build effective, cutting edge prototypes in support of an ongoing innovation process.
 
@@ -27,7 +27,7 @@ This fun, interactive workshop poses a fun design challenge: "Build the perfect 
 
 []()[more]
 
-## [Running an Awesome Hackathon]()
+## [Running an Awesome Hackathon](http://mozilla.github.io/awesome-hackathon/index.html)
 
 This workshop will help attendees understand and embrace their potential to run a hackathon.  We'll also explore various components that can ensure success, such as mentorship roles, task design, preparation work, and communication.  We'll additionally explore different types of hackathons, and how to design for success in each.
 
