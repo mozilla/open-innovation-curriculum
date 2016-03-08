@@ -1,4 +1,10 @@
 
+
+![facilitationheader])https://c2.staticflickr.com/6/5512/10511640443_1545489225_z.jpg)
+
+[<i class="fa fa-wrench"></i> Improve this content](https://github.com/mozilla/participation-curriculum/edit/gh-pages/facilitation-tips/content.md)
+
+
 A compiled list of facilitation tips, tricks and articles that can help you grow your skills, while improving the outcome of your workshop.
 
 #### Introductions
@@ -32,3 +38,6 @@ A compiled list of facilitation tips, tricks and articles that can help you grow
 * [Facilitator Guidelines](http://facilitation.aspirationtech.org/index.php?title=Facilitation:Facilitator_Guidelines) - Aspiration Tech
 * "Shift from being an authority to a broker " [Hive NYC - Brokering](http://hivenyc.org/wp-content/uploads/Hive-Research-Lab-2015-Community-White-Paper-Brokering-Future-Learning-Opportunities.pdf)
 * [Democratizing Composition](https://democratizingcomposition.wordpress.com/2013/01/28/the-methods-behind-oureducon-madness/)
+
+
+'Mozfest' Image CC BY 2.0 from [mozilleau](https://www.flickr.com/photos/mozillaeu/)
