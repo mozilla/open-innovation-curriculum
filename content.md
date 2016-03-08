@@ -3,6 +3,9 @@
 Description of Bundle 1   
 [Download Zip File]()
 
+## [Facilitation Tips](http://mozilla.github.io/participation-curriculum/facilitation-tips/index.html)
+A compiled list of facilitation tips, tricks and articles that can help you grow your skills, while improving the outcome of your workshop.
+
 ## [Personal Leadership](http://mozilla.github.io/participation-curriculum/personal-leadership/index.html#)
 
 The is the foundational session for Personal Leadership in Mozilla that everyone will attend. The purpose is to establish a common language and set of practices for professional development, different personalities/leadership traits, and team formation. We will continue to refer to and build on these throughout the Summit and beyond. The hope is that it triggers healthy discussion on what leadership means in Mozilla.  
