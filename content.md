@@ -4,7 +4,7 @@
 
 # Participation Leadership Workshops
 
-This workshop bundle provides a number of workshops intended to teach, inspire and grow leadership community leadership at Mozilla.  Each workshop provides learning outcomes associated with the [Participation Leadership Framework](http://tiptoes.ca/wp-content/uploads/2015/08/2015-08-28_1244.png).
+This workshop bundle provides a number of workshops intended to teach, inspire and grow leadership community at Mozilla.  Each workshop provides learning outcomes associated with the [Participation Leadership Framework](http://tiptoes.ca/wp-content/uploads/2015/08/2015-08-28_1244.png).
 
 Coming Soon: (Download Curriculum Bundle)
 
@@ -13,7 +13,7 @@ A compiled list of facilitation tips, tricks and articles that can help you grow
 
 # Workshops
 
-## [Personal Leadership](/participation-curriculum/personal-leadership/index.html#)
+## [Personal Leadership](/participation-curriculum/personal-leadership/index.html)
 
 The is the foundational session for Personal Leadership in Mozilla that everyone will attend. The purpose is to establish a common language and set of practices for professional development, different personalities/leadership traits, and team formation. We will continue to refer to and build on these throughout the Summit and beyond. The hope is that it triggers healthy discussion on what leadership means in Mozilla.  
 
