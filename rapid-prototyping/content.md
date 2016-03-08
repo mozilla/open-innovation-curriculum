@@ -10,6 +10,10 @@ Based on Tom Chi's Mozilla Bantina talk: 'Rapid Prototyping', this workshop will
 
 >Rapid prototyping is the process of finding the fastest path to a direct experience of the thing you’re trying to create - Tom Chi
 
+### <i class="fa fa-book"></i> Preparing for this workshop
+
+This workshop has the best results when the right preparation is done in advance.  Everything included in this document is important for the success of the workshop
+
 ### Learning Objectives
 
 * The difference between 'guessing' and 'direct experience' in product innovation, and how each impacts progress differently.
@@ -25,7 +29,7 @@ This workshop lends to a diversity of skill-sets, interested in moving towards a
 * Paper in 3 sizes
 * Stapler (1 for every 5 people)
 * Staples (plenty)
-* Paper Clips
+* Tape
 * Masking Tape (2 rolls)
 * Pencils
 
@@ -37,6 +41,7 @@ This workshop can be run alone, or as part of a larger event. No specific pre-ev
 
 * Watch the Air Mozilla talk ['Rapid PrototypingProtyptyping'](https://air.mozilla.org/july-brantina-on-prototyping-with-tom-chi/) by [Tom Chi](http://twitter.com/thegoodtomchi).
 * [Read 'Don't Guess, Learn'](http://singularityhub.com/2015/10/16/dont-guess-learn-rapid-prototyping-with-tom-chi-video/): Rapid Prototyping with Tom Chi
+* [How to make a paper airplane]() fly farther (with staples and tape) or [any other resources](http://paper-design.wonderhowto.com/how-to/make-paper-airplane-fly-farther-302874/) on the craft.
 
 ### Agenda
 
@@ -88,7 +93,9 @@ Once everyone has completed their design:
 
 <i class="fa fa-microphone"></i> Speakers Notes
 
-When brainstorming solutions it's easy to get stuck in the opinion stage.  The loudest voice in the room, the highest ranked or most persuasive individual will often see their opinions adopted more quickly - but opinions are not proof.
+When brainstorming solutions it's easy to get stuck in the opinion stage.  The loudest voice in the room, the highest ranked or most persuasive individual will often see their opinions adopted more quickly. Sometimes the more we discuss opinions, the more certain we become.
+
+Options are not proof.
 
 #### Activity
 
@@ -104,6 +111,8 @@ Form groups of four, to discuss this question for 2 minutes:
 
 In contrast, direct experience is about quickly experimenting with those opinions to gather information that tells you what actually works, or doesn't work.
 
+#### Activity
+
 In the same groups:
 
 * Ask someone from each group to self-nominate as 'paper plane builder'.
@@ -111,6 +120,8 @@ In the same groups:
 * Ask someone fro each group to self-nominate as the 'success tracker'
 
 Give each group, 3 minutes to create and test 3 airplanes that test which paper is best.
+> <i class="fa fa-magic"></i> State ground rules for orderly testing of planes.
+
 When time is up, ask the following questions:
 
 1. What of the opinions phase was proven?
@@ -120,41 +131,39 @@ When time is up, ask the following questions:
 .
 > <i class="fa fa-magic"></i> Try to draw out important points that support 'Doesn't Guess Learn' .  If people proved their opinions, that's OK too - the emphasis is that experience is learning.
 
-
-#### Activity
-
-Ask groups to experiment with paper, cups or a mix of both to build a plane structure that they believe will fly furthest, fastest.
-
-Ask the groups to share the experience of building each plane.
-* Did the opinions expressed in the first session evaluate to true?   
-* What unexpected things did you learn?  What happen
-* What hapened when you learned something (expecting - adjustments, and sometimes big changes.)
-
-**Sharing Tom's story:**  In discussion about Google Glass - discussions were very intense about what text color should be, but that quick experiments quickly proved what the facts were.
+> <i class="fa fa-magic"></i>  Sharing Tom's Story: In discussion about Google Glass - discussions were very intense about what text color should be, opinions were certain red was best, but experimentation proved it was actually the worst color (light blue and yellow were best).  It would have been very hard to argue an opinion that these colors were ideal without actually trying.
 
 ## 2. Toolchain Considerations (Adaptability vs. Efficiency)
 
-Designing for adaptability vrs scalability or efficiency.   
+>Key Learning: Adaptability:  
 
-### Scalability & Effenciency
+### Scalability & Efficiency
 
-So we have our plane bodies, in rough shape probably, but they're emerging.   And now we need to actually decide now to fly these things.  We have elastic bands, remaining paper cups perhaps - some clothes pins.  With a room of creative people, you'll probably get a lot of different answers as to how you can launch your paper plane for the maximum distance and speed.
+We spend a lot of time designing for scalability and efficiency - with pure focus on these items.  Rapid prototyping, focuses on designing for adaptability.
+
+<i class="fa fa-microphone"></i> Speakers Notes
+
+We have an emerging sense of how we can use experimentation to quickly determine things that might take a lot longer to understand through even the most educated guess.
+
+Now, what we need to understand is how to optimize for learning that provides us the most information in the shortest period of time.
+
+> <i class="fa fa-magic"></i>  Sharing Tom's Story: Share the story of designing Google Glass's navigation system.  Developers worked six weeks to create the first design, which was apparently terrible.  It would have taken years to complete a six week development process to test each navigation system.  Instead they created an easy system of testing a variety of different combinations for swiping screens.
 
 ### Activity
 
-In groups ask one person to propose their idea, and ask the group to build it in one minute.  (this will not be enough time by a long shot.   
+Design challenge.  How might the addition of staples and/or tape add to the distance a single paper plan can fly?  How can we test this most quickly with the smallest amount of time?   Lets create a toolchain.  A toolchain is a series of actions taken
 
-* Ask groups how long they think they need to properly setup for, and test their airplane launch mechanism. Ty to surface people who are worried about time, quality, starting over.  
-* **If we invested this much time in every idea, we would be here for quite a long time.**
+In new groups of 3:
 
-### Adaptability
+* Identify the simplest design for a paper plane that can test how tape and staples might improve speed, and accuracy.
+* Build as many versions of the paper plane as you have people in your group.
+* Have each person experiment with different weighting using staples and/or tape.
+* Have each group test their planes, and document the results.
 
-Ask groups to revisit the actual problem, and using pen and paper, but to focus on the key problems they were trying to solve for.
+Ask everyone - what they learned.
+> <i class="fa fa-magic"></i> Try to draw out ideas that explain why reducing time, or removing some parts of the design, allowed them to focus on one specific outcome faster, but more effectively for that outcome.  This is the Rapid, in Rapid Prototyping.
 
-If there is an experiment you are going to run more than one time - build a Toolchain for it.
 
-
-**Sharing Tom's story**:
 
 ## 3. Staying in the Medium
 
