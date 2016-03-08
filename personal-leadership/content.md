@@ -1,5 +1,5 @@
 ![ls](https://c2.staticflickr.com/2/1448/24009148094_5ce13ab4a5.jpg)
-
+<i class="fa fa-wrench"></i> Improve this content](https://github.com/mozilla/participation-curriculum/blob/gh-pages/content.md)
 <time>90 Minutes</time>
 
 This is a guide for facilitators teaching the Personal Leadership workshop., which is a foundational session for community leadership at Mozilla.
