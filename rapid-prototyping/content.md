@@ -2,10 +2,7 @@
 
 <time>60 Minutes</time>
 
-Leadership Framework:
-<tag>Building for Action & Impact</tag>
-<tag>Empowering Teams & People</tag>
-<difficulty></difficulty>
+<i class="fa fa-pencil fa-3x"></i>  Draft
 
 #### Description
 
