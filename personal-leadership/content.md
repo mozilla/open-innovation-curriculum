@@ -8,7 +8,7 @@ This engaging workshop will equip participants with the opportunity to deepen se
 
 ### <i class="fa fa-book"></i> Preparing for this workshop
 
-This workshop has the best results when the right preparation is done in advance.  Everything including in this document is important for the success of the workshop:
+This workshop has the best results when the right preparation is done in advance.  Everything included in this document is important for the success of the workshop:
 
 #### Learning Objectives
 
@@ -44,7 +44,7 @@ Ideally this pre-work should be completed prior to  the workshop, if are in an u
 
 * [16 Personalities](http://www.16personalities.com) test, and to bring their results, INCLUDING percentages.
 
-> <i class="fa fa-magic"></i>Send participants email one week in advance, and then the night before the event to remind them of the importance of taking this test prior to attending.  
+> <i class="fa fa-magic"></i> Send participants email one week in advance, and then the night before the event to remind them of the importance of taking this test prior to attending.  
 
 #### Facilitator Pre-Work
 Prepare to run the workshop, by taking some time to review this entire document and:
@@ -64,10 +64,10 @@ Prepare to run the workshop, by taking some time to review this entire document 
 
 #### Physical Setup
 
-Depending on the size of your space, different formations may work.  Optimizing for group collaborations will be important, while ensuring the main facilitator can be seen and heard by the entire group.
+Depending on the size of your space, different formations may work.  Optimizing for group collaborations will be important, while ensuring the main facilitator can be seen and heard by the entire group. As the session will run over an hour, providing seating with room for breakout is  ideal.
 
-20 or less:  Circle formation
-20 or more: presentation format (speaker at front of the room)
+* 20 participants or less:  Circle formation
+* 20 or more: presentation format (speaker at front of the room)
 
 ## 1. Welcome!
 
@@ -77,7 +77,7 @@ Depending on the size of your space, different formations may work.  Optimizing 
 
 Start by introducing yourself and the workshop.
 
-<i class="fa fa-microphone"></i>Speakers Notes
+<i class="fa fa-microphone"></i> Speakers Notes
 
 Welcome to this session exploring your personal leadership. You are here today, not just as great members of this community, but as people with proven or emerging leadership.  
 
@@ -85,15 +85,15 @@ This workshop is about getting inside your strengths, weaknesses and tendencies 
 
 And it’s a fun and really interactive session!
 
-##### Setting the Tone
+#### Set The Tone on Leadership
 
-<i class="fa fa-microphone"></i>Speakers Notes
+<i class="fa fa-microphone"></i> Speakers Notes
 
 Now, we know that the word “Leadership” is problematic in some cultures and communities. It represents power and hierarchy - in some ways the opposite values of Mozilla’s communities. For the purposes of today’s session, let’s park some of these debates about language - if you’re getting caught up on the word, just think of replacing it with **“someone who mobilizes other Mozillians”.**
 
-##### Setting the Stage
+#### Setting Up
 
-**Before we get started, you'll need:**
+Before we get started, you'll need:
 
 * A pen and paper
 * Your MB test results from 16 personalities, including letters (i.e.: INFJ) and percentages.
@@ -111,9 +111,9 @@ Here's our agenda...
 ## 2. Exploring Leadership
 #### <i class="fa fa-file"></i> Slide: "Leadership is an inside job"
 
-> Key Message: Leadership is an inside job
+> **Key Message:** Leadership is an inside job
 
-<i class="fa fa-microphone"></i>Speakers Notes
+<i class="fa fa-microphone"></i> Speakers Notes
 
 This is a very rapid quick (5 min) exploration of leadership. It’s just meant to be a thought-starter and entry into the rest of the workshop - **the key is to not get distracted by debate as to what is, and is not leadership.**
 
@@ -138,7 +138,7 @@ Prompt your group with these questions, challenges and direction. Be sure to ech
 
 This section has a focus on helping people build honesty into their self-assessment.
 
-> Key Message: A key element of leadership is consciously thinking about what you are good at, what you need to work on, and committing to action that helps you grow personally through this awareness.
+> **Key Message:** A key element of leadership is consciously thinking about what you are good at, what you need to work on, and committing to action that helps you grow personally through this awareness.
 
 #### <i class="fa fa-file"></i> Slide: Stages of Growth Model (20 minutes)
 
@@ -168,7 +168,7 @@ Note: If you don't have a personal example you can use one of being 'unintention
 
 Here, we'll help people familiarize themselves with MBTI personality preferences, and how each of the dimensions influence how people think, behave and work together.
 
-> Key Message: "You have tendencies that are different from others, on a variety of dimensions. Understanding and having a model for these will help you lead and work better with others."
+> **Key Message:** "You have tendencies that are different from others, on a variety of dimensions. Understanding and having a model for these will help you lead and work better with others."
 
 
 <i class="fa fa-microphone"></i> Speakers Notes
