@@ -168,7 +168,7 @@ Note: If you don't have a personal example you can use one of being 'unintention
 
 Here, we'll help people familiarize themselves with MBTI personality preferences, and how each of the dimensions influence how people think, behave and work together.
 
-> **Key Message:** "You have tendencies that are different from others, on a variety of dimensions. Understanding and having a model for these will help you lead and work better with others."
+> **Key Message:** You have tendencies that are different from others, on a variety of dimensions. Understanding and having a model for these will help you lead and work better with others.
 
 
 <i class="fa fa-microphone"></i> Speakers Notes
