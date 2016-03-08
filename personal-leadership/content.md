@@ -39,16 +39,18 @@ This workshop has the best results when the right preparation is done in advance
 This workshop can be run alone, or as part of a larger event. You will need the email addresses of all participants in advance, to communicate attendee pre-work.
 
 #### Attendee Pre-Work
+
 Ideally this pre-work should be completed prior to  the workshop, if are in an unavoidable situation where attendees have not had time to complete the workshop in advance, create a space prior to the introduction to do this (vrs interrupting the workshop in progress).
 
 * [16 Personalities](http://www.16personalities.com) test, and to bring their results, INCLUDING percentages.
 
-> Send participants email one week in advance, and then the night before the event to remind them of the importance of taking this test prior to attending.  <i class="fa fa-magic"></i>
+> <i class="fa fa-magic"></i>Send participants email one week in advance, and then the night before the event to remind them of the importance of taking this test prior to attending.  
 
 #### Facilitator Pre-Work
+Prepare to run the workshop, by taking some time to review this entire document and:
 
 * Watch this facilitators intro video. (coming soon)
-* Know your own [personality type](16 Personalities [MBTI Test](http://www.16personalities.com).
+* Know your own [personality type](16 Personalities [MBTI Test](http://www.16personalities.com) .
 * Know how a [Spectogram](http://facilitation.aspirationtech.org/index.php?title=Facilitation:Spectrogram) works
 * (optional reading) [How to Grow Distributed Leadership]( https://medium.com/enspiral-tales/how-to-grow-distributed-leadership-7f6b25f0361c)
 
@@ -60,18 +62,36 @@ Ideally this pre-work should be completed prior to  the workshop, if are in an u
 4. Myers-Briggs Type Indicators - 25 min
 5. Wrap-up - 10 min
 
+#### Physical Setup
+
+Depending on the size of your space, different formations may work.  Optimizing for group collaborations will be important, while ensuring the main facilitator can be seen and heard by the entire group.
+
+20 or less:  Circle formation
+20 or more: presentation format (speaker at front of the room)
+
 ## 1. Welcome!
 
 #### <i class="fa fa-file"></i> Slide : Personal Leadership
 
-<i class="fa fa-microphone"></i>
+### Introduce Yourself!
+
+Start by introducing yourself and the workshop.
+
+<i class="fa fa-microphone"></i>Speakers Notes
+
 Welcome to this session exploring your personal leadership. You are here today, not just as great members of this community, but as people with proven or emerging leadership.  
 
 This workshop is about getting inside your strengths, weaknesses and tendencies as a leader in Mozilla. It’s also about having a common language we can all refer to during this session and beyond.
 
 And it’s a fun and really interactive session!
 
+##### Setting the Tone
+
+<i class="fa fa-microphone"></i>Speakers Notes
+
 Now, we know that the word “Leadership” is problematic in some cultures and communities. It represents power and hierarchy - in some ways the opposite values of Mozilla’s communities. For the purposes of today’s session, let’s park some of these debates about language - if you’re getting caught up on the word, just think of replacing it with **“someone who mobilizes other Mozillians”.**
+
+##### Setting the Stage
 
 **Before we get started, you'll need:**
 
@@ -93,13 +113,13 @@ Here's our agenda...
 
 > Key Message: Leadership is an inside job
 
-<i class="fa fa-microphone"></i>
+<i class="fa fa-microphone"></i>Speakers Notes
 
 This is a very rapid quick (5 min) exploration of leadership. It’s just meant to be a thought-starter and entry into the rest of the workshop - **the key is to not get distracted by debate as to what is, and is not leadership.**
 
 Think for a moment about the term distributed leadership. What positively resonates for you about this term, in your personal experiences and optimistic vision for your community?
 
-##### Facilitation Workflow:
+#### Personalizing Leadership
 
 Prompt your group with these questions, challenges and direction. Be sure to echo feedback, ideas and inspiration that feel meaningful for the entire group.
 
@@ -112,6 +132,8 @@ Prompt your group with these questions, challenges and direction. Be sure to ech
 	* Facilitation Note: Stand on a chair next to each group, to keep audience attention, and to better echo important statements.
 5. Referring to the slide - ask people what "Leadership is an inside job" means to them.
 
+> <i class="fa fa-magic"></i> Try out stories behind the traits & qualities people are sharing. For example you can ask "what was a time you experienced that? ""
+
 ## 3. Professional Growth
 
 This section has a focus on helping people build honesty into their self-assessment.
@@ -120,7 +142,7 @@ This section has a focus on helping people build honesty into their self-assessm
 
 #### <i class="fa fa-file"></i> Slide: Stages of Growth Model (20 minutes)
 
-##### Facilitation Workflow
+##### Stages of Growth
 
 > <i class="fa fa-magic"></i> Articulate to your group this message: "A key element of leadership is consciously thinking about what you are good at, what you need to work on."
 
@@ -141,14 +163,15 @@ Note: If you don't have a personal example you can use one of being 'unintention
 > <i class="fa fa-magic"></i> Use time when people are writing, to walk the room, people might have questions they're not as brave to ask in front of the larger group.
 
 ## 4. Myers-Briggs Type Indicators
-### 8 slides, followed by debrief
+
+<i class="fa fa-microphone"></i> 8 slides, followed by debrief
 
 Here, we'll help people familiarize themselves with MBTI personality preferences, and how each of the dimensions influence how people think, behave and work together.
 
 > Key Message: "You have tendencies that are different from others, on a variety of dimensions. Understanding and having a model for these will help you lead and work better with others."
 
-<i class="fa fa-microphone"></i>
 
+<i class="fa fa-microphone"></i> Speakers Notes
 **Use or remix these speakers notes to introduce this part of the workshop**
 
 The purpose of this section is to introduce you to a tool that will help in the process of both deepening self-awareness (uncovering more of the right-hand side of your page) and also building awareness of others.
@@ -159,9 +182,6 @@ The tool that we are going to use for this session is the Myers-Briggs Type Indi
 
 **Question**: How many people did the pre-assignment of the online test for their MBTI type? (hopefully everyone!)
 **Statement**: We chose this test because it is a common framework backed by substantial science and practice in team development. But, I must stress that it is merely a tool, and it merely reflects preferences. Let’s use it to help us, not to constrain us.
-
-> <i class="fa fa-magic"></i> The above statement is important emphasis, don't let
-
 
 What we hope you will learn from this is that each of us has a set of preferences in how we interact with the outside world. Each person’s preferences are a bit different, and these differences can sometimes cause friction when working as a team. Once these preferences are made conscious, you can work on adapting, or coaching others to help them adapt, to each other’s needs.
 
@@ -180,16 +200,18 @@ Before beginning the next section, have everyone form four groups according to p
 * Moderately Extrovert  
 * Moderately Introvert
 
+> <i class="fa fa-magic"></i>  If people are uncertain where they belong, eve with percentages, tell them to go with their instinct based on what they have learned so far.
+
 #####  <i class="fa fa-file"></i> Slide: Extravert & Introvert (E/I)
 
 * Ask people to discuss the answer in their group.
 * Ask one or two people from each group to share something a reoccurring theme they see in their group.
 
-<i class="fa fa-microphone"></i>
+<i class="fa fa-microphone"></i> Speakers Notes
 
 Generally, extraverts will be interested in parties or being around people. They get their energy from being with others. Introverts will be interested in chilling out alone, or with a couple of close friends, maybe reading a book or talking over a bottle of wine.
 
-You should also point out that extroverts and introverts operate very differently in group settings -- like meetings and brainstorming sessions. Extroverts are generally louder, think out loud and react quickly. Introverts tend to be quieter, like thinking before they talk and focus on one thing at a time. Ask something like “how might you design something like a brainstorm with both extraverts and introverts in mind?”
+You should also point out that extroverts and introverts operate very differently in group settings -- like meetings and brainstorming sessions. Extroverts are generally louder, think out loud and react quickly. Introverts tend to be quieter, like thinking before they talk and focus on one thing at a time. Ask something like “how might you design something like a brainstorm with both extraverts and introverts in mind?”.
 
 ##### Sensing (Observant) & Intuitive (S/N)
 
