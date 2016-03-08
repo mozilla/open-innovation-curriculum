@@ -1,58 +1,84 @@
-![ls](https://c2.staticflickr.com/2/1627/24541455102_4e2bbfdb27.jpg)
-
+![ls](https://c2.staticflickr.com/8/7342/9624850987_c399572fd2_z.jpg)
+[<i class="fa fa-wrench"></i> Improve this content](https://github.com/mozilla/participation-curriculum/blob/gh-pages/content.md)
+* * *
 <time>60 Minutes</time>
 
 <i class="fa fa-pencil fa-3x"></i>  Draft
 
-#### Description
 
 Based on Tom Chi's Mozilla Bantina talk: 'Rapid Prototyping', this workshop will take people through a series of 'Mental Debugs' that can help you innovate for better project outcomes in less time.
+
+>Rapid prototyping is the process of finding the fastest path to a direct experience of the thing you’re trying to create - Tom Chi
 
 ### Learning Objectives
 
 * The difference between 'guessing' and 'direct experience' in product innovation, and how each impacts progress differently.
-* The difference between Adaptability vs. Efficiency in iterating through ideas to find the best ones.
+* The difference between Adaptability vs. Efficiency in iterating through ideas to find the best.
+* Why 'staying in your medium', when you create and invent
 
-#### Who can benefit from this workshop
+#### Who Can Benefit From This Workshop?
 
-This workshop is for :
+This workshop lends to a diversity of skill-sets, interested in moving towards an innovative goal, more quickly and with greater outcomes.
 
-*
+## Materials & Prep-Work
 
-## Materials & Pre-Work
-
-
-## Materials
-* Post It notes
-* Paper (printer sized)
-* Clothes pins
-* Elastic bands
-* Paper clips
-* Paper cups
+* Paper in 3 sizes
+* Stapler (1 for every 5 people)
+* Staples (plenty)
+* Paper Clips
+* Masking Tape (2 rolls)
+* Pencils
 
 #### Outreach & Communication
 
-### Attendee Pre-Work
-
-* None
+This workshop can be run alone, or as part of a larger event. No specific pre-event outreach is required.
 
 ### Facilitator Pre-Work
 
 * Watch the Air Mozilla talk ['Rapid PrototypingProtyptyping'](https://air.mozilla.org/july-brantina-on-prototyping-with-tom-chi/) by [Tom Chi](http://twitter.com/thegoodtomchi).
+* [Read 'Don't Guess, Learn'](http://singularityhub.com/2015/10/16/dont-guess-learn-rapid-prototyping-with-tom-chi-video/): Rapid Prototyping with Tom Chi
 
 ### Agenda
 
 1. Introduction
-2. Debug 1: Guessing vrs Direct Experience
+2. Debug 1: Guessing vs. Direct Experience
 3. Debug 2: Adaptability vs. Efficiency
-4. Debug 3: Adaptability vs. Efficiency
-5. Debug 4:
+4. Debug 3: Staying in the Medium
+5. Debug 4: Research vs. Development
+6. Demos
+
+#### Physical Setup
+
+You will need to build a 'landing strip' area for paper airplane testing
+
+1. The landing strip should allow for maximum flight time of the average airplane without hitting a wall, or other objects like people...
+2. Run masking tape along each side of your landing strip, or a [similar formation](https://www.pinterest.com/pin/242842604881657712/) that allows you to track and measure how far our planes will fly.
+3. Bonus:  Create one or two 'circles' in the landing strip, for increased difficulty targets.
 
 ## Introduction
 
+Start by introducing yourself and your workshop!
+
+> Key Learning:  It's easy to get excited about a design challenge, to immediately dig into complex and advanced solutions - and even to feel confident we're on the right path.
+
+<i class="fa fa-microphone"></i> Speakers Notes
+
 This workshop is based on a talk by Tom Chi.  Tom Chi co-founded GoogleX, the semi-secret group responsible for cutting edge products including autonomous driving vehicles, contact lenses that monitor glucose through tears and balloons that in the stratosphere provide Internet access.
 
-In groups of 3, your will be engineering the fastest paper airplane. You must use all materials provided to you.
+Now, before we get started we are going to give you a design challenge: using a pencil and paper, document  the steps needed to build the best, fastest most attractive paper plane possible.  You have only one piece of paper, and it's the one you will be writing your instructions for.  Take your time, knowing these are the only four things you need to consider:
+
+1. You will have one piece of paper, a stapler, and a few paper clips.
+2. Your airplane needs to go the farthest and straightest to win.
+3. Someone else needs to be able to follow your instructions.
+4. You have five minutes.
+
+And go!  (time for 5 minutes)
+
+
+Once everyone has completed their design:
+
+*  Ask who feels they have the solid design?
+*  Ask them to hand them to set those aside for now.
 
 ## 1. Guessing vrs Direct Experience
 
@@ -60,23 +86,40 @@ In groups of 3, your will be engineering the fastest paper airplane. You must us
 
 ### Guessing
 
-Guessing without direct experience provides nothing - except perhaps, some guesses sound more believable.  It might also prove who is better at arguing - and in fact it's usually the better arguer, or higher-ranked person who tends to have the most success in guessing.   
+<i class="fa fa-microphone"></i> Speakers Notes
+
+When brainstorming solutions it's easy to get stuck in the opinion stage.  The loudest voice in the room, the highest ranked or most persuasive individual will often see their opinions adopted more quickly - but opinions are not proof.
 
 #### Activity
 
-Our goal is to build the fastest paper airplane, but we first need to answer a question: "Should we use cups or paper to build the main frame of our airplane, and why?"
+Our goal is to build the fastest paper airplane, but we first need to answer a question - what paper shape, is ideal for building paper airplanes?
 
-Organize people into groups of 4-5 people, and provide each group with:
-* 2 pieces of paper
-* 5 elastics
-* 5 clothes pins
-* 2 per cups
+Form groups of four, to discuss this question for 2 minutes:
 
-1. Ask groups to share the more popular opinions emerging in their group. Try to draw out whether there were any opinions dismissed early on, and what played a role in forming group opinion. Maybe there was never a consensus, draw this out as well. Key message **proving opinions is  hard and time consuming**.
+"Which paper shape, of those provided will lend to the best plane results and why?"
+
+> <i class="fa fa-magic"></i> Ask groups to share the more popular opinions emerging in their group. Try to draw out whether there were any opinions dismissed early on, and what played a role in forming group opinion. Maybe there was never a consensus, draw this out as well. Key message **proving opinions is  hard and time consuming**.
 
 ### Experience
 
 In contrast, direct experience is about quickly experimenting with those opinions to gather information that tells you what actually works, or doesn't work.
+
+In the same groups:
+
+* Ask someone from each group to self-nominate as 'paper plane builder'.
+* Ask someone from each group to self-nominate as the 'paper plane tester'
+* Ask someone fro each group to self-nominate as the 'success tracker'
+
+Give each group, 3 minutes to create and test 3 airplanes that test which paper is best.
+When time is up, ask the following questions:
+
+1. What of the opinions phase was proven?
+2. What of the opinions phase was disproven?
+3. What did you learn that you couldn't have otherwise without actually trying these tests?
+4. To iterate quickly, what steps did you cut out (if any) to build your prototypes faster?
+.
+> <i class="fa fa-magic"></i> Try to draw out important points that support 'Doesn't Guess Learn' .  If people proved their opinions, that's OK too - the emphasis is that experience is learning.
+
 
 #### Activity
 
@@ -116,3 +159,6 @@ If there is an experiment you are going to run more than one time - build a Tool
 ## 3. Staying in the Medium
 
 ## 4. Research vrs Development
+
+****
+Image: 'Paper Plane, from a galaxy far, far away...' by [ElPadawan](https://www.flickr.com/photos/elpadawan/) [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)

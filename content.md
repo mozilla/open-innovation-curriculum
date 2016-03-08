@@ -2,6 +2,8 @@
 
 [<i class="fa fa-wrench"></i> Improve this content](https://github.com/mozilla/participation-curriculum/blob/gh-pages/content.md)
 
+* * *
+
 # Participation Leadership Workshops
 
 This workshop bundle provides a number of workshops intended to teach, inspire and grow leadership community at Mozilla.  Each workshop provides learning outcomes associated with the [Participation Leadership Framework](http://tiptoes.ca/wp-content/uploads/2015/08/2015-08-28_1244.png).
