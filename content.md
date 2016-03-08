@@ -1,10 +1,13 @@
 # Participation Leadership Workshops
 
-Description of Bundle 1   
-[Download Zip File]()
+This workshop bundle provides a number of workshops intended to teach, inspire and grow leadership community leadership at Mozilla.  Each workshop provides learning outcomes associated with the [Participation Leadership Framework](http://tiptoes.ca/wp-content/uploads/2015/08/2015-08-28_1244.png).
+
+Coming Soon: (Download Curriculum Bundle)
 
 ## [Facilitation Tips](/participation-curriculum/facilitation-tips/index.html)
 A compiled list of facilitation tips, tricks and articles that can help you grow your skills, while improving the outcome of your workshop.
+
+# Workshops
 
 ## [Personal Leadership](/participation-curriculum/personal-leadership/index.html#)
 

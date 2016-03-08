@@ -123,7 +123,7 @@ function buildContent(html){
   var pageTitle;
 
   $("article").attr("id","introduction");
-  $("nav").append("<a class='selected' href='#introduction'></a>");
+  $("nav").append("<a class='selected' href='#introduction'>Intro</a>");
 
   $(html).each(function(i,el){
 
