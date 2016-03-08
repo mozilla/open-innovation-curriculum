@@ -73,7 +73,7 @@ Depending on the size of your space, different formations may work.  Optimizing 
 
 #### <i class="fa fa-file"></i> Slide : Personal Leadership
 
-### Introduce Yourself!
+#### Introduce Yourself!
 
 Start by introducing yourself and the workshop.
 
@@ -132,7 +132,7 @@ Prompt your group with these questions, challenges and direction. Be sure to ech
 	* Facilitation Note: Stand on a chair next to each group, to keep audience attention, and to better echo important statements.
 5. Referring to the slide - ask people what "Leadership is an inside job" means to them.
 
-> <i class="fa fa-magic"></i> Try out stories behind the traits & qualities people are sharing. For example you can ask "what was a time you experienced that? ""
+> <i class="fa fa-magic"></i> Try tease out stories behind the qualities people are sharing. For example you can ask "what was a time you experienced that? How did it make you feel?"
 
 ## 3. Professional Growth
 
@@ -236,7 +236,7 @@ Ask groups to consider this question on your slide, and in groups to discuss how
 
 In this case the thinking people will have answers or questions that seem a bit more technical and less caring (e.g. ensure that security is notified, prepare a letter explaining that he is being fired, get his keys, etc.). The feeling people will likely have warmer answers or questions, and may look for a way to avoid conflict (e.g. does he have kids, how will his family react, is there another job in the company that we may be able to find for him, etc.).
 
-**One thing that is very important** to point out here is that thinking people may sometimes appear more self-centered, or less caring about people. This is not necessarily the case – they may just show their caring for people in a different way, and one that is less personal.
+> <i class="fa fa-magic"></i>  One thing important to point out here, is that thinking people may sometimes appear more self-centered, or less caring about people. This is not necessarily the case – they may just show their caring for people in a different way, and one that is less personal.
 
 ### Judging & Prospecting (J/P)
 #### <i class="fa fa-file"></i> Slide: Judging & Prospecting
@@ -246,7 +246,7 @@ Ask groups to work together, to write down how they would plan for this scenario
 
 The 'J''s will likely focus on the planning, and execution of the trip: vaccinations, visas, water purification tablets, while 'P''s will procrastinate a bit and think about the funner aspects of their grip (calling up friends, read about the Galapagos).
 
-> There are two major differences in J/P that can cause a great deal of conflict – timing and closure**.
+> <i class="fa fa-magic"></i> Emphasize there are two major differences in J/P that can cause a great deal of conflict – timing and closure
 
 Ask a “P” in the group if a meeting is called for 6pm, when an acceptable time of arrival is. The answer will likely be “anytime between 6 and 6:15pm.” Ask a “J” the same question and the answer could be “anytime between 5:30pm and 6pm.” Thus, a “P” could conceivably arrive 30-45 minutes later than a “J” for any given meeting, causing a whole lot of stress. This goes for agendas as well. “J”s want them “P”s will think that agendas “constrain me.”
 
@@ -261,5 +261,7 @@ This is your opportunity to facilitate the closing, by pulling out the key insig
 * How many would be interested in running this workshop for others?
 
 Call to action here is to emphasis wha we learned about ourselves, and how being aware of tendencies, and those of others we can work better, together as a decision we make every day to make leadership an inside job that benefits our teams.
+
+> <i class="fa fa-magic"></i> Let your group know that this workshop is available for them to run for emerging leaders in their area!
 
 Image [CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/) by [christosbacharakis](https://www.flickr.com/photos/christosbacharakis/)

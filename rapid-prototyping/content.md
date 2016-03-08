@@ -1,13 +1,13 @@
 ![ls](https://c2.staticflickr.com/2/1627/24541455102_4e2bbfdb27.jpg)
 
-<time> 60 minutes </time>
+<time>60 Minutes</time>
 
-Leadership Framework: 
+Leadership Framework:
 <tag>Building for Action & Impact</tag>
 <tag>Empowering Teams & People</tag>
 <difficulty></difficulty>
 
-#### Description 
+#### Description
 
 Based on Tom Chi's Mozilla Bantina talk: 'Rapid Prototyping', this workshop will take people through a series of 'Mental Debugs' that can help you innovate for better project outcomes in less time.
 
@@ -16,7 +16,14 @@ Based on Tom Chi's Mozilla Bantina talk: 'Rapid Prototyping', this workshop will
 * The difference between 'guessing' and 'direct experience' in product innovation, and how each impacts progress differently.
 * The difference between Adaptability vs. Efficiency in iterating through ideas to find the best ones.
 
-### Audience
+#### Who can benefit from this workshop
+
+This workshop is for :
+
+*
+
+## Materials & Pre-Work
+
 
 ## Materials
 * Post It notes
@@ -25,6 +32,8 @@ Based on Tom Chi's Mozilla Bantina talk: 'Rapid Prototyping', this workshop will
 * Elastic bands
 * Paper clips
 * Paper cups
+
+#### Outreach & Communication
 
 ### Attendee Pre-Work
 
@@ -39,7 +48,8 @@ Based on Tom Chi's Mozilla Bantina talk: 'Rapid Prototyping', this workshop will
 1. Introduction
 2. Debug 1: Guessing vrs Direct Experience
 3. Debug 2: Adaptability vs. Efficiency
-4. 
+4. Debug 3: Adaptability vs. Efficiency
+5. Debug 4:
 
 ## Introduction
 
@@ -49,7 +59,7 @@ In groups of 3, your will be engineering the fastest paper airplane. You must us
 
 ## 1. Guessing vrs Direct Experience
 
-> Key Message:  Guessing without direct experience proves nothing, except perhaps some guesses sound more believable than others.  By creating light-weight experiences to test a hypothesis, we can move more quickly towards our answers and better prototypes. 
+> Key Message:  Guessing without direct experience proves nothing, except perhaps some guesses sound more believable than others.  By creating light-weight experiences to test a hypothesis, we can move more quickly towards our answers and better prototypes.
 
 ### Guessing
 
@@ -65,7 +75,7 @@ Organize people into groups of 4-5 people, and provide each group with:
 * 5 clothes pins
 * 2 per cups
 
-1. Ask groups to share the more popular opinions emerging in their group. Try to draw out whether there were any opinions dismissed early on, and what played a role in forming group opinion. Maybe there was never a consensus, draw this out as well. Key message **proving opinions is  hard and time consuming**. 
+1. Ask groups to share the more popular opinions emerging in their group. Try to draw out whether there were any opinions dismissed early on, and what played a role in forming group opinion. Maybe there was never a consensus, draw this out as well. Key message **proving opinions is  hard and time consuming**.
 
 ### Experience
 
@@ -75,20 +85,20 @@ In contrast, direct experience is about quickly experimenting with those opinion
 
 Ask groups to experiment with paper, cups or a mix of both to build a plane structure that they believe will fly furthest, fastest.
 
-Ask the groups to share the experience of building each plane. 
+Ask the groups to share the experience of building each plane.
 * Did the opinions expressed in the first session evaluate to true?   
 * What unexpected things did you learn?  What happen
 * What hapened when you learned something (expecting - adjustments, and sometimes big changes.)
 
 **Sharing Tom's story:**  In discussion about Google Glass - discussions were very intense about what text color should be, but that quick experiments quickly proved what the facts were.
 
-## 2. Toolchain Consdierations (Adaptability vs. Efficiency)
+## 2. Toolchain Considerations (Adaptability vs. Efficiency)
 
 Designing for adaptability vrs scalability or efficiency.   
 
-### Scalability & Effeciency
+### Scalability & Effenciency
 
-So we have our plane bodies, in rought shape probably, but they're emerging.   And now we need to actually decide now to fly these things.  We have elastic bands, remaining paper cups perhaps - some clothes pins.  With a room of creative people, you'll probably get a lot of different answers as to how you can launch your paper plane for the maximum distance and speed.
+So we have our plane bodies, in rough shape probably, but they're emerging.   And now we need to actually decide now to fly these things.  We have elastic bands, remaining paper cups perhaps - some clothes pins.  With a room of creative people, you'll probably get a lot of different answers as to how you can launch your paper plane for the maximum distance and speed.
 
 ### Activity
 
@@ -104,7 +114,7 @@ Ask groups to revisit the actual problem, and using pen and paper, but to focus 
 If there is an experiment you are going to run more than one time - build a Toolchain for it.
 
 
-**Sharing Tom's story**: 
+**Sharing Tom's story**:
 
 ## 3. Staying in the Medium
 
