@@ -166,7 +166,7 @@ Ask everyone - what they learned.
 
 ## 3. Staying in the Medium
 
-[painting](https://c2.staticflickr.com/8/7399/8804107230_00c9686be8.jpg)
+![painting](https://c2.staticflickr.com/8/7399/8804107230_00c9686be8.jpg)
 
 > Key Message:  If you are developing software, whether designer, coder or product manager your medium is not pixels, not code, not timelines - its human behavior.
 
@@ -180,9 +180,9 @@ If you work on software, your medium is human behavior in the real world. If you
 
 Ask your group this question:
 
-"If you were building paper planes for a group of people who are serious about paper plane races, how would you put yourself in front of them regularly, to test what you're building? 
+"If you were building paper planes for a group of adults who are serious about paper plane races, how would you put yourself in front of them regularly, to get feedback on you're building? "
 
-> <i class="fa fa-magic"></i> Draw out from this, in a personal story, of how you can put  yourself in-front of the people who use, or might use the things we are designing for. Not as a special thing, but as something we do, in some way - regularly.
+> <i class="fa fa-magic"></i> Emphasis the important of putting your product, ideas, and outcome in front of people for regular feedback.  Not as something you do after 10 weeks, but something built into your development workflow.
 
 ## 4. Research vrs Development
 
@@ -190,7 +190,7 @@ Ask your group this question:
 
 <i class="fa fa-microphone"></i> Speakers Notes  
 
-We often hear the terms Research & Design as seperate terms.
+We often hear the terms Research & Design as separate terms.
 
 Development teaches you, how to go narrow and deep on specific things to focus on reaching specific outcomes.
 
