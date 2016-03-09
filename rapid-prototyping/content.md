@@ -98,7 +98,7 @@ Options are not proof.
 
 #### Activity
 
-Our goal is to build the fastest paper airplane, but we first need to answer a question - what paper shape, is ideal for building paper airplanes?
+Our goal is to build the fastest paper airplane, but we first need to answer a question - of the three available paper 'shapes'm wgucg is ideal for building paper airplanes?
 
 Form groups of three, to discuss this question for 2 minutes:
 
@@ -130,13 +130,13 @@ When time is up, ask the following questions:
 4. To iterate quickly, what steps did you cut out (if any) to build your prototypes faster?
 
 
-> <i class="fa fa-magic"></i> Try to draw out important points that support 'Doesn't Guess Learn' message of Tom's presentation .  If people proved their opinions, that's OK too - the emphasis is on the experience is learning.
+> <i class="fa fa-magic"></i> Try to draw out important points that support 'Doesn't Guess Learn' message of Tom's presentation .  If people proved their opinions, that's OK too - the emphasis in on the experience of learning.
 
-> <i class="fa fa-magic"></i>  Sharing Tom's Story: In the story of Google Glass - discussions were very intense about what text color should be, opinions were certain red was best, but experimentation proved it was actually the worst color (light blue and yellow were best).  It would have been very hard to argue an opinion that these colors were ideal without actually trying.
+> <i class="fa fa-magic"></i>  Share Tom's Story: In the story of Google Glass - discussions were very intense about what text color should be, opinions were certain red was best, but experimentation proved it was actually the worst color (light blue and yellow were best).  It would have been very hard to argue an opinion that these colors were ideal without actually trying.
 
 ## 2. Toolchain Considerations (Adaptability vs. Efficiency)
 
->Key Learning: Adaptability:  
+>Key Learning: Adaptability tested through rapid toolchain testing, is a valuable alternative to engineering for scaling and efficiency.
 
 ### Scalability & Efficiency
 
@@ -148,7 +148,7 @@ We have an emerging sense of how we can use experimentation to quickly determine
 
 Now, what we need to understand is how to optimize for learning that provides us the most information in the shortest period of time.
 
-> <i class="fa fa-magic"></i>  Sharing Tom's Story: Share the story of designing Google Glass's navigation system.  Developers worked six weeks to create the first design, which was apparently terrible.  It would have taken years to complete a six week development process to test each navigation system.  Instead they created an easy system of testing a variety of different combinations for swiping screens.
+> <i class="fa fa-magic"></i>  single-character Tom's Story of designing Google Glass's navigation system.  Developers worked 5 weeks to create the first design, which was apparently terrible.  It would have taken years to complete a six week development process to test each  of 50 navigation ideas.  Instead they created an easy system of testing a variety of different combinations for swiping screens.
 
 ### Activity
 
