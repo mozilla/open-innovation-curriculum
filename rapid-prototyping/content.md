@@ -198,18 +198,19 @@ Research is literally the opposite. Research is the shortest amount of time, whe
 
 #### TODO Activity (creating 150 planes to see which is best?)
 
-> Key Message: Challenge yourself to improve in some small way all you do.
-
 ## 5. Improve Your Runtime
+
+> Key Message: Challenge yourself to improve in some small way all you do.
 
 A lot of time we stop improving, because we get stuck on 'good enough'.  The thing about 'good enough' is that we may not be even close to our potential.
 
-> <i class="fa fa-magic"></i>  Share Tom's Story (or your own!) about learning the cello.  Not being good at something, doesn't mean you won't be.
+> <i class="fa fa-magic"></i>  Share Tom's Story about learning the cello, or share your own story about goal setting for improvement (whether it's new or inspired).  
 
 #### TODO Activity What can you measure about your work, or processes to challange yourself to improve.
 
 ## 5. Wrap-Up
 
+Use wrap-up to ask people how they think they can apply what they've learned to goals they already have for innovating, improving or inventing.   
 
 
 ****
