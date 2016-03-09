@@ -5,7 +5,6 @@
 
 <i class="fa fa-pencil fa-3x"></i>  Draft
 
-
 Based on Tom Chi's Mozilla Bantina talk: 'Rapid Prototyping', this workshop will take people through a series of 'Mental Debugs' that can help you innovate for better project outcomes in less time.
 
 >Rapid prototyping is the process of finding the fastest path to a direct experience of the thing you’re trying to create - Tom Chi
@@ -14,7 +13,7 @@ Based on Tom Chi's Mozilla Bantina talk: 'Rapid Prototyping', this workshop will
 
 This workshop has the best results when the right preparation is done in advance.  Everything included in this document is important for the success of the workshop
 
-### Learning Objectives
+#### Learning Objectives
 
 * The difference between 'guessing' and 'direct experience' in product innovation, and how each impacts progress differently.
 * The difference between Adaptability vs. Efficiency in iterating through ideas to find the best.
@@ -37,13 +36,13 @@ This workshop lends to a diversity of skill-sets, interested in moving towards a
 
 This workshop can be run alone, or as part of a larger event. No specific pre-event outreach is required.
 
-### Facilitator Pre-Work
+#### Facilitator Pre-Work
 
 * Watch the Air Mozilla talk ['Rapid PrototypingProtyptyping'](https://air.mozilla.org/july-brantina-on-prototyping-with-tom-chi/) by [Tom Chi](http://twitter.com/thegoodtomchi).
 * [Read 'Don't Guess, Learn'](http://singularityhub.com/2015/10/16/dont-guess-learn-rapid-prototyping-with-tom-chi-video/): Rapid Prototyping with Tom Chi
 * [How to make a paper airplane]() fly farther (with staples and tape) or [any other resources](http://paper-design.wonderhowto.com/how-to/make-paper-airplane-fly-farther-302874/) on the craft.
 
-### Agenda
+#### Agenda
 
 1. Introduction
 2. Debug 1: Guessing vs. Direct Experience
@@ -60,7 +59,7 @@ You will need to build a 'landing strip' area for paper airplane testing
 2. Run masking tape along each side of your landing strip, or a [similar formation](https://www.pinterest.com/pin/242842604881657712/) that allows you to track and measure how far our planes will fly.
 3. Bonus:  Create one or two 'circles' in the landing strip, for increased difficulty targets.
 
-## Introduction
+## Workshop
 
 Start by introducing yourself and your workshop!
 
@@ -70,15 +69,15 @@ Start by introducing yourself and your workshop!
 
 This workshop is based on a talk by Tom Chi.  Tom Chi co-founded GoogleX, the semi-secret group responsible for cutting edge products including autonomous driving vehicles, contact lenses that monitor glucose through tears and balloons that in the stratosphere provide Internet access.
 
-Now, before we get started we are going to give you a design challenge: using a pencil and paper, document  the steps needed to build the best, fastest most attractive paper plane possible.  You have only one piece of paper, and it's the one you will be writing your instructions for.  Take your time, knowing these are the only four things you need to consider:
+Before we get started, I'm giving you your first design challenge! Using a pencil and paper, document the steps needed to build the best, fastest most attractive paper plane possible - and describe the technique needed to fly it properly.  
 
-1. You will have one piece of paper, a stapler, and a few paper clips.
-2. Your airplane needs to go the farthest and straightest to win.
+You have only one piece of paper, and it's the one you will be writing your instructions for.  You have 5 minutes to consider your design with these considerations:
+
+1. You will have one piece of paper, a stapler, and tape.
+2. Your airplane needs to go the farthest to win.
 3. Someone else needs to be able to follow your instructions.
-4. You have five minutes.
 
 And go!  (time for 5 minutes)
-
 
 Once everyone has completed their design:
 
@@ -87,7 +86,7 @@ Once everyone has completed their design:
 
 ## 1. Guessing vrs Direct Experience
 
-> Key Message:  Guessing without direct experience proves nothing, except perhaps some guesses sound more believable than others.  By creating light-weight experiences to test a hypothesis, we can move more quickly towards our answers and better prototypes.
+> Key Message:  Guessing without direct experience proves nothing, except perhaps that **some guesses** sound more believable than others.  By creating light-weight experiences to test a hypothesis, we can move more quickly towards true knowledge and better prototypes.
 
 ### Guessing
 
@@ -101,11 +100,11 @@ Options are not proof.
 
 Our goal is to build the fastest paper airplane, but we first need to answer a question - what paper shape, is ideal for building paper airplanes?
 
-Form groups of four, to discuss this question for 2 minutes:
+Form groups of three, to discuss this question for 2 minutes:
 
-"Which paper shape, of those provided will lend to the best plane results and why?"
+"Consider the three choices for paper we have today. Which of these will lend to the best plane results and why?"
 
-> <i class="fa fa-magic"></i> Ask groups to share the more popular opinions emerging in their group. Try to draw out whether there were any opinions dismissed early on, and what played a role in forming group opinion. Maybe there was never a consensus, draw this out as well. Key message **proving opinions is  hard and time consuming**.
+> <i class="fa fa-magic"></i> Ask groups to share the more popular opinions emerging in their group. Try to draw out whether there were any opinions dismissed early on, and what played a role in forming group opinion. Maybe there was never a consensus, draw this out as well. **Proving opinions is  hard and time consuming**.
 
 ### Experience
 
@@ -113,13 +112,14 @@ In contrast, direct experience is about quickly experimenting with those opinion
 
 #### Activity
 
-In the same groups:
+Provide each group with one sheet of each sized paper. In each group:
 
-* Ask someone from each group to self-nominate as 'paper plane builder'.
-* Ask someone from each group to self-nominate as the 'paper plane tester'
-* Ask someone fro each group to self-nominate as the 'success tracker'
+* Ask someone to self-nominate as 'paper plane builder'.
+* Ask someone to self-nominate as the 'paper plane tester'.
+* Ask someone to self-nominate as the 'success tracker'.
 
-Give each group, 3 minutes to create and test 3 airplanes that test which paper is best.
+Give each group, 3 minutes to create and test 3 airplanes that test which paper is best. Less direction is better, let the group experiment with however they want to design for each paper-type.
+
 > <i class="fa fa-magic"></i> State ground rules for orderly testing of planes.
 
 When time is up, ask the following questions:
@@ -128,10 +128,11 @@ When time is up, ask the following questions:
 2. What of the opinions phase was disproven?
 3. What did you learn that you couldn't have otherwise without actually trying these tests?
 4. To iterate quickly, what steps did you cut out (if any) to build your prototypes faster?
-.
-> <i class="fa fa-magic"></i> Try to draw out important points that support 'Doesn't Guess Learn' .  If people proved their opinions, that's OK too - the emphasis is that experience is learning.
 
-> <i class="fa fa-magic"></i>  Sharing Tom's Story: In discussion about Google Glass - discussions were very intense about what text color should be, opinions were certain red was best, but experimentation proved it was actually the worst color (light blue and yellow were best).  It would have been very hard to argue an opinion that these colors were ideal without actually trying.
+
+> <i class="fa fa-magic"></i> Try to draw out important points that support 'Doesn't Guess Learn' message of Tom's presentation .  If people proved their opinions, that's OK too - the emphasis is on the experience is learning.
+
+> <i class="fa fa-magic"></i>  Sharing Tom's Story: In the story of Google Glass - discussions were very intense about what text color should be, opinions were certain red was best, but experimentation proved it was actually the worst color (light blue and yellow were best).  It would have been very hard to argue an opinion that these colors were ideal without actually trying.
 
 ## 2. Toolchain Considerations (Adaptability vs. Efficiency)
 
@@ -162,6 +163,8 @@ In new groups of 3:
 
 Ask everyone - what they learned.
 > <i class="fa fa-magic"></i> Try to draw out ideas that explain why reducing time, or removing some parts of the design, allowed them to focus on one specific outcome faster, but more effectively for that outcome.  This is the Rapid, in Rapid Prototyping.
+
+
 
 
 
