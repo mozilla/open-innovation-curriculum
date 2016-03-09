@@ -134,7 +134,7 @@ When time is up, ask the following questions:
 
 > <i class="fa fa-magic"></i>  Share Tom's Story: In the story of Google Glass - discussions were very intense about what text color should be, opinions were certain red was best, but experimentation proved it was actually the worst color (light blue and yellow were best).  It would have been very hard to argue an opinion that these colors were ideal without actually trying.
 
-## 2. Toolchain Considerations (Adaptability vs. Efficiency)
+## 2. Adaptability vs. Efficiency
 
 >Key Learning: Adaptability tested through rapid toolchain testing, is a valuable alternative to engineering for scaling and efficiency.
 
