@@ -164,13 +164,55 @@ In new groups of 3:
 Ask everyone - what they learned.
 > <i class="fa fa-magic"></i> Try to draw out ideas that explain why reducing time, or removing some parts of the design, allowed them to focus on one specific outcome faster, but more effectively for that outcome.  This is the Rapid, in Rapid Prototyping.
 
-
-
-
-
 ## 3. Staying in the Medium
+
+[painting](https://c2.staticflickr.com/8/7399/8804107230_00c9686be8.jpg)
+
+> Key Message:  If you are developing software, whether designer, coder or product manager your medium is not pixels, not code, not timelines - its human behavior.
+
+<i class="fa fa-microphone"></i> Speakers Notes
+
+If you think about the way a painter works - they are constantly in their medium.   Imagine though you were an oil painter, but every time you did a brush stroke, you had to write, do a specification, have people accept it, argue with the dev manager, agree to get 20% build, have a QA cycle, and at the end of that we get to do our brush stroke.  And this is how we work all the time.
+
+Not only does this make the 'coming together' of an outcome very small, it makes it harder to get immediate feedback that tells us we're heading in the right direction.  We also segment feedback in phases, which sometimes mean people who were part of initial parts of the process, aren't around in the end to validate
+
+If you work on software, your medium is human behavior in the real world. If you are not looking at the big picture of your work, with human behavior, then that's a huge problem.
+
+Ask your group this question:
+
+"If you were building paper planes for a group of people who are serious about paper plane races, how would you put yourself in front of them regularly, to test what you're building? 
+
+> <i class="fa fa-magic"></i> Draw out from this, in a personal story, of how you can put  yourself in-front of the people who use, or might use the things we are designing for. Not as a special thing, but as something we do, in some way - regularly.
 
 ## 4. Research vrs Development
 
+> Key Message:  Research & Development are very different, and in fact the opposite of each other.
+
+<i class="fa fa-microphone"></i> Speakers Notes  
+
+We often hear the terms Research & Design as seperate terms.
+
+Development teaches you, how to go narrow and deep on specific things to focus on reaching specific outcomes.
+
+Research is literally the opposite. Research is the shortest amount of time, where your goal is to hit the widest number of outcomes.
+
+#### TODO Activity (creating 150 planes to see which is best?)
+
+> Key Message: Challenge yourself to improve in some small way all you do.
+
+## 5. Improve Your Runtime
+
+A lot of time we stop improving, because we get stuck on 'good enough'.  The thing about 'good enough' is that we may not be even close to our potential.
+
+> <i class="fa fa-magic"></i>  Share Tom's Story (or your own!) about learning the cello.  Not being good at something, doesn't mean you won't be.
+
+#### TODO Activity What can you measure about your work, or processes to challange yourself to improve.
+
+## 5. Wrap-Up
+
+
+
 ****
 Image: 'Paper Plane, from a galaxy far, far away...' by [ElPadawan](https://www.flickr.com/photos/elpadawan/) [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)
+
+Image: detail of Whispering by [Gwenn Seemel](https://www.flickr.com/photos/gwennseemel/) [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)
