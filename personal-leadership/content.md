@@ -72,6 +72,7 @@ Depending on the size of your space, different formations may work.  Optimizing 
 * 20 or more: presentation format (speaker at front of the room)
 
 ## 1. Welcome!
+![welcome](https://c1.staticflickr.com/7/6122/6015147310_20ae647471.jpg)
 
 #### <i class="fa fa-file"></i> Slide : Personal Leadership
 
@@ -111,6 +112,8 @@ Here's our agenda...
 5.  Wrap-up - 10 min
 
 ## 2. Exploring Leadership
+![explore](https://c1.staticflickr.com/5/4150/5015244020_cfec1d608d.jpg)
+
 #### <i class="fa fa-file"></i> Slide: "Leadership is an inside job"
 
 > **Key Message:** Leadership is an inside job
@@ -137,6 +140,7 @@ Prompt your group with these questions, challenges and direction. Be sure to ech
 > <i class="fa fa-magic"></i> Try tease out stories behind the qualities people are sharing. For example you can ask "what was a time you experienced that? How did it make you feel?"
 
 ## 3. Professional Growth
+![growth](https://c2.staticflickr.com/8/7492/16024807396_e63ed63c62.jpg)
 
 This section has a focus on helping people build honesty into their self-assessment.
 
@@ -165,6 +169,8 @@ Note: If you don't have a personal example you can use one of being 'unintention
 > <i class="fa fa-magic"></i> Use time when people are writing, to walk the room, people might have questions they're not as brave to ask in front of the larger group.
 
 ## 4. Myers-Briggs Type Indicators
+
+![mb](https://c2.staticflickr.com/4/3939/15624527062_2d08294e7e.jpg)
 
 <i class="fa fa-microphone"></i> 8 slides, followed by debrief
 
@@ -255,6 +261,7 @@ Ask a “P” in the group if a meeting is called for 6pm, when an acceptable ti
 Closure is the second major area of conflict. “J”s will seek out closure in any discussion, and once something is closed and a decision is taken, then it is no longer up for debate. “P”s will generally want to continue discussion, and all decisions are open to be revisited.
 
 ## 5. Wrap-Up
+![wrap](https://c2.staticflickr.com/2/1171/1301014184_3786e4d2b8.jpg)
 
 This is your opportunity to facilitate the closing, by pulling out the key insights you saw realized in your session.  In wrap-up, ask for brief feedback from the group:
 
@@ -266,4 +273,11 @@ Call to action here is to emphasis wha we learned about ourselves, and how being
 
 > <i class="fa fa-magic"></i> Let your group know that this workshop is available for them to run for emerging leaders in their area!
 
-Image [CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/) by [christosbacharakis](https://www.flickr.com/photos/christosbacharakis/)
+***
+
+* Image [CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/) by [christosbacharakis](https://www.flickr.com/photos/christosbacharakis/)
+* Mozilla by [Martin Hassman](https://www.flickr.com/photos/hassmanm/) [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)
+* the rock by [eNriKeFot](https://www.flickr.com/photos/enriquemendez/) [CC BY-NC-ND 2.0](https://creativecommons.org/licenses/by-nc-nd/2.0/)
+* [Seedling by U.S. Department of Agriculture](https://www.flickr.com/photos/usdagov/) [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)
+* Mozfest by [Mozilla in Europe](https://www.flickr.com/photos/mozillaeu/) [CC BY-SA 2](https://creativecommons.org/licenses/by-sa/2.0/).
+* Leadership by [pedrosimoes7](https://www.flickr.com/photos/pedrosimoes7/)[CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)
