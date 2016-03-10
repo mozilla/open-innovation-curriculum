@@ -31,8 +31,6 @@ Based on the [Rapid Prototyping](Based on the "Rapid Prototyping Talk by Tom Chi
 
 This fun, interactive workshop poses a fun design challenge: "Build the perfect paper airplane", to help participants understand how to build the spirit of prototyping into all we do.
 
-[]()[more]
-
 ## [Running an Awesome Hackathon](http://mozilla.github.io/awesome-hackathon/index.html)
 
 This workshop will help attendees understand and embrace their potential to run a hackathon.  We'll also explore various components that can ensure success, such as mentorship roles, task design, preparation work, and communication.  We'll additionally explore different types of hackathons, and how to design for success in each.
