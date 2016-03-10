@@ -74,7 +74,7 @@ If this is your first time running this workshop, or you appreciate a checklist 
 * Provide scope: explain that you'll be woking in partners, what materials and that some portions will be timed.
 * Provide comfort: there are no right answers, or perfection required.
 
-#### Innovating Introdutions!
+#### 1. Introductions/Icebreaker!
 
 Often with introductions, we'll ask people to say "Hi my name is...", and then provide a fun response.  With this icebreaker, the innovation will be in the introduction.
 
@@ -99,7 +99,7 @@ Introduce Design questions.  Even though this workshop is to support better inno
 * "Me time"
 * Bullying in schools
 
-## Empathy
+## 2. Empathy
 
 Assign people to groups of two, and ensure each has a copy of dschool's [Design Thinking](http://dschool.stanford.edu/wp-content/uploads/2012/02/Participant-Worksheet.pdf) worksheet, a pencil, and access to colored markers.
 
@@ -118,7 +118,7 @@ Repeat the exercise moving to Step 2 on the sheet (2 minutes each again) - Diggi
 
 > <i class="fa fa-magic"></i>  To encourage people to be brave in their questions, encourage them to notice when topics feel challenging, or sensitive - to dig deeper when they hit nerves.
 
-## Define
+## 3. Define
 
 Introduce 'define' mode based on the definition below. (Don't read it word for word, but summarize the highlights for you).
 
@@ -132,7 +132,7 @@ An example might be "How might we improve the experience and duration of our dai
 
 > <i class="fa fa-magic"></i>  Watch-out: It’s easy to get problem statements that are either too general or just statements of fact. A great problem statement can really unlock creativity.
 
-## Ideate
+## 4. Ideate
 
 Summarize the key points of the ideate mode. (don't read word for word)
 
@@ -145,13 +145,13 @@ Ask people to sketch at least 5 radical ways to meet their user's needs in Step 
 
 When time is up, ask each person to share their solutions with their partner (user), and to capture feedback in box 6. (8 minutes)
 
-#### Reflect
+#### 5. Reflect
 
 Based on the feedback sketch your emerging big idea, or solution to your user's problem.  (3 minutes).  
 
 > <i class="fa fa-magic"></i> 3 minutes is obviously not enough time to create beautiful - encourage people not to get hung up on details, but to sketch as detailed a picture as possible of the big picture.
 
-## Prototype
+## 6. Prototype
 
 Summarize prototype mode for participants. Emphasis on *getting ideas and explorations out into the physical world*. That prototype should match your learning so far - and can be made of anything.
 
@@ -161,7 +161,7 @@ Ask people to try building their solution using physical things.  Minimally it's
 
 > <i class="fa fa-magic"></i> Some people will push back, usually because they are not self-identified as being good at craft/art .  Remind them often, it's not about quality of the prototype, but that we create something our user can physically interact with and understand to test our hypothesis.
 
-## Test
+## 7. Test
 
 Share a summary of the test mode.  Emphasis that testing is about placing your hypothesis in the human experience.
 

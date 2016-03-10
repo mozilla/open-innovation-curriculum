@@ -218,7 +218,7 @@ A lot of time we stop improving, because we get stuck on 'good enough'.  The thi
 
 #### TODO Activity What can you measure about your work, or processes to challange yourself to improve.
 
-## 5. Wrap-Up
+## Wrap-Up
 
 ![wrap](https://c2.staticflickr.com/2/1097/4732115037_ddeeaf8c59.jpg)
 
