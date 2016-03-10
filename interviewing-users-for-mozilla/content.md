@@ -6,15 +6,24 @@
 
 <time>4 weeks or 12 hours</time>
 
-#### Preparing for this workshop
 #### Learning Objectives
 #### Who can benefit form this workshop
-## Materials & Pre-Work
 
-#### Outreach & Communication
-#### Facilitator Pre-Work
-#### Agenda
+## Format
+
+The content, and activities in this course were developed for a four-week, online, facilitator-led course and then optimized for self-directed learning.
+
+Each section, represents one week, or between 2-4 hours of learning and activities that help participants learn the basics for success in research through interview.
+
+Each section provides direction & reading with associated activities and self-assessment.
+
+## Materials
+
+* [Interviewing Users: How to Uncover Compelling Insights](http://www.amazon.ca/Interviewing-Users-Uncover-Compelling-Insights-ebook/dp/B00CEKR872)
+
 #### Technology Setup
+
+#### Finding Help
 
 ## Workshop
 
@@ -22,13 +31,19 @@
 
 This week covers secondary research, the first part of any research project! Participants will learn best practices for researching, collecting and documenting existing information on our focus topic: “Connected Devices".
 
+#####To complete this section:
+
+1. Please read through the provided text on Secondary Research.
+2. Complete the activity.
+3. Select a way to share what you've learned and collected.
+
 #### Introduction
 
 Mozilla is interested in learning as much as possible about how our mission and work can influence the Internet of Things (IoT) in coming years.
 
 #### Secondary Research
 
-##### The first part of any research project is secondary research!
+> The first part of any research project is secondary research!
 
 **Secondary Research**: involves the summary, collation and/or synthesis of existing research. This means you spend time researching what information and research already exists on our topic. We are focusing only on Secondary Research for this week.
 
@@ -37,6 +52,7 @@ Mozilla is interested in learning as much as possible about how our mission and 
 > In a market research context, secondary research is taken to include the re-use by a second party of any data collected by a first party or parties.” - Wikipedia
 
 **Examples of Secondary Sources**: documentaries, newspapers, magazines, articles, other research reports, white papers, government statistics, YouTube videos, industry associations, books, store flyers/advertising.
+
 **Some Topics to Consider**: economic and business conditions, industry trends, customer preferences, technological shifts, prices for goods and services, customer demographics and shifts, sales trends.
 
 * If you have access to a local library or university, librarians are amazing resources for conducting secondary research
@@ -48,32 +64,46 @@ Mozilla is interested in learning as much as possible about how our mission and 
 
 #### Activity
 
-1. Read [‘Seven Tips for Lean Market'] Research’](http://www.gv.com/lib/seven-tips-for-lean-market-research)
+1. Read [Seven Tips for Lean Market Research](http://www.gv.com/lib/seven-tips-for-lean-market-research)
 
-2. Research! Gather Sources. Search for news articles, online magazines, consumer reports and other resources you can think of to learn as much as you can about ‘Large Screens’. Add your own knowledge, and observations about other people’s setups of “Large Screens” to gather secondary research. **Make sure you keep track of your sources!**
+2. Research! Gather Sources. Search for news articles, online magazines, consumer reports and other resources you can think of to learn as much as you can about ‘Large Screens’. Add your own knowledge, and observations about other people’s setups of “Large Screens” to gather secondary research. *Make sure you keep track of your sources!*
 
 3. Make sense of what you found. Note important quotes, implications or questions you have after reading each source. Organize your findings into subtopics. See if you feel the need for more research on any of the topics. Note areas you find most interesting, or with gaps to help you guide what research questions you will work towards next week.
 
-4. **Share your research!** On this [Discourse thread](), through a blog post or other idea, share your research and your answers to these questions:
-
-* How did you organize your research?
-* Where did you search? And what techniques did you use ?
-* Do you see any subtopics emerging as a result of your research?
-* What did you learn about Large Screens that you didn't know before?
-* What was your overall experience? Was researching fun? Challenging? Frustrating?
+4. *Share your research!* On this [Discourse thread](https://discourse.mozilla-community.org/t/interviewing-users-for-mozilla-secondary-research/2172), through a blog post or other idea, share your research and your answers to these questions:
+  * How did you organize your research?
+  * Where did you search? And what techniques did you use ?
+  * Do you see any subtopics emerging as a result of your research?
+  * What did you learn about how Connected Devices that you didn't know before?
+  * What was your overall experience? Was researching fun? Challenging? Frustrating?
 
 ##### Other Reading
 * [Here's why some are calling the Internet of Things the next Industrial Revolution](http://www.businessinsider.com/iot-trends-will-shape-the-way-we-interact-2016-1).
 * [Case Studies - Secondary Research](http://designresearchtechniques.com/casestudies/secondary-research/)
 
-#### Before next week....
-1. Please read through the provided text on Secondary Research.
-2. Complete the activity.
-3. Select a way to share what you've learned and collected.
 
 ## 2. Interview planning
 
 Participants will learn to create an interview guide, which includes creating materials and tools needed to facilitate conversations, and review afterwards.
+
+#####To complete this section:
+
+* Embrace How Other People See the World ! Read Chapter 2 of your book "Interviewing Users", and ensure you can answer these self-assessment questions.
+* Read Chapter 3 of your book "Interviewing Users".
+* Create Screening List: Remix this Thimble template or another shareable format of your choice.
+* Using a shareable format of your choice, create a field guide for the "Large Screen Experience". Check Figure 3.5 in your book for an example.
+* Share links to your work (and anything else you want to share), on Discourse for this weeks topic.
+
+### Self Assessment
+
+* What is the best mindset for interviewing people? What are ways to get into this mindset?
+* What are the benefits of interviewing people where they live or work?
+* What things should you, as an interviewer do to avoid negatively influence an interview?
+* What ways can you think of that help you build a rapport with community members at Mozilla? How do you think those can help you when interviewing people you're interviewing?
+* Have you noticed ways body language can impact a conversation, for example a conversation you recently had?
+* In what, if any situation is it appropriate and constructive to share your own opinion or experience?
+* Thinking about people in your life, what ways do you already use to help put people at ease ? How can you extend those same skills to interviewing?
+
 
 
 
