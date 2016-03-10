@@ -19,7 +19,11 @@ A compiled list of facilitation tips, tricks and articles that can help you grow
 
 The is the foundational session for Personal Leadership in Mozilla that everyone will attend. The purpose is to establish a common language and set of practices for professional development, different personalities/leadership traits, and team formation. We will continue to refer to and build on these throughout the Summit and beyond. The hope is that it triggers healthy discussion on what leadership means in Mozilla.  
 
-## [Design Thinking](http://mozilla.github.io/participation-curriculum/rapid-prototyping/index.html#)
+## [Design Thinking](http://mozilla.github.io/participation-curriculum/design-thinking/index.html#)
+
+This resource provides content, tools and facilitation techniques needed to run a 'Participation at Mozilla' Design Thinking Workshop. The accompanying workshop can help teams and contributors create empathetic problem statements and strong hypothesis for solving Participation problems through rapid prototyping.
+
+This workshop process will equip participants with a new set of skills, leading to better quality experiments and ultimately improved strategic success on Mozilla's mission and project goals.
 
 ## [Rapid Prototyping](http://mozilla.github.io/participation-curriculum/rapid-prototyping/index.html#)
 

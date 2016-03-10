@@ -19,8 +19,12 @@ Follow the links to see times based on your timezone.
 
 [![First Call](http://img.youtube.com/vi/c04u74tl7u2omd53e7f9qhevc00.jpg)](https://plus.google.com/u/0/events/c04u74tl7u2omd53e7f9qhevc00)
 
-##[Second Call 2AM UTC)](https://plus.google.com/u/0/events/clgnd2hh6989vhc9qhptv5jacac)
+##[Second Call 2AM UTC)](https://talkgadget.google.com/hangouts/_/ss5e2vu2yfd2rghdou7i3aieeae?authuser=0&hl=en)
 
 *Note: this is Thursday in some timezones*
 
-[![Second Call](http://img.youtube.com/vi/clgnd2hh6989vhc9qhptv5jacac.jpg)](https://plus.google.com/u/0/events/clgnd2hh6989vhc9qhptv5jacac)
+call link:  https://talkgadget.google.com/hangouts/_/ss5e2vu2yfd2rghdou7i3aieeae?authuser=0&hl=en
+
+#### I will post the hangout link here just before we start:w
+
+[![Second Call]()
