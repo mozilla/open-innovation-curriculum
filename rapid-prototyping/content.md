@@ -65,7 +65,7 @@ You will need to build a 'landing strip' area for paper airplane testing
 
 Start by introducing yourself and your workshop!
 
-> Key Learning:  It's easy to get excited about a design challenge, to immediately dig into complex and advanced solutions - and even to feel confident we're on the right path.
+> Key Message:  It's easy to get excited about a design challenge, to immediately dig into complex and advanced solutions - and even to feel confident we're on the right path.
 
 <i class="fa fa-microphone"></i> Speakers Notes
 
@@ -140,11 +140,12 @@ When time is up, ask the following questions:
 
 ## 2. Adaptability vs. Efficiency
 
->Key Learning: Adaptability tested through rapid toolchain testing, is a valuable alternative to engineering for scaling and efficiency.
-
 ### Scalability & Efficiency
 
 ![toolchain](https://c2.staticflickr.com/6/5026/5868030982_f3bb316acd.jpg)
+
+>Key Message: Adaptability tested through rapid toolchain testing, is a valuable alternative to engineering for scaling and efficiency.
+
 
 We spend a lot of time designing for scalability and efficiency - with pure focus on these items.  Rapid prototyping, focuses on designing for adaptability.
 
