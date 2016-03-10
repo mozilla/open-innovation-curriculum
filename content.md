@@ -33,7 +33,7 @@ This fun, interactive workshop poses a fun design challenge: "Build the perfect 
 
 ## [Interviewing Users for Mozilla](http://mozilla.github.io/interviewing-users-for-mozilla/index.html)
 
-Interviewing Users for Mozilla is an online on-line course with outcomes designed to impropve participant's skills in the area of qualitative research, specifically interviewing users . This course covers secondary research, interview planning, interview techniques and ultimately sets up for a 'first interview'.
+Interviewing Users for Mozilla is an online on-line course with outcomes designed to improve participant's skills in the area of qualitative research, specifically interviewing users . This course covers secondary research, interview planning, interview techniques and ultimately sets up for a 'first interview'.
 
 ## [Running an Awesome Hackathon](http://mozilla.github.io/awesome-hackathon/index.html)
 
