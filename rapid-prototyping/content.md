@@ -222,6 +222,15 @@ A lot of time we stop improving, because we get stuck on 'good enough'.  The thi
 
 ![wrap](https://c2.staticflickr.com/2/1097/4732115037_ddeeaf8c59.jpg)
 
+Ask people to revisit the plane-design they drafted in the very first part of the workshop.
+Ask:
+
+* Would you draw this the same way now?
+* How would you change your design steps?
+* Knowing what you know now, what questions would you have asked me, or others before you started on this design?
+
+
+
 Use wrap-up to ask people how they think they can apply what they've learned to goals they already have for innovating, improving or inventing.   
 
 
