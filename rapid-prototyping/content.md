@@ -208,6 +208,8 @@ Research is literally the opposite. Research is the shortest amount of time, whe
 
 ## 5. Improve Your Runtime
 
+![runtime](https://c1.staticflickr.com/3/2586/3774802737_fa5b59ed10.jpg)
+
 > Key Message: Challenge yourself to improve in some small way all you do.
 
 A lot of time we stop improving, because we get stuck on 'good enough'.  The thing about 'good enough' is that we may not be even close to our potential.
@@ -231,3 +233,4 @@ Use wrap-up to ask people how they think they can apply what they've learned to 
 * Image: First task of the day? Making paper planes by [Jem Yoshioka](https://www.flickr.com/photos/jemshed/) [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)
 * Image:  Eli's paper airplanes by [passingopenwindows](https://c1.staticflickr.com/3/2469/3562859981_16c493d011.jpg) [CC BY-NC-ND 2.0](https://creativecommons.org/licenses/by-nc-nd/2.0/)
 * Image: Paper Planes. Bang. Bang. by [maxelman](https://www.flickr.com/photos/maxelman/) CC BY-NC-ND 2.0](https://creativecommons.org/licenses/by-nc-nd/2.0/)
+* Paper Airplane Competitions by [Erica Hargreave](https://www.flickr.com/photos/ericahargreave/) [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)
