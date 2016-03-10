@@ -82,7 +82,8 @@ Mozilla is interested in learning as much as possible about how our mission and 
 * [Case Studies - Secondary Research](http://designresearchtechniques.com/casestudies/secondary-research/)
 
 
-## 2. Interview planning
+## 2. Interview Planning
+![fieldnotes](https://c1.staticflickr.com/9/8806/17743377585_c15e637587.jpg)
 
 Participants will learn to create an interview guide, which includes creating materials and tools needed to facilitate conversations, and review afterwards.
 
@@ -119,4 +120,5 @@ This week will will provide participants with 'learn by doing' experience throug
 
 ***
 
-Mozilla in #WikuFest 2015 by [Irayani Queencyputri](https://www.flickr.com/photos/rara79/) [CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/)
+* Mozilla in #WikuFest 2015 by [Irayani Queencyputri](https://www.flickr.com/photos/rara79/) [CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/)
+* A Warp in Time by The [Marmot](https://www.flickr.com/photos/themarmot/) [CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/)
