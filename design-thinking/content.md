@@ -68,11 +68,11 @@ If this is your first time running this workshop, or you appreciate a checklist 
 * Introduce Design Thinking as the methodology we’ll be using to help guide the group’s goals for Participation. If it helps, you can emphasize that human centered design is all about people an alignment with our own mission.
 * Share your enthusiasm! Encourage participants to embrace a fun, collaborative and creative experience!
 * Introduce and briefly touch on the 5 components of Design Thinking:
-  * **Empathy**: Thinking about and talking to, and listening to people.
-  * **Define** a problem statement.
-  * **Ideate**: Brainstorming lots of ideas to solve that problem.
-  * **Prototype**: Build and make things to test.
-  * **Test**: We won’t actually test, but we will ensure participants leave with goals for testing.
+  *  **Empathy**: Thinking about and talking to, and listening to people.
+  *  **Define** a problem statement.
+  *  **Ideate**: Brainstorming lots of ideas to solve that problem.
+  *  **Prototype**: Build and make things to test.
+  *  **Test**: We won’t actually test, but we will ensure participants leave with goals for testing.
 * Be clear that this course will help people define and solve for problems problem in a new and innovative ways, or help ideate on ideas they may already have.
 * Provide scope: explain that you'll be woking in partners, what materials and that some portions will be timed.
 * Provide comfort: there are no right answers, or perfection required.
