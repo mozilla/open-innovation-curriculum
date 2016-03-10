@@ -61,6 +61,8 @@ You will need to build a 'landing strip' area for paper airplane testing
 
 ## Workshop
 
+![landing](https://c1.staticflickr.com/3/2251/2246217877_709a49c3f1.jpg)
+
 Start by introducing yourself and your workshop!
 
 > Key Learning:  It's easy to get excited about a design challenge, to immediately dig into complex and advanced solutions - and even to feel confident we're on the right path.
@@ -85,6 +87,8 @@ Once everyone has completed their design:
 *  Ask them to hand them to set those aside for now.
 
 ## 1. Guessing vrs Direct Experience
+
+![guessing](https://c1.staticflickr.com/5/4078/4811041163_660cbc1e34.jpg)
 
 > Key Message:  Guessing without direct experience proves nothing, except perhaps that **some guesses** sound more believable than others.  By creating light-weight experiences to test a hypothesis, we can move more quickly towards true knowledge and better prototypes.
 
@@ -140,6 +144,8 @@ When time is up, ask the following questions:
 
 ### Scalability & Efficiency
 
+![toolchain](https://c2.staticflickr.com/6/5026/5868030982_f3bb316acd.jpg)
+
 We spend a lot of time designing for scalability and efficiency - with pure focus on these items.  Rapid prototyping, focuses on designing for adaptability.
 
 <i class="fa fa-microphone"></i> Speakers Notes
@@ -186,6 +192,8 @@ Ask your group this question:
 
 ## 4. Research vrs Development
 
+![reserach](https://c1.staticflickr.com/3/2469/3562859981_16c493d011.jpg)
+
 > Key Message:  Research & Development are very different, and in fact the opposite of each other.
 
 <i class="fa fa-microphone"></i> Speakers Notes  
@@ -210,10 +218,16 @@ A lot of time we stop improving, because we get stuck on 'good enough'.  The thi
 
 ## 5. Wrap-Up
 
+![wrap](https://c2.staticflickr.com/2/1097/4732115037_ddeeaf8c59.jpg)
+
 Use wrap-up to ask people how they think they can apply what they've learned to goals they already have for innovating, improving or inventing.   
 
 
 ****
-Image: 'Paper Plane, from a galaxy far, far away...' by [ElPadawan](https://www.flickr.com/photos/elpadawan/) [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)
-
-Image: detail of Whispering by [Gwenn Seemel](https://www.flickr.com/photos/gwennseemel/) [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)
+* Image: 'Paper Plane, from a galaxy far, far away...' by [ElPadawan](https://www.flickr.com/photos/elpadawan/) [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)
+* Image: detail of Whispering by [Gwenn Seemel](https://www.flickr.com/photos/gwennseemel/) [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)
+* Image: Fly with me, by [Max Elman](https://www.flickr.com/photos/maxelman/) [CC BY-NC-ND 2.0](https://creativecommons.org/licenses/by-nc-nd/2.0/)
+* Image: invio messaggio by [Gianluca](https://www.flickr.com/photos/gianluca_miche/) [CC BY-NC-ND 2.0](https://creativecommons.org/licenses/by-nc-nd/2.0/)
+* Image: First task of the day? Making paper planes by [Jem Yoshioka](https://www.flickr.com/photos/jemshed/) [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)
+* Image:  Eli's paper airplanes by [passingopenwindows](https://c1.staticflickr.com/3/2469/3562859981_16c493d011.jpg) [CC BY-NC-ND 2.0](https://creativecommons.org/licenses/by-nc-nd/2.0/)
+* Image: Paper Planes. Bang. Bang. by [maxelman](https://www.flickr.com/photos/maxelman/) CC BY-NC-ND 2.0](https://creativecommons.org/licenses/by-nc-nd/2.0/)
