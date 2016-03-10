@@ -1,3 +1,5 @@
+# Rapid Prototyping
+
 ![ls](https://c2.staticflickr.com/8/7342/9624850987_c399572fd2_z.jpg)
 [<i class="fa fa-wrench"></i> Improve this content](https://github.com/mozilla/participation-curriculum/blob/gh-pages/content.md)
 * * *

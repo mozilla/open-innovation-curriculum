@@ -31,7 +31,7 @@ Based on the [Rapid Prototyping](Based on the "Rapid Prototyping Talk by Tom Chi
 
 This fun, interactive workshop poses a fun design challenge: "Build the perfect paper airplane", to help participants understand how to build the spirit of prototyping into all we do.
 
-## [Interviewing Users for Mozilla](http://mozilla.github.io/interviewing-users-for-mozilla/index.html)
+## [Interviewing Users for Mozilla](http://mozilla.github.io/participation-curriculum/interviewing-users-for-mozilla/index.html)
 
 Interviewing Users for Mozilla is an online on-line course with outcomes designed to improve participant's skills in the area of qualitative research, specifically interviewing users . This course covers secondary research, interview planning, interview techniques and ultimately sets up for a 'first interview'.
 
