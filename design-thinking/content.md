@@ -1,4 +1,5 @@
-<i class="fa fa-wrench"></i> Improve this content](https://github.com/mozilla/participation-curriculum/blob/gh-pages/content.md)
+![]()
+<i class="fa fa-wrench"></i> [Improve this content](https://github.com/mozilla/participation-curriculum/blob/gh-pages/content.md)
 * * *
 
 <i class="fa fa-pencil fa-3x"></i>  Draft
@@ -58,6 +59,8 @@ There is no pre-work required by participants, but answer is **anyone working on
 Ideal space allows your group to have 'whole group' and team discussions.   Places chairs in a circle is a great way to get everyone engaged and ready to participate vrs. 'presentation style'.
 
 ## Workshop
+
+![workshop](https://c1.staticflickr.com/9/8282/7711304608_a5396e3a4d.jpg)
 
 If this is your first time running this workshop, or you appreciate a checklist for warming up and preparing your group, here is a suggested introductory workflow:
 
@@ -119,6 +122,8 @@ Repeat the exercise moving to Step 2 on the sheet (2 minutes each again) - Diggi
 > <i class="fa fa-magic"></i>  To encourage people to be brave in their questions, encourage them to notice when topics feel challenging, or sensitive - to dig deeper when they hit nerves.
 
 ## 3. Define
+
+![notes](https://c1.staticflickr.com/3/2755/4357529719_5548c4fce6.jpg)
 
 Introduce 'define' mode based on the definition below. (Don't read it word for word, but summarize the highlights for you).
 
@@ -185,4 +190,6 @@ Wrap-Up should be brief, and emphasis the value in design thinking  - that havin
 
 ***
 
-Empathy, Ideate and Define Images from [Design Thinking For 11th Graders](https://www.oercommons.org/authoring/1686-design-thinking-for-11th-graders/view) by [Julie Joslin](https://www.oercommons.org/profile/33737) and [Bridget McGraw](https://www.oercommons.org/profile/33891)[CC BY-NC-SA 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/)
+* Empathy, Ideate and Define Images from [Design Thinking For 11th Graders](https://www.oercommons.org/authoring/1686-design-thinking-for-11th-graders/view) by [Julie Joslin](https://www.oercommons.org/profile/33737) and [Bridget McGraw](https://www.oercommons.org/profile/33891)[CC BY-NC-SA 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/)
+* Formative assessment and design thinking notes (x2) by [Ewan McIntosh](https://www.flickr.com/photos/edublogger/) [CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/)
+* Notes by [English106](https://www.flickr.com/photos/english106/) [CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/)
