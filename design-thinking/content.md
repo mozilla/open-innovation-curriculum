@@ -77,7 +77,7 @@ If this is your first time running this workshop, or you appreciate a checklist 
 * Provide scope: explain that you'll be woking in partners, what materials and that some portions will be timed.
 * Provide comfort: there are no right answers, or perfection required.
 
-#### 1. Introductions/Icebreaker!
+## 1. Introductions/Icebreaker!
 
 Often with introductions, we'll ask people to say "Hi my name is...", and then provide a fun response.  With this icebreaker, the innovation will be in the introduction.
 
