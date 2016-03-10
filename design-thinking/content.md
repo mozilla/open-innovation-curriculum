@@ -120,20 +120,27 @@ Repeat the exercise moving to Step 2 on the sheet (2 minutes each again) - Diggi
 
 ## Creating a Problem Statement
 
-Based on the interview, ask people to step into the next activity, by documenting the 'needs' and 'insights' they've heard from their partner.  (3 minutes)
-
-Before moving into step 4 (problem statement) share a bit more about the 'define' process in design thinking (but don't read it word for word).
+Introduce 'define' mode based on the definition below. (Don't read it word for word, but summarize the highlights for you).
 
 ![define](https://www.oercommons.org/media/cache/bc/af/bcaf736efdaae94b7fd993e136de7f92.jpg)
 
- create a Problem Statement starting with “How might we...”.
-Problem statements should be: specific, measurable, action-oriented and relevant.
+Based on the interview, ask people to step into the next activity, by documenting the 'needs' and 'insights' they've heard from their partner.  (3 minutes)
 
+Next: Based on those needs and insights ask everone to create a Problem statement for their partnership.  Problem statements should start with “How might we...”.
 
+An example might be "How might we improve the experience and duration of our daily commute by leaving at a different time?"
 
+> <i class="fa fa-magic"></i>  Watch-out: It’s easy to get problem statements that are either too general or just statements of fact. A great problem statement can really unlock creativity.
 
+## Ideate
+
+Summarize the key points of the ideate mode. (don't read word for word)
+
+![](https://www.oercommons.org/media/cache/5c/f5/5cf52dac46219a39dbc88989c50a2779.jpg)
 
 > <i class="fa fa-magic"></i>  It’s easy to get problem statements that are either too general or just statements of fact. A great problem statement can really unlock creativity.
+
+Ask people to sketch at least 5 radical ways to meet their user's needs in Step 5 of the dschool worksheet.  Encourage people to draw their solution vrs getting caught up in words, and details.  If they absolutely must use words, ask them to keep it brief.
 
 
 ## Problem & Opportunities
@@ -145,4 +152,4 @@ Problem statements should be: specific, measurable, action-oriented and relevant
 
 ***
 
-Empathy Image from [Design Thinking For 11th Graders](https://www.oercommons.org/authoring/1686-design-thinking-for-11th-graders/view) by [Julie Joslin](https://www.oercommons.org/profile/33737) and [Bridget McGraw](https://www.oercommons.org/profile/33891)[CC BY-NC-SA 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/)
+Empathy, and Define Images from [Design Thinking For 11th Graders](https://www.oercommons.org/authoring/1686-design-thinking-for-11th-graders/view) by [Julie Joslin](https://www.oercommons.org/profile/33737) and [Bridget McGraw](https://www.oercommons.org/profile/33891)[CC BY-NC-SA 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/)
