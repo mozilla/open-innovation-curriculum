@@ -1,3 +1,5 @@
+#Design Thinking
+
 ![dt](https://c1.staticflickr.com/9/8284/7711394552_82af87544a.jpg)
 <i class="fa fa-wrench"></i> [Improve this content](https://github.com/mozilla/participation-curriculum/blob/gh-pages/content.md)
 * * *
