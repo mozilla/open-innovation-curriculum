@@ -110,7 +110,7 @@ Assign people to groups of two, and ensure each has a copy of dschool's [Design 
 
 > <i class="fa fa-magic"></i>  Emphasis listening, not trying to solve for someone’s problem, but gaining empathy for the story they are telling. Detail empathetic values listed in the diagram below.
 
-[empathy](https://www.oercommons.org/media/cache/02/f4/02f456b8e6f7def645a4cc8fa1da4c8c.jpg)
+![empathy](https://www.oercommons.org/media/cache/02/f4/02f456b8e6f7def645a4cc8fa1da4c8c.jpg)
 
 * Start the Workshop interview of Partner A to Partner B switch, after 2 minutes.
 
@@ -124,7 +124,7 @@ Based on the interview, ask people to step into the next activity, by documentin
 
 Before moving into step 4 (problem statement) share a bit more about the 'define' process in design thinking (but don't read it word for word).
 
-[define](https://www.oercommons.org/media/cache/bc/af/bcaf736efdaae94b7fd993e136de7f92.jpg)
+![define](https://www.oercommons.org/media/cache/bc/af/bcaf736efdaae94b7fd993e136de7f92.jpg)
 
  create a Problem Statement starting with “How might we...”.
 Problem statements should be: specific, measurable, action-oriented and relevant.
