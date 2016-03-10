@@ -99,7 +99,7 @@ Introduce Design questions.  Even though this workshop is to support better inno
 * "Me time"
 * Bullying in schools
 
-## Interviews
+## Empathy
 
 Assign people to groups of two, and ensure each has a copy of dschool's [Design Thinking](http://dschool.stanford.edu/wp-content/uploads/2012/02/Participant-Worksheet.pdf) worksheet, a pencil, and access to colored markers.
 
@@ -118,7 +118,7 @@ Repeat the exercise moving to Step 2 on the sheet (2 minutes each again) - Diggi
 
 > <i class="fa fa-magic"></i>  To encourage people to be brave in their questions, encourage them to notice when topics feel challenging, or sensitive - to dig deeper when they hit nerves.
 
-## Creating a Problem Statement
+## Define
 
 Introduce 'define' mode based on the definition below. (Don't read it word for word, but summarize the highlights for you).
 
@@ -126,7 +126,7 @@ Introduce 'define' mode based on the definition below. (Don't read it word for w
 
 Based on the interview, ask people to step into the next activity, by documenting the 'needs' and 'insights' they've heard from their partner.  (3 minutes)
 
-Next: Based on those needs and insights ask everone to create a Problem statement for their partnership.  Problem statements should start with “How might we...”.
+Next: Based on those needs and insights ask everyone to create a Problem statement for their partnership.  Problem statements should start with “How might we...”.
 
 An example might be "How might we improve the experience and duration of our daily commute by leaving at a different time?"
 
@@ -138,18 +138,51 @@ Summarize the key points of the ideate mode. (don't read word for word)
 
 ![](https://www.oercommons.org/media/cache/5c/f5/5cf52dac46219a39dbc88989c50a2779.jpg)
 
+Ask people to sketch at least 5 radical ways to meet their user's needs in Step 5 of the dschool worksheet.  Encourage people to draw their solution vrs getting caught up in words, and details.  If they absolutely must use words, ask them to keep it brief.  (4 minutes)
+
+> <i class="fa fa-magic"></i> Encourage creativity, using markers, crayons and other materials that make people feel like they're having fun.
 > <i class="fa fa-magic"></i>  It’s easy to get problem statements that are either too general or just statements of fact. A great problem statement can really unlock creativity.
 
-Ask people to sketch at least 5 radical ways to meet their user's needs in Step 5 of the dschool worksheet.  Encourage people to draw their solution vrs getting caught up in words, and details.  If they absolutely must use words, ask them to keep it brief.
+When time is up, ask each person to share their solutions with their partner (user), and to capture feedback in box 6. (8 minutes)
 
+#### Reflect
 
-## Problem & Opportunities
+Based on the feedback sketch your emerging big idea, or solution to your user's problem.  (3 minutes).  
 
-## Prototype solutions
+> <i class="fa fa-magic"></i> 3 minutes is obviously not enough time to create beautiful - encourage people not to get hung up on details, but to sketch as detailed a picture as possible of the big picture.
+
+## Prototype
+
+Summarize prototype mode for participants. Emphasis on *getting ideas and explorations out into the physical world*. That prototype should match your learning so far - and can be made of anything.
+
+![prototype](https://www.oercommons.org/media/cache/b8/4c/b84cc336854b27b1441941d39b7da9ec.jpg)
+
+Ask people to try building their solution using physical things.  Minimally it's use of markers and paper, but providing things like pipe cleaners, foam stickers and tape can help people really find their creative space.  (10 minutes)
+
+> <i class="fa fa-magic"></i> Some people will push back, usually because they are not self-identified as being good at craft/art .  Remind them often, it's not about quality of the prototype, but that we create something our user can physically interact with and understand to test our hypothesis.
+
+## Test
+
+Share a summary of the test mode.  Emphasis that testing is about placing your hypothesis in the human experience.
+
+> <i class="fa fa-magic"></i> Key Message: Prototype as if you're right, but test as if you know you're wrong.
+
+![test](https://www.oercommons.org/media/cache/68/5f/685fdd1d05fedf36d952e716e4d23c37.jpg)
+
+You have two options for testing (depending on time).  The first is to ask partners to share their solutions with each other, and then come back into a main circle to do some group-sharing.  The other is to move right to group sharing for the purpose of time.   
+
+Ask for volunteers to share their prototype, and the process of learning and iterating that brought them to it. (and then ask their partner for feedback)
+
+> <i class="fa fa-magic"></i> If you've seen a particularly inspiring process that hits our learning outcomes well - invite them to share first.
 
 ## Wrap-Up
 
+Wrap-Up should be brief, and emphasis the value in design thinking  - that having an attitude of prototyping in all we do, and interacting with our users regularly, allows us to move towards better solutions for the human experience, faster and with better results.
+
+1) How did it feel develop hypothesis and prototypes in rapid fashion?
+2) What did you learn?
+3) How might this change how you interact with problems in your work, or day to day life?
 
 ***
 
-Empathy, and Define Images from [Design Thinking For 11th Graders](https://www.oercommons.org/authoring/1686-design-thinking-for-11th-graders/view) by [Julie Joslin](https://www.oercommons.org/profile/33737) and [Bridget McGraw](https://www.oercommons.org/profile/33891)[CC BY-NC-SA 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/)
+Empathy, Ideate and Define Images from [Design Thinking For 11th Graders](https://www.oercommons.org/authoring/1686-design-thinking-for-11th-graders/view) by [Julie Joslin](https://www.oercommons.org/profile/33737) and [Bridget McGraw](https://www.oercommons.org/profile/33891)[CC BY-NC-SA 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/)
