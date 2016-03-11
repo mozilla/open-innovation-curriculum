@@ -1,4 +1,4 @@
-
+# Facilitation Tips & Resources
 
 ![facilitationheader](https://c2.staticflickr.com/6/5512/10511640443_1545489225_z.jpg)
 
