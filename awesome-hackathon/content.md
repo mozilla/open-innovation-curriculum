@@ -1,5 +1,6 @@
 #Running an Awesome Hackathon
 ![hackathon](http://tiptoes.ca/wp-content/uploads/2015/11/OPNU8KfgX-qWjOSO2LseM5BxIharrGpnlTvE2bTKAUgbJGx0eTqPsUlQ-INnC4-mAKxLrS-BiS5b_mFzMoSW9c.jpg)
+[<i class="fa fa-wrench"></i> Improve this content](https://github.com/mozilla/participation-curriculum/blob/gh-pages/content.md)
 * * *
 <i class="fa fa-pencil fa-3x"></i>  Draft
 
