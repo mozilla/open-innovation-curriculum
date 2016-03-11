@@ -9,7 +9,7 @@
 #### Learning Objectives
 #### Who can benefit form this workshop
 
-## Format
+#### Format
 
 The content, and activities in this course were developed for a four-week, online, facilitator-led course and then optimized for self-directed learning.
 
@@ -142,12 +142,11 @@ Share the results on [Discourse](https://discourse.mozilla-community.org/t/your-
 
 ##### Self Assesssment
 
-* I have a good sense of how to take notes, and how I will video or record the interview.
-* I understand best practices for photographing the interview, if I decide to do that.
-* I understand the importance and best practices for interview debriefing.
-* I understand the difference between descriptive and interpretive note taking.
-* I understand what a topline report is.
-
+1. I have a good sense of how to take notes, and how I will video or record the interview.
+2. I understand best practices for photographing the interview, if I decide to do that.
+3. I understand the importance and best practices for interview debriefing.
+4. I understand the difference between descriptive and interpretive note taking.
+5. I understand what a topline report is.
 
 ## Wrap-Up
 
