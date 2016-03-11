@@ -20,21 +20,21 @@
 #### Physical Setup
 
 ## Workshop
-#### What is a Hackathon?
+##What is a Hackathon?
 ##### types
 Learning
 Competition
-#####Determining Outcomes
+###Determining Outcomes
 what do people want to learn or do
 what do we want them to learn or do
-#### Planning & Design
+###Planning & Design
 communication
 Pre-Work for You!
 Pre-Work for Attnedees!
 picking tasks/activities
 code of conduct
-#### Empowering People
+###Empowering People
 Diversity
 mentorship
-#### Execution
-#### Victories for Everyone
+##Execution
+##Victories for Everyone
