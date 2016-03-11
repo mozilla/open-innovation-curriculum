@@ -35,13 +35,9 @@ This fun, interactive workshop poses a fun design challenge: "Build the perfect 
 
 Interviewing Users for Mozilla is an online on-line course with outcomes designed to improve participant's skills in the area of qualitative research, specifically interviewing users . This course covers secondary research, interview planning, interview techniques and ultimately sets up for a 'first interview'.
 
-## [Running an Awesome Hackathon](http://mozilla.github.io/awesome-hackathon/index.html)
+## [Running an Awesome Hackathon](http://mozilla.github.io/participation-curriculum/awesome-hackathon/index.html)
 
 This workshop will help attendees understand and embrace their potential to run a hackathon.  We'll also explore various components that can ensure success, such as mentorship roles, task design, preparation work, and communication.  We'll additionally explore different types of hackathons, and how to design for success in each.
-
-## [Unconcious Bias]()
-
-Unconscious bias refers to a bias that we are. unaware of, and which happens outside of our. control. It is a bias that happens automatically. and is triggered by our brain making quick. This workshop helps people recognize, and overcome their bias in community interactions, and decision making. We will also discuss some basic concepts around inclusion of diverse perspectives and how to overcome bias as to build robust inclusive communities.
 
 
 Image by [Christos Bacharakis](https://www.flickr.com/photos/christosbacharakis/24281932359/in/album-72157663878010671/) [CC BY-NC-SA 2.0](https://creativecommons.org/licenses/by-nc-sa/2.0/)
