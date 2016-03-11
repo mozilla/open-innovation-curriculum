@@ -21,10 +21,6 @@ Each section provides direction & reading with associated activities and self-as
 
 * [Interviewing Users: How to Uncover Compelling Insights](http://www.amazon.ca/Interviewing-Users-Uncover-Compelling-Insights-ebook/dp/B00CEKR872)
 
-#### Technology Setup
-
-#### Finding Help
-
 ## Workshop
 
 ## 1. Secondary Research
@@ -89,11 +85,10 @@ Participants will learn to create an interview guide, which includes creating ma
 
 #####To complete this section:
 
-* Embrace How Other People See the World ! Read Chapter 2 of your book "Interviewing Users", and ensure you can answer these self-assessment questions.
-* Read Chapter 3 of your book "Interviewing Users".
-* Create Screening List: Remix this Thimble template or another shareable format of your choice.
-* Using a shareable format of your choice, create a field guide for the "Large Screen Experience". Check Figure 3.5 in your book for an example.
-* Share links to your work (and anything else you want to share), on Discourse for this weeks topic.
+* Embrace How Other People See the World ! Read Chapter 2 & 3 of our book.
+* Create Screening List.
+* Using a shareable format of your choice, create a field guide for the "IoT and Mozilla". Check Figure 3.5 in your book for an example.
+* [Share links to your work]("https://discourse.mozilla-community.org/t/interviewing-users-for-mozilla-interview-planning/2229) (and anything else you want to share), on Discourse for this weeks topic.
 
 ### Self Assessment
 
@@ -106,15 +101,53 @@ Participants will learn to create an interview guide, which includes creating ma
 * Thinking about people in your life, what ways do you already use to help put people at ease ? How can you extend those same skills to interviewing?
 
 
-
-
 ## 3. Interviewing Techniques
 
 This week we'll learn about and practice our interviewing skills while challenging ourselves to improve on our questions, timing and other aspects of a 'good interviewer'.
 
+> Interviewing involves more than just interviewing! It is absolutely the core of the interaction with your participant, but there are other techniques (or if you prefer, methods; or if you really prefer, methodologies). You should consider the interview itself as a platform and try to organically integrate a larger set of techniques.
+
+#### Activity
+
+In your book:
+
+* Read Chapter 5 “ Key Stages of the Interview ".
+* Read Chapter 6 “ How to Ask Questions ”.
+* [Watch this](https://www.youtube.com/watch?v=pRv6chJqUwc) or any other User Research interview, and see if you can identify some of the techniques you've heard about - or suggest ways the interviewer could improve.
+
+> <i class="fa fa-magic"></i> Although some content in this week's activities covers 'partnering with other for an interview', we won't specifically focus on team interviewing in this course.
+
+#### Bonus Reading
+
+* [Never Ask What They Want - 3 Better Questions to Ask in User Interviews](https://medium.com/user-research/never-ask-what-they-want-3-better-questions-to-ask-in-user-interviews-aeddd2a2101e#.6gp9d4wx2)
+
 ## 4. First Interview!
 
 This week will will provide participants with 'learn by doing' experience through of executing a final interview supported by learning resources, team mentoring and a final evaluation.
+
+ >On one level, documentation is how you capture the definitive, fully detailed record of the interview (the “data”). On another level, it’s how you, as the interviewer, make the 'ah-has' and other important take-aways stick. While doing this, you have to stay engaged with the participant. Beyond that, documentation also bleeds into the sense making and storytelling that follow fieldwork. - [Interviewing Users](http://rosenfeldmedia.com/books/interviewing-users/)
+
+ You've gone through secondary research, planned an interview and tested your emerging skills on willing friends or family. You're finally here - this week you'll conduct your first real interview!
+
+> <i class="fa fa-magic"></i>What can you tell Mozilla about the Large Screen Experience from the perspective of your interviewee?
+
+
+#####Activities
+
+* Read Chapter 7 “ Documenting the Interview ".
+* Read Chapter 9 “ Making an Impact with your Research ”.
+* Do it! Go out and conduct a real-live interview!
+* Try to select someone who is not like you (different location, age, background), and thus can provide you with new insights.
+Share the results on [Discourse](https://discourse.mozilla-community.org/t/your-first-interview/2348)
+
+##### Self Assesssment
+
+* I have a good sense of how to take notes, and how I will video or record the interview.
+* I understand best practices for photographing the interview, if I decide to do that.
+* I understand the importance and best practices for interview debriefing.
+* I understand the difference between descriptive and interpretive note taking.
+* I understand what a topline report is.
+
 
 ## Wrap-Up
 
