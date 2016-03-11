@@ -113,7 +113,7 @@ In your book:
 
 * Read Chapter 5 “ Key Stages of the Interview ".
 * Read Chapter 6 “ How to Ask Questions ”.
-* [Watch this](https://www.youtube.com/watch?v=pRv6chJqUwc) or any other User Research interview, and see if you can identify some of the techniques you've heard about - or suggest ways the interviewer could improve.
+* [Watch these](https://www.youtube.com/watch?v=9t-_hYjAKww) examples of poorly, and well done interview examples.
 
 > <i class="fa fa-magic"></i> Although some content in this week's activities covers 'partnering with other for an interview', we won't specifically focus on team interviewing in this course.
 
