@@ -9,17 +9,23 @@ The goal of this portal is to connect you with clear ways to:
 
 ## Contributing Resources
 
-If you are in any stage of development, or testing resources that you think can benefit or compliment existing content. Please fill out [this form]() to let us know about it.
+If you are in any stage of development, or testing resources that you think can benefit or compliment existing content. Please fill out [this form]() to let us know. (full list of resources coming soon).
 
 ## Requesting Resources
 
-We have an [ever-increasing](http://education.mozilla-community.org/) library of quality [learning and leading](http://emmairwin.github.io/) resources.
+We have an [growing](http://education.mozilla-community.org/) library of quality, tested [learning and leading](http://emmairwin.github.io/) resources. Our library includes even more content still in draft, or testing phases.  It's a daunting task to navigate - we get that.  To help, we've designed a light-weight process to help connect you with the content you need, faster.
 
-Please fill out this simple form to launch a discovery process that will ask you a few key questions about your learning objectives.  We'll respond quickly with proposals/suggestions  - some examples might be how you might:
+#### Process
 
-* Use existing and tested content (like [Design Thinking](http://mozilla.github.io/participation-curriculum/design-thinking/index.html#))
-* Evolve existing content like (Like [Your First Pull Request](http://emmairwin.github.io/2015-02-26-your-first-pull-reqest/)).
-* Break out one component of an existing course (like [secondary research](http://mozilla.github.io/participation-curriculum/interviewing-users-for-mozilla/index.html#1-secondary-research)).
+1. Please fill out [this simple form] to launch a discovery process that will ask you a few key questions about your learning objectives.  
+2. I'll respond with a proposal using one or more of the content-scenerios below for feedback.
+3. If you want to move forward, with our proposal, I'll schedule a quick call to review.
+
+##### Content Scenerios
+
+* Existing content (like [Design Thinking](http://mozilla.github.io/participation-curriculum/design-thinking/index.html#))
+* Fork of existing content for slightly different outcomes (Like [Your First Pull Request](http://emmairwin.github.io/2015-02-26-your-first-pull-reqest/)).
+*  'Break Out' content from a bigger course into it's own workshop. (like [secondary research](http://mozilla.github.io/participation-curriculum/interviewing-users-for-mozilla/index.html#1-secondary-research)).
 * Build on an existing draft (like [Building Bridges to Mozilla](https://docs.google.com/presentation/d/1US8gLMoucaRH46pOZIHSHyrAU4v18iU289rOEH_GDr0/edit#slide=id.g10738dd625_0_0)).
 * Create something new.
 
