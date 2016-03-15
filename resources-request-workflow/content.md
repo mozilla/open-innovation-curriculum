@@ -21,7 +21,7 @@ We have an [growing](http://education.mozilla-community.org/) library of quality
 2. I'll respond with a proposal using one or more of the content-scenerios below for feedback.
 3. If you want to move forward, with our proposal, I'll schedule a quick call to review.
 
-##### Content Scenerios
+##### Content Scenarios
 
 * Existing content (like [Design Thinking](http://mozilla.github.io/participation-curriculum/design-thinking/index.html#))
 * Fork of existing content for slightly different outcomes (Like [Your First Pull Request](http://emmairwin.github.io/2015-02-26-your-first-pull-reqest/)).
