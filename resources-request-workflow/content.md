@@ -1,5 +1,5 @@
 # Learning Resources Request Portal
-![portal](https://c1.staticflickr.com/5/4024/4705811372_f41a14ca64_z.jpg)
+![portal](https://c1.staticflickr.com/5/4024/4705811372_f41a14ca64.jpg)
 
 The goal of this portal is to provide a clear and easy way to:
 
