@@ -1,12 +1,11 @@
-# Learning Resources Request Portal
+# Learning & Leading Learning Resources
 ![portal](https://c1.staticflickr.com/5/4024/4705811372_f41a14ca64.jpg)
 
-The goal of this portal is to provide a clear and easy way to:
+The goal of this portal is to connect you with clear ways to:
 
-* Request learning resources
-* Inquire about existing resources
+* Request 'learning and leading' resources (new or existing)
 * Test and give feedback on existing resources
-* Contribute learning resources
+* Contribute 'learning and leading' resources
 
 ## Contributing Resources
 
