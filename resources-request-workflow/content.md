@@ -1,21 +1,19 @@
-# Learning & Leading Learning Resources
+# Learning & Leading Resources
 ![portal](https://c1.staticflickr.com/5/4024/4705811372_f41a14ca64.jpg)
 
 The goal of this portal is to connect you with clear ways to:
 
-* Request 'learning and leading' resources (new or existing)
-* Test and give feedback on existing resources
-* Contribute 'learning and leading' resources
+* Request 'learning and leading' resources (new or existing).
+* Test and give feedback on existing resources.
+* Contribute 'learning and leading' resources.
 
 ## Contributing Resources
 
-If you are in any stage of development, or testing resources that you think can benefit others, or compliment existing content. Please fill out [this form]().
+If you are in any stage of development, or testing resources that you think can benefit or compliment existing content. Please fill out [this form]() to let us know about it.
 
 ## Requesting Resources
 
-We have an [ever-increasing](http://education.mozilla-community.org/) number of quality [learning and leading](http://emmairwin.github.io/) resources.
-
-It's daunting t
+We have an [ever-increasing](http://education.mozilla-community.org/) library of quality [learning and leading](http://emmairwin.github.io/) resources.
 
 Please fill out this simple form to launch a discovery process that will ask you a few key questions about your learning objectives.  We'll respond quickly with proposals/suggestions  - some examples might be how you might:
 
