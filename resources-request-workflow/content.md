@@ -22,7 +22,7 @@ To help connect people with goals for community learning, with resources and ide
 
 * And will evolve this based on feedback.
 
-##### Content Scenarios
+##### Content Scenarios 
 
 * Existing content (like [Design Thinking](http://mozilla.github.io/participation-curriculum/design-thinking/index.html#))
 * Fork of existing content for slightly different outcomes (Like [Your First Pull Request](http://emmairwin.github.io/2015-02-26-your-first-pull-reqest/)).
