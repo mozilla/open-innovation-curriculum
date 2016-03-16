@@ -1,4 +1,4 @@
-# Learning & Leading Resource Portal
+#  <i class="fa fa-book"></i>Learning & Leading Resource Portal
 ![portal](https://c1.staticflickr.com/5/4024/4705811372_f41a14ca64.jpg)
 
 The goal of this page is to better connect those at Mozilla in need of learning & leading curriculum with the information, resources and support they need to be successful in reaching their goals for community through learning experiences.
@@ -26,11 +26,9 @@ A proposal will likely contain one or more of the following suggestions for cura
 * CC licensed OER content suggestions.
 * Proposal for new content.
 
-
 ## Contributing Resources
 
 If you are in any stage of development, or testing resources that you think can benefit or compliment existing content. Please fill out [this form]() to let us know. (full list of resources coming soon).
-
 
 ## Testing Resources
 
