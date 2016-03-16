@@ -7,7 +7,7 @@ The goal of this page is to better connect those at Mozilla in need of learning 
 * An opportunity to collaboratively test and improve existing resources in various stages of development.
 * Connect your work/resources and ideas with others who might be working on similar learning outcomes.
 
-## Requesting Resources
+## Discovery
 
 We have a [growing](http://education.mozilla-community.org/) library of quality, tested [learning and leading](http://emmairwin.github.io/) resources. Our library includes even more content still in draft, or testing phases.  
 
