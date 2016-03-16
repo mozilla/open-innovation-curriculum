@@ -3,7 +3,6 @@
 
 The goal of this page is to better connect those at Mozilla in need of learning & leading curriculum with the information, resources and support they need to be successful in reaching their goals for community through learning experiences.
 
-
 * A personalized guide for discovering existing learning & leading resources.
 * An opportunity to collaboratively test and improve existing resources in various stages of development.
 * Connect your work/resources and ideas with others who might be working on similar learning outcomes.
@@ -12,11 +11,9 @@ The goal of this page is to better connect those at Mozilla in need of learning 
 
 We have a [growing](http://education.mozilla-community.org/) library of quality, tested [learning and leading](http://emmairwin.github.io/) resources. Our library includes even more content still in draft, or testing phases.  
 
-To begin the discovery process please fill out this [simple form]()
+**To begin the discovery process please fill out this [simple form]()**
 
 I'll respond with a proposal of content ideas, and suggestions based on the content scenarios listed below.
-
-* And will evolve this based on feedback.
 
 ##### Content Scenarios
 
