@@ -13,11 +13,13 @@ This process seeks to better understand your goals for learning outcomes related
 
 ##### Example Scenarios
 
-* Leverage content (like [Design Thinking](http://mozilla.github.io/participation-curriculum/design-thinking/index.html#))
-* Fork of existing content for modified outcomes (Like [Your First Pull Request](http://emmairwin.github.io/2015-02-26-your-first-pull-reqest/)).
+A proposal might consist of one or more of these scenarios:
+
+* Existing content (like [Design Thinking](http://mozilla.github.io/participation-curriculum/design-thinking/index.html#))
+* Proposed fork/branch of existing content for modified outcomes (Like [Your First Pull Request](http://emmairwin.github.io/2015-02-26-your-first-pull-reqest/)).
 *  'Breaking out' content from a bigger course into it's own workshop. (like [secondary research](http://mozilla.github.io/participation-curriculum/interviewing-users-for-mozilla/index.html#1-secondary-research)).
-* Build on an existing draft (like [Building Bridges to Mozilla](https://docs.google.com/presentation/d/1US8gLMoucaRH46pOZIHSHyrAU4v18iU289rOEH_GDr0/edit#slide=id.g10738dd625_0_0)).
-* Available CC licensed OER content use.
+* Evolve and test an existing draft (like [Building Bridges to Mozilla](https://docs.google.com/presentation/d/1US8gLMoucaRH46pOZIHSHyrAU4v18iU289rOEH_GDr0/edit#slide=id.g10738dd625_0_0)).
+* Use available CC licensed OER content use.
 * Proposal for new content.
 
 ## Contributing Resources
