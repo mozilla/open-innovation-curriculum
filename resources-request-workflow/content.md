@@ -7,7 +7,7 @@ The goal of this portal is to better connect those in need of learning & leading
 
 We have a [growing](http://education.mozilla-community.org/) library of quality, tested [learning and leading](http://emmairwin.github.io/) resources. Our library includes even more content still in draft, or testing phases.
 
-This process seeks to better understand your goals for learning outcomes related to community leadership development and then make recommendations for developing that content. Example scenerios listed below.
+This process seeks to better understand your goals for learning outcomes related to community leadership development and then make recommendations for developing that content. Example scenarios listed below.
 
 **To begin the discovery process please fill out this [simple form](https://docs.google.com/forms/d/1jCy-e9n4qf2BSIs7wWFHcUYigAnJu3JHKA4TbA1OXoI/viewform)**
 
