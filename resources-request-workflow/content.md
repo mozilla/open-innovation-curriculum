@@ -1,4 +1,4 @@
-#  <i class="fa fa-book"></i> Learning & Leading Resource Portal
+#  <i class="fa fa-book"></i> Learning & Leading Resource Discovery
 ![portal](https://c1.staticflickr.com/5/4024/4705811372_f41a14ca64.jpg)
 
 The goal of this portal is to better connect those in need of learning & leading curriculum with existing resources, opportunity and ideas that will improve overall quality of outcomes through regular iteration on feedback.
