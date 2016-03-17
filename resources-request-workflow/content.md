@@ -1,23 +1,17 @@
-#  <i class="fa fa-book"></i>Learning & Leading Resource Portal
+#  <i class="fa fa-book"></i> Learning & Leading Resource Portal
 ![portal](https://c1.staticflickr.com/5/4024/4705811372_f41a14ca64.jpg)
 
-The goal of this page is to better connect those at Mozilla in need of learning & leading curriculum with the information, resources and support they need to be successful in reaching their goals for community through learning experiences.
+The goal of this portal is to better connect those in need of learning & leading curriculum with existing resources, opportunity and ideas that will improve overall quality of outcomes through regular iteration on feedback.
 
-* A personalized guide for discovering existing learning & leading resources.
-* An opportunity to collaboratively test and improve existing resources in various stages of development.
-* Connect your work/resources and ideas with others who might be working on similar learning outcomes.
+## Discovery Process
 
-## Discovery
+We have a [growing](http://education.mozilla-community.org/) library of quality, tested [learning and leading](http://emmairwin.github.io/) resources. Our library includes even more content still in draft, or testing phases.
 
-We have a [growing](http://education.mozilla-community.org/) library of quality, tested [learning and leading](http://emmairwin.github.io/) resources. Our library includes even more content still in draft, or testing phases.  
+This process seeks to better understand your goals for learning outcomes related to community leadership development and then make recommendations for developing that content. Example scenerios listed below.
 
-**To begin the discovery process please fill out this [simple form]()**
+**To begin the discovery process please fill out this [simple form](https://docs.google.com/forms/d/1jCy-e9n4qf2BSIs7wWFHcUYigAnJu3JHKA4TbA1OXoI/viewform)**
 
-I'll respond with a proposal of content ideas, and suggestions based on the content scenarios listed below.
-
-##### Content Scenarios
-
-A proposal will likely contain one or more of the following suggestions for curating learning content.
+##### Example Scenarios
 
 * Existing content (like [Design Thinking](http://mozilla.github.io/participation-curriculum/design-thinking/index.html#))
 * Fork of existing content for slightly different outcomes (Like [Your First Pull Request](http://emmairwin.github.io/2015-02-26-your-first-pull-reqest/)).
@@ -28,11 +22,13 @@ A proposal will likely contain one or more of the following suggestions for cura
 
 ## Contributing Resources
 
-If you are in any stage of development, or testing resources that you think can benefit or compliment existing content. Please fill out [this form]() to let us know. (full list of resources coming soon).
+If you are in any stage of development, or testing resources that you think can benefit or compliment existing content. Please [fill out this form](), or submit a [pull request to this list](https://github.com/mozilla/participation-curriculum/blob/master/curriculum-list.md).
+
+NOTE:  Mozilla is working on a database for curriculum , this is temporary way to track.
 
 ## Testing Resources
 
-Testing & feedback are core to creating a library of quality resources.  Please fill out this form to provide feedback on any content you.  All suggestions will be considered and implemented in either the original content, or a branched version.
+Testing & feedback are core to creating a library of quality resources. All feedback will be considered and implemented in either the original content, or a branched version (as prioritized).
 
 ***
 
