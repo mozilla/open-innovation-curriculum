@@ -1,5 +1,5 @@
 #  <i class="fa fa-book"></i> Learning & Leading  ~  Discovery
-![portal](https://c1.staticflickr.com/5/4024/4705811372_f41a14ca64.jpg)
+![portal](http://www.socialcoding4good.org/sites/default/files/2183012117_ee8eae65e8_o.jpg)
 
 The goal of this process is to better support those with *learning* in their project goals with a supportive, inclusive, iterative design process for benefit of quality outcomes.
 
@@ -19,4 +19,4 @@ Recommendations and solutions might be (but are not limited to) :
 
 ***
 
-Pencils by [Brett Jordan](https://www.flickr.com/photos/x1brett/)
+Pencils by [monkeymagic1975](https://www.flickr.com/photos/monkeymagic1975/)
