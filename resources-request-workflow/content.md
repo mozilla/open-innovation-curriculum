@@ -12,6 +12,8 @@ Recommendations and solutions might be (but are not limited to) :
 * Assessment
 * Testing playbook
 * Existing OER recommendations
+* Facilitator training
+* Learning event design
 * Collaborator recommendations (connection with similar initiatives)
 
 **To begin the discovery process please fill out this [simple form](https://docs.google.com/forms/d/1jCy-e9n4qf2BSIs7wWFHcUYigAnJu3JHKA4TbA1OXoI/viewform)**
