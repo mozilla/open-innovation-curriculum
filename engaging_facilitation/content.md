@@ -11,6 +11,7 @@ With this in mind, here’s a guide for developing sessions that focus on superc
 ### Visualize Your Audience & Set Personal Goals
 
 ![engagingfacilitation](images/image00.jpg)
+
 ** [Dreambeat Toronto](https://www.flickr.com/photos/marksurman/) by Mark Surman CC BY 2.0**
 
 Even with excellent content, facilitators can miss their mark. Visualization and goal setting with your audience in mind will help set you up for success. 
@@ -176,6 +177,7 @@ Keep responses in mind as valuable insight for the rest of the session.
 ## Group Strengthening
 
 ![engagingfacilitation](images/image05.jpg)
+
 [Group Photo](https://www.flickr.com/photos/bobchao/) by Bob Chao CC BY-SA 2.0
 
 As people work in groups, they tend to take on certain group roles. Some people will fill many roles, whereas some might stick closely to one or two. As you observe the group, ask yourself which roles are being filled and which roles might be lacking.
