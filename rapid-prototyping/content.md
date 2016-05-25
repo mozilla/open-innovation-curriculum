@@ -27,7 +27,7 @@ This workshop lends to a diversity of skill-sets, interested in moving towards a
 
 ## Materials & Prep-Work
 
-* Paper in 3 sizes
+* Paper in 3 sizes  (!!!!! Important)
 * Stapler (1 for every 5 people)
 * Staples (plenty)
 * Tape
@@ -75,14 +75,14 @@ This workshop is based on a talk by Tom Chi.  Tom Chi co-founded GoogleX, the se
 
 Before we get started, I'm giving you your first design challenge! Using a pencil and paper, document the steps needed to build the best, fastest most attractive paper plane possible - and describe the technique needed to fly it properly.  
 
-You have 5 minutes to build, what you feel is a solid design for the fastest paper airplane.
+You have 3 minutes to build, what you feel is a solid design for the fastest paper airplane.  Go!
 
-> You will have one piece of paper, a stapler, and tape. And go!  (time for 5 minutes)
+* You cannot work in teams
+* You cannot seek opinion or advice
+* You cannot copy others
+* It's OK if this is your first paper airplane :)
 
-Once everyone has completed their design:
-
-*  Ask who feels they have the solid design?
-*  Ask them to hand them to set those aside for now.
+Ask everyone to put their names on the paper airplanes, and set their designs aside, we will revisit these later.
 
 ## 1. Guessing vrs Direct Experience
 
@@ -100,7 +100,7 @@ Options are not proof.
 
 #### Activity
 
-Our goal is to build the fastest paper airplane, but we first need to answer a question - of the three available paper 'shapes'm wgucg is ideal for building paper airplanes?
+Our goal is to build the fastest paper airplane, but we first need to answer a question - of the three available paper 'shapes' is ideal for building paper airplanes?
 
 Form groups of three, to discuss this question for 2 minutes:
 
@@ -120,7 +120,7 @@ Provide each group with one sheet of each sized paper. In each group:
 * Ask someone to self-nominate as the 'paper plane tester'.
 * Ask someone to self-nominate as the 'success tracker'.
 
-Give each group, 3 minutes to create and test 3 airplanes that test which paper is best. Less direction is better, let the group experiment with however they want to design for each paper-type.
+Give each group, 15 minutes to create and test 3 airplanes that test which paper is best. Less direction is better, let the group experiment with however they want to design for each paper-type.
 
 > <i class="fa fa-magic"></i> State ground rules for orderly testing of planes.
 
@@ -143,7 +143,6 @@ When time is up, ask the following questions:
 ![toolchain](https://c2.staticflickr.com/6/5026/5868030982_f3bb316acd.jpg)
 
 >Key Message: Adaptability tested through rapid toolchain testing, is a valuable alternative to engineering for scaling and efficiency.
-
 
 We spend a lot of time designing for scalability and efficiency - with pure focus on these items.  Rapid prototyping, focuses on designing for adaptability.
 
