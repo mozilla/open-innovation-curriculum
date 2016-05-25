@@ -18,12 +18,12 @@ This workshop has the best results when the right preparation is done in advance
 #### Learning Objectives
 
 * The difference between 'guessing' and 'direct experience' in product innovation, and how each impacts progress differently.
-* The difference between Adaptability vs. Efficiency in iterating through ideas to find the best.
+* The difference between 'adabibility vs. 'effeciency' in iterating through ideas to find the best.
 * Why 'staying in your medium', when you create and invent
 
 #### Who Can Benefit From This Workshop?
 
-This workshop lends to a diversity of skill-sets, interested in moving towards an innovative goal, more quickly and with greater outcomes.
+This workshop lends to a diversity of skill-sets, interested in moving towards an innovative goal, more quickly and with better outcomes.
 
 ## Materials & Prep-Work
 
