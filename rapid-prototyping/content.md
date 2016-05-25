@@ -75,13 +75,9 @@ This workshop is based on a talk by Tom Chi.  Tom Chi co-founded GoogleX, the se
 
 Before we get started, I'm giving you your first design challenge! Using a pencil and paper, document the steps needed to build the best, fastest most attractive paper plane possible - and describe the technique needed to fly it properly.  
 
-You have only one piece of paper, and it's the one you will be writing your instructions for.  You have 5 minutes to consider your design with these considerations:
+You have 5 minutes to build, what you feel is a solid design for the fastest paper airplane.
 
-1. You will have one piece of paper, a stapler, and tape.
-2. Your airplane needs to go the farthest to win.
-3. Someone else needs to be able to follow your instructions.
-
-And go!  (time for 5 minutes)
+> You will have one piece of paper, a stapler, and tape. And go!  (time for 5 minutes)
 
 Once everyone has completed their design:
 
