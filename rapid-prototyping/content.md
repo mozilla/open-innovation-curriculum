@@ -202,7 +202,24 @@ Development teaches you, how to go narrow and deep on specific things to focus o
 
 Research is literally the opposite. Research is the shortest amount of time, where your goal is to hit the widest number of outcomes.
 
-#### TODO Activity (creating 150 planes to see which is best?)
+### Activity
+
+* On paper and with as few words as possible sketch out how you would bring your paper plane to  market.    (3 minutes)
+* Share your entire sketch with your partner. (2 minutes)
+* Ask your partner for feedback on one specific part of your  design. (3 minutes)
+* Switch partners with someone else - and ask for their feedback on the same specific part of your design (3 minutes)
+* Switch partners one more time, and get even more feedback.
+
+
+#### Discussion
+
+Ask people to consider these questions, and raise their hand if they had any thoughts...
+
+1. Imagine you took your first design for 'paper plane market' to market.  How much diferent would it be without that specific research?
+2. How can you build in research to development processes?
+
+* NOTE: Development doens't have to been technical.
+
 
 ## 5. Improve Your Runtime
 
