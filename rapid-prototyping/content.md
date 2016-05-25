@@ -33,6 +33,7 @@ This workshop lends to a diversity of skill-sets, interested in moving towards a
 * Tape
 * Masking Tape (2 rolls)
 * Pencils
+* [Slide Deck](https://docs.google.com/presentation/d/1R_d_WRWU9PbBzGHLnjsvnusI_C6nDCCK8vNM6cpqWO8/edit#slide=id.g1428b0421d_2_166)
 
 #### Outreach & Communication
 
@@ -231,22 +232,17 @@ A lot of time we stop improving, because we get stuck on 'good enough'.  The thi
 
 > <i class="fa fa-magic"></i>  Share Tom's Story about learning the cello, or share your own story about goal setting for improvement (whether it's new or inspired).  
 
-#### TODO Activity What can you measure about your work, or processes to challange yourself to improve.
-
-## Wrap-Up
 
 ![wrap](https://c2.staticflickr.com/2/1097/4732115037_ddeeaf8c59.jpg)
 
-Ask people to revisit the plane-design they drafted in the very first part of the workshop.
-Ask:
+Ask people to  grab their orginal paper plane.
 
-* Would you draw this the same way now?
-* How would you change your design steps?
-* Knowing what you know now, what questions would you have asked me, or others before you started on this design?
+Wrapping-up, ask people how they think they can apply what they've learned to goals they already have for innovating, improving or inventing. How would you change your approach to making this plane with your new knowledge of Rapid Prototyping?
 
+Take 2 minutes to improve your plane based on what you've learned!
 
 
-Use wrap-up to ask people how they think they can apply what they've learned to goals they already have for innovating, improving or inventing.   
+
 
 
 ****
